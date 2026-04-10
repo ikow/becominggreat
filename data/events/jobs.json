@@ -1,0 +1,2727 @@
+[
+  {
+    "id": "jobs-1955-02-24-birth",
+    "person_id": "jobs",
+    "date": "1955-02-24",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于旧金山",
+    "title_en": "Born in San Francisco",
+    "summary": "生母为未婚研究生 Joanne Schieble，生父为叙利亚裔学者 Abdulfattah Jandali。出生后被 Paul 和 Clara Jobs 夫妇收养。",
+    "location": "San Francisco, CA",
+    "key": true,
+    "tags": [
+      "出生",
+      "家庭"
+    ],
+    "sources": [],
+    "source_hints": "Walter Isaacson《Steve Jobs》第 1 章；尚未找到稳定的一手在线资料",
+    "summary_en": "Born to graduate student Joanne Schieble and Syrian-born academic Abdulfattah Jandali, then placed for adoption with Paul and Clara Jobs the same year."
+  },
+  {
+    "id": "jobs-1968-hewlett-call",
+    "person_id": "jobs",
+    "date": "1968-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "12 岁打电话给 Bill Hewlett 要零件",
+    "title_en": "Cold-calls Bill Hewlett at age 12",
+    "summary": "12 岁的乔布斯想做一个频率计，缺零件，就从电话簿里翻出 HP 联合创始人 Bill Hewlett 的家里电话直接打过去。Hewlett 接了，跟他聊了 20 分钟，不仅给了零件，还在那年夏天给了他一份 HP 流水线上的暑期工。乔布斯后来反复用这件事讲一个观点：大多数人不去争取，是因为他们从来不开口要。",
+    "location": "Mountain View, CA",
+    "key": true,
+    "tags": [
+      "童年",
+      "经典语录"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-hewlett-call",
+        "url": "https://www.cnbc.com/2018/07/25/how-steve-jobs-cold-called-his-way-to-an-internship-at-hewlett-packard.html",
+        "kind": "article",
+        "title": "How a cold call helped a young Steve Jobs score his first internship at Hewlett-Packard",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Hi, I'm Steve Jobs, I'm twelve years old. I am a student in high school, and I want to build a frequency counter and I was wondering if you had any spare parts I could have.",
+            "text_zh": "你好，我叫 Steve Jobs，12 岁，我是一名高中生。我想做一个频率计，不知道您有没有多余的零件可以给我。",
+            "speaker": "Steve Jobs",
+            "context": "12 岁的乔布斯打电话给 HP 联合创始人 Bill Hewlett 时的开场白。Hewlett 笑了，给了他零件，还给了他一个 HP 暑期工"
+          }
+        ]
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At twelve, Jobs needed parts to build a frequency counter, so he looked up HP co-founder Bill Hewlett's home number in the phone book and called him directly. Hewlett picked up, chatted with the boy for twenty minutes, mailed him the parts, and gave him a summer job on the HP assembly line. Jobs cited the episode for the rest of his life to make a single point: most people never get what they want because they never ask."
+  },
+  {
+    "id": "jobs-1972-09-reed-college",
+    "person_id": "jobs",
+    "date": "1972-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "进入 Reed College 一学期后退学，旁听书法课",
+    "title_en": "Enters Reed College, drops out after one semester",
+    "summary": "1972 年秋季入读 Oregon 的 Reed College——一所学费昂贵的文理学院。养父母把全部积蓄都拿出来给他付学费。一个学期后他主动退学，但又在校园里旁听了 18 个月，其中最重要的一门是 Trappist 修道士 Robert Palladino 教授的西方书法课。十年后，这门课变成了 Macintosh 第一次让大众电脑拥有了真正的字体排印（typography）。",
+    "location": "Reed College, Portland, OR",
+    "key": true,
+    "tags": [
+      "求学",
+      "书法",
+      "Reed"
+    ],
+    "sources": [
+      {
+        "id": "reed-jobs-page",
+        "url": "https://www.reed.edu/about/steve-jobs.html",
+        "kind": "article",
+        "title": "Steve Jobs and Reed College",
+        "publisher": "Reed College",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "reed-magazine-jobs-obit",
+        "url": "https://www.reed.edu/reed-magazine/in-memoriam/obituaries/december2011/steve-jobs-1976.html",
+        "kind": "article",
+        "title": "Steve Jobs '76 (In Memoriam)",
+        "publisher": "Reed Magazine",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "In the fall of 1972 Jobs enrolled at Reed College in Oregon, an expensive liberal-arts school his adoptive parents spent their entire savings to afford. He dropped out after one semester but hung around campus for another eighteen months, auditing classes — most crucially a Western calligraphy course taught by Trappist monk Robert Palladino. A decade later, that course became the reason the Macintosh was the first mass-market computer with real typography."
+  },
+  {
+    "id": "jobs-1974-india",
+    "person_id": "jobs",
+    "date": "1974-07-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "印度之行寻找精神导师",
+    "title_en": "Travels to India seeking spiritual teacher",
+    "summary": "受 Reed 校友 Robert Friedland 影响，乔布斯和 Daniel Kottke 飞往印度，去 Kainchi 山的 Neem Karoli Baba 修行所朝圣。但他们到的时候，大师已经在 1973 年 9 月去世，修行所几乎空无一人。两人在印度待了七个月，剃了光头穿当地长袍，体验贫困和饥饿。乔布斯回美后认为东方哲学比西方理性主义更接近真理——这种感受塑造了他后来对设计的简约和直觉的偏执。",
+    "location": "Kainchi, India",
+    "key": true,
+    "tags": [
+      "印度",
+      "禅",
+      "精神探索"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-jobs-bio",
+        "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "kind": "article",
+        "title": "Steve Jobs (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Isaacson 传记第 4 章；Daniel Kottke 后来的回忆录",
+    "summary_en": "Influenced by Reed alumnus Robert Friedland, Jobs and Daniel Kottke flew to India on a pilgrimage to the ashram of Neem Karoli Baba in the Kainchi hills. By the time they arrived, the guru had been dead since September 1973 and the ashram was nearly empty. The two spent seven months in India, shaving their heads, wearing local robes, and experiencing poverty and hunger firsthand. Jobs returned convinced that Eastern intuition was closer to truth than Western rationalism — a conviction that would shape his obsessive pursuit of simplicity and instinct in design."
+  },
+  {
+    "id": "jobs-1976-04-01-apple-founded",
+    "person_id": "jobs",
+    "date": "1976-04-01",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "与 Wozniak、Wayne 共同创立 Apple Computer Company",
+    "title_en": "Founds Apple Computer Company with Wozniak and Wayne",
+    "summary": "在养父母位于 Los Altos 的家中创立 Apple。Ronald Wayne 持股 10%，11 天后以 800 美元退出。第一款产品 Apple I 售价 666.66 美元。",
+    "location": "Los Altos, CA",
+    "key": true,
+    "tags": [
+      "Apple",
+      "创业"
+    ],
+    "sources": [
+      {
+        "id": "chm-apple-timeline",
+        "url": "https://computerhistory.org/apple-timeline/",
+        "kind": "article",
+        "title": "Apple Timeline",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=k6Fvn5BTvDw"
+      },
+      {
+        "id": "loc-apple-founded",
+        "url": "https://guides.loc.gov/this-month-in-business-history/april/apple-computer-founded",
+        "kind": "article",
+        "title": "The Founding of Apple Computer, Inc.",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Wozniak《iWoz》自传",
+    "summary_en": "Founded Apple in his adoptive parents' Los Altos garage with Wozniak and Ronald Wayne. Wayne held 10% but withdrew 11 days later for $800. Their first product, the Apple I, sold for $666.66."
+  },
+  {
+    "id": "jobs-1977-04-apple-ii",
+    "person_id": "jobs",
+    "date": "1977-04-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "Apple II 在 West Coast Computer Faire 发布",
+    "title_en": "Apple II launched at West Coast Computer Faire",
+    "summary": "Apple II 是首批面向消费者的成功个人电脑之一，奠定了 Apple 早期的商业基础。",
+    "location": "San Francisco, CA",
+    "key": true,
+    "tags": [
+      "产品",
+      "Apple II"
+    ],
+    "sources": [
+      {
+        "id": "chm-apple-ii",
+        "url": "https://www.computerhistory.org/revolution/personal-computers/17/300",
+        "kind": "article",
+        "title": "The Apple II",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Byte Magazine 1977 报道",
+    "summary_en": "The Apple II, unveiled at the West Coast Computer Faire, was one of the first successful mass-market personal computers and established Apple's early commercial foundation."
+  },
+  {
+    "id": "jobs-1980-12-12-apple-ipo",
+    "person_id": "jobs",
+    "date": "1980-12-12",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Apple 上市",
+    "title_en": "Apple IPO",
+    "summary": "Apple 以每股 22 美元在纳斯达克上市，是自 1956 年福特上市以来最大规模的 IPO。25 岁的乔布斯身价超过 2 亿美元。",
+    "location": "NASDAQ",
+    "key": true,
+    "tags": [
+      "IPO",
+      "Apple"
+    ],
+    "sources": [
+      {
+        "id": "ipo-prospectus",
+        "url": "https://deramp.com/swtpc.com/Apple/Apple_IPO.pdf",
+        "kind": "document",
+        "title": "Apple Computer, Inc. IPO Prospectus (1980-12-12)",
+        "publisher": "Apple Computer, Inc. (archived by deramp.com)",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 1980 年首次公开募股的原始招股书 PDF（47 页）。第一页公布了 4,600,000 股普通股，每股 22 美元。这是自 1956 年福特汽车以来规模最大的 IPO，造就了硅谷第一批\"亿万富翁员工\"。SEC 公开提交的文件，属于公共领域。"
+      }
+    ],
+    "source_hints": "NYT 1980-12-13 头版报道",
+    "summary_en": "Apple went public on NASDAQ at $22 per share, the largest IPO since Ford in 1956. The 25-year-old Jobs was instantly worth over $200 million."
+  },
+  {
+    "id": "jobs-1981-04-10-abc-nightline",
+    "person_id": "jobs",
+    "date": "1981-04-10",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "ABC Nightline 与 Ted Koppel 访谈（首次重要电视露面）",
+    "title_en": "ABC Nightline interview with Ted Koppel",
+    "summary": "26 岁的乔布斯在 ABC 王牌新闻节目 Nightline 接受 Ted Koppel 采访。两个月前他还接受了 ABC 记者 Bob Brown 的拍摄（用于 20/20 节目，1981 年 5 月 28 日播出）。这是他第一次以 Apple 创始人身份在主流电视台亮相，谈个人电脑会如何改变办公室和家庭。当时 Apple II 大热，IBM PC 还没问世——他在镜头前显得既年轻又笃定。",
+    "location": "USA (national broadcast)",
+    "key": true,
+    "tags": [
+      "采访",
+      "电视",
+      "Nightline",
+      "早期"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-abc-nightline-1981",
+        "url": "https://allaboutstevejobs.com/verbatim/interviews/abc_nightline_1981",
+        "kind": "transcript",
+        "title": "ABC Nightline (1981)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=3H-Y-D3-j-M"
+      },
+      {
+        "id": "abc-news-jobs-1981",
+        "url": "https://abcnews.go.com/Technology/apple-40-steve-jobs-computers-1981/story?id=38064087",
+        "kind": "article",
+        "title": "Apple at 40: What Steve Jobs Said About Computers in 1981",
+        "publisher": "ABC News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "ABC News 在 Apple 40 周年时重新发表的 1981 年 Bob Brown 采访幕后录像。当时未播出的原始素材被 ABC 数字化后第一次公开。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The 26-year-old Jobs sat down with Ted Koppel on ABC's flagship news program Nightline. Two months earlier he had also been filmed by ABC correspondent Bob Brown for a 20/20 segment that aired May 28. It was his first appearance as Apple's co-founder on mainstream network television, discussing how the personal computer would transform offices and homes."
+  },
+  {
+    "id": "jobs-1982-02-15-time-cover",
+    "person_id": "jobs",
+    "date": "1982-02-15",
+    "date_precision": "day",
+    "type": "award",
+    "title": "首次登上 Time 封面",
+    "title_en": "First Time magazine cover",
+    "summary": "27 岁的乔布斯成为 Time 杂志 1982 年 2 月 15 日封面人物，专题《Striking It Rich》（暴富）讲美国新一代技术创业者。这是他第一次进入主流大众视野。年底 Time 又做\"年度风云人物\"，所有人都以为是乔布斯，结果 Time 选了\"个人电脑\"作为\"年度机器\"。乔布斯崩溃哭了——后来他把这件事讲了一辈子。",
+    "location": "USA (national publication)",
+    "key": true,
+    "tags": [
+      "Time",
+      "媒体"
+    ],
+    "sources": [
+      {
+        "id": "time-1982-cover",
+        "url": "https://content.time.com/time/covers/0,16641,19820215,00.html",
+        "kind": "image",
+        "title": "TIME Magazine Cover: Risk Takers (Feb. 15, 1982)",
+        "publisher": "Time",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cultofmac-1982-time-cover",
+        "url": "https://www.cultofmac.com/apple-history/steve-jobs-time-magazine-cover",
+        "kind": "article",
+        "title": "Steve Jobs appears on cover of 'Time'",
+        "publisher": "Cult of Mac",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The 27-year-old Jobs landed on the cover of Time's February 15, 1982 issue for a feature titled \"Striking It Rich,\" profiling a new generation of tech entrepreneurs. At year's end, Time prepared its \"Person of the Year\" and everyone expected Jobs — only for the magazine to name \"The Computer\" its \"Machine of the Year\" instead. Jobs broke down in tears."
+  },
+  {
+    "id": "jobs-1983-01-19-lisa",
+    "person_id": "jobs",
+    "date": "1983-01-19",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Apple Lisa 发布",
+    "title_en": "Apple Lisa launched",
+    "summary": "Apple 在年度股东大会上发布 Lisa——第一台面向商业用户的图形界面个人电脑，售价 9,995 美元。Lisa 在商业上失败，但定义了 GUI 在桌面电脑上的未来。乔布斯本人当时已被赶出 Lisa 项目，转而带领更小、更便宜的 Macintosh 团队，所以 Lisa 发布会上他几乎没有参与——这是导致他与 Sculley 的权力斗争开始的伏笔之一。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "Lisa",
+      "GUI",
+      "失败"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-apple-lisa",
+        "url": "https://en.wikipedia.org/wiki/Apple_Lisa",
+        "kind": "article",
+        "title": "Apple Lisa (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=psAeTDYezdo"
+      },
+      {
+        "id": "chm-apple-lisa",
+        "url": "https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/",
+        "kind": "article",
+        "title": "The Lisa: Apple's Most Influential Failure",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Apple unveiled the Lisa at its annual shareholders' meeting — the first commercial personal computer with a graphical user interface, priced at $9,995. The Lisa was a commercial failure but defined the future of GUI-based desktop computing. Jobs himself had already been pushed off the Lisa team and was leading the smaller, cheaper Macintosh project."
+  },
+  {
+    "id": "jobs-1983-04-sculley",
+    "person_id": "jobs",
+    "date": "1983-04-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "邀请 John Sculley 加入 Apple",
+    "title_en": "Recruits John Sculley to Apple",
+    "summary": "用著名的 \"Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?\" 一句话说服时任百事 CEO 的 Sculley 出任 Apple CEO。两年后正是此人将他赶出 Apple。",
+    "location": "New York, NY",
+    "key": true,
+    "tags": [
+      "招聘",
+      "经典语录"
+    ],
+    "sources": [],
+    "source_hints": "Sculley《Odyssey: Pepsi to Apple》自传第 8 章；Isaacson 传记第 11 章",
+    "summary_en": "Persuaded Pepsi CEO John Sculley to join Apple with the famous line: \"Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?\" Two years later it would be Sculley who forced Jobs out of the company."
+  },
+  {
+    "id": "jobs-1983-06-aspen-idca",
+    "person_id": "jobs",
+    "date": "1983-06-15",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在阿斯彭国际设计大会演讲",
+    "title_en": "Talk at the International Design Conference in Aspen (IDCA)",
+    "summary": "28 岁的乔布斯在 IDCA 1983 年度大会上演讲，主题是\"未来不再是过去的样子\"。他大量预言了无线网络、移动电脑、应用商店——所有这些都在 20 多年后变成了现实。原始录音长 20 分钟正式发言加 40 分钟问答。",
+    "location": "Aspen, CO",
+    "key": true,
+    "tags": [
+      "演讲",
+      "设计",
+      "前瞻",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "archive-aspen-1983",
+        "url": "https://archive.org/details/Talk-by-Steven-Jobs-IDCA-1983",
+        "media_url": "https://dn721603.ca.archive.org/0/items/Talk-by-Steven-Jobs-IDCA-1983/Talk-by-Steven-Jobs-IDCA-1983.m4a",
+        "kind": "audio",
+        "title": "Talk by Steven Jobs at the IDCA (1983)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Internet Archive 上保存的完整音频，包括原本未流出的 40 分钟问答环节。乔布斯描述\"我们有便携电脑、有无线电通讯，可以走在 Aspen 的街上下载邮件\"——1983 年的预言。"
+      },
+      {
+        "id": "stevejobsarchive-aspen-1983",
+        "url": "https://stevejobsarchive.com/stories/objects-of-our-life",
+        "kind": "article",
+        "title": "Objects of Our Life",
+        "publisher": "Steve Jobs Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Steve Jobs Archive 整理的官方页面，配合演讲音频和上下文背景。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The 28-year-old Jobs spoke at the 1983 International Design Conference in Aspen on the theme \"the future isn't what it used to be.\" He made sweeping predictions about wireless networking, portable computers, and an app-store-like distribution model — all of which came true more than two decades later."
+  },
+  {
+    "id": "jobs-1984-01-22-1984-ad",
+    "person_id": "jobs",
+    "date": "1984-01-22",
+    "date_precision": "day",
+    "type": "product",
+    "title": "\"1984\" 广告在第 18 届超级碗播出",
+    "title_en": "\"1984\" commercial airs during Super Bowl XVIII",
+    "summary": "由 Ridley Scott 执导的 60 秒广告，仅在全国范围播出一次，预告两天后的 Macintosh 发布。被广泛认为是史上最伟大的电视广告之一。",
+    "location": "USA (national broadcast)",
+    "key": true,
+    "tags": [
+      "广告",
+      "Macintosh",
+      "Ridley Scott"
+    ],
+    "sources": [
+      {
+        "id": "smithsonian-1984-ad",
+        "url": "https://americanhistory.si.edu/explore/stories/remembering-apples-1984-super-bowl-ad",
+        "kind": "article",
+        "title": "Remembering Apple's \"1984\" Super Bowl ad",
+        "publisher": "Smithsonian National Museum of American History",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-1984-ad-4k",
+        "url": "https://archive.org/details/youtube-ErwS24cBZPc",
+        "kind": "video",
+        "title": "4K Restoration: 1984 Super Bowl APPLE MACINTOSH Ad by Ridley Scott",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": 60,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "由 Retro Recipes 制作的 60 秒广告 4K 修复版，托管于 Internet Archive。原片由 Ridley Scott（《银翼杀手》导演）执导，制作费约 50 万美元，仅在 1984 年 1 月 22 日超级碗 XVIII 第三节播出过一次全国版本。"
+      },
+      {
+        "id": "wikipedia-1984-ad",
+        "url": "https://en.wikipedia.org/wiki/1984_(advertisement)",
+        "kind": "article",
+        "title": "1984 (advertisement)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The 60-second commercial directed by Ridley Scott aired during Super Bowl XVIII on national television exactly once, teasing the Macintosh launch two days later. Widely regarded as the greatest TV commercial ever made."
+  },
+  {
+    "id": "jobs-1984-01-24-mac-launch",
+    "person_id": "jobs",
+    "date": "1984-01-24",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Macintosh 发布",
+    "title_en": "Macintosh launched",
+    "summary": "在 Apple 股东大会上揭幕初代 Macintosh，机器从袋中取出后用合成语音自我介绍：\"Hello, I am Macintosh.\" 这是首款面向大众的图形界面电脑。",
+    "location": "Flint Center, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "Macintosh",
+      "Keynote",
+      "GUI"
+    ],
+    "sources": [
+      {
+        "id": "archive-1984-shareholders",
+        "url": "https://archive.org/details/1984complete",
+        "kind": "video",
+        "title": "Apple's Annual Shareholders Meeting in 1984 (full)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "1984 年 1 月 24 日 Flint Center 股东大会的完整录像。乔布斯首次公开揭幕 Macintosh，将机器从一个布袋中取出，按下软驱，机器用 MacInTalk 合成语音自我介绍。全场起立鼓掌五分钟。",
+        "quotes": [
+          {
+            "text": "Hello, I am Macintosh, and it sure is great to get out of that bag.",
+            "text_zh": "你好，我是 Macintosh。终于从那个袋子里出来，感觉真好。",
+            "speaker": "Macintosh (synthesized voice)",
+            "context": "初代 Mac 在 1984 股东大会上的第一句\"自我介绍\"，是史上第一台用合成语音直接\"开口说话\"的消费电脑"
+          }
+        ]
+      },
+      {
+        "id": "allaboutstevejobs-mac-launch",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/macintosh_introduction_1984",
+        "kind": "video",
+        "title": "Mac Introduction (1984-01-24)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=Onj8Mbc_-NA"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At Apple's annual shareholder meeting, Jobs unveiled the original Macintosh by pulling it from a bag, pressing the floppy drive, and letting the machine introduce itself in a synthesized voice: \"Hello, I am Macintosh.\" The first GUI-based personal computer to reach a mass audience."
+  },
+  {
+    "id": "jobs-1985-02-playboy-interview",
+    "person_id": "jobs",
+    "date": "1985-02-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "Playboy 杂志深度采访发表",
+    "title_en": "Playboy interview published",
+    "summary": "由 David Sheff 主持的长篇采访发表在 Playboy 1985 年 2 月号。这是 Mac 发布一年后、乔布斯被赶出 Apple 几个月前。采访长度足足 12 页，乔布斯谈论从童年到产品哲学到 Apple 内部斗争。是他生涯早期最坦率、信息量最大的一次访谈，许多后来反复被引用的早期金句都来自这里。",
+    "location": "USA (Playboy magazine)",
+    "key": true,
+    "tags": [
+      "采访",
+      "经典",
+      "早期"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-playboy-1985",
+        "url": "https://allaboutstevejobs.com/verbatim/interviews/playboy_1985",
+        "kind": "transcript",
+        "title": "Playboy Interview: Steven Jobs (1985)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "All About Steve Jobs 整理的完整文字稿。访谈由 David Sheff 主持（他后来做过约翰·列侬的最后一次大采访），是 1980 年代关于乔布斯本人最深入的采访记录。"
+      },
+      {
+        "id": "archive-jobs-playboy-1985",
+        "url": "https://archive.org/details/jobs-playboy",
+        "kind": "document",
+        "title": "Steven Jobs Playboy Interview (Feb 1985)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "A 12-page in-depth interview by David Sheff appeared in the February 1985 issue of Playboy, a year after the Mac launch and months before Jobs was forced out of Apple. He spoke candidly about everything from his childhood to product philosophy to Apple's internal politics. It remains the most revealing and information-dense interview from his early career."
+  },
+  {
+    "id": "jobs-1985-09-17-leaves-apple",
+    "person_id": "jobs",
+    "date": "1985-09-17",
+    "date_precision": "day",
+    "type": "career",
+    "title": "辞去 Apple 职务，宣布创立 NeXT",
+    "title_en": "Resigns from Apple, founds NeXT",
+    "summary": "在与 Sculley 的权力斗争中失败后，乔布斯被剥夺所有实权。他向董事会提交辞呈，并带走五位 Apple 资深员工创立 NeXT，专注高校市场的工作站。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "NeXT",
+      "离职"
+    ],
+    "sources": [
+      {
+        "id": "mac-history-resignation-letter",
+        "url": "https://web.archive.org/web/20250104083500/https://www.mac-history.net/2009/09/07/i-am-but-30-and-want-still-to-contribute-and-achieve-steve-jobss-resignation-letter-1985/",
+        "kind": "transcript",
+        "title": "Steve Jobs's Resignation Letter (1985)",
+        "publisher": "Mac History (archived by Internet Archive)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "致 Apple 董事会主席 Mike Markkula 的辞职信全文。乔布斯在信中点出董事会前一天发布的反对声明的不公，并坚持立刻接受辞职。\n\n原始 Mac History 博客页面已下线，本条来源指向 Internet Archive 在 2025 年 1 月保存的快照。",
+        "quotes": [
+          {
+            "text": "I'm only 30 years old and I want to have a chance to continue creating things. I know I've got at least one more great computer in me. And Apple is not going to give me a chance to do that.",
+            "text_zh": "我才 30 岁，我想继续有机会去创造东西。我知道我心里至少还有一台伟大的电脑要做出来。而 Apple 不会再给我这个机会了。",
+            "speaker": "Steve Jobs",
+            "context": "辞职信中最广为流传的一段，定义了他离开 Apple 的真正动机"
+          }
+        ]
+      }
+    ],
+    "source_hints": "Newsweek 1985-09-30 封面故事",
+    "summary_en": "After losing the power struggle with Sculley, Jobs was stripped of all operational authority. He submitted his resignation to the board and walked out with five Apple veterans to found NeXT, a workstation company aimed at higher education."
+  },
+  {
+    "id": "jobs-1985-09-23-newsweek-rise-fall",
+    "person_id": "jobs",
+    "date": "1985-09-23",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Newsweek 离开 Apple 后的 3.5 小时长访",
+    "title_en": "Newsweek post-resignation interview (3.5 hours)",
+    "summary": "辞职信发出 6 天后，乔布斯在 Newsweek 编辑 Gerald C. Lubenow 和 Michael Rogers 的镜头前坐了 3 个半小时，复盘他的崛起和失败。他在采访里反思自己在 Apple 最后两年的错误、对 Sculley 的评价、以及 NeXT 的下一步。是他离开 Apple 后第一次系统性公开发声。Newsweek 9 月 23 日的封面故事《Showdown in Silicon Valley》同时刊出。",
+    "location": "Woodside, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Newsweek",
+      "1985 离职"
+    ],
+    "sources": [
+      {
+        "id": "newsweek-jobs-rise-fall-1985",
+        "url": "https://www.newsweek.com/jobs-talks-about-his-rise-and-fall-207016",
+        "kind": "transcript",
+        "title": "Jobs Talks About His Rise and Fall (Newsweek archive)",
+        "publisher": "Newsweek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Newsweek 后来重新数字化的当年访谈完整记录。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。"
+      },
+      {
+        "id": "newsweek-showdown-silicon-valley-1985",
+        "url": "https://www.newsweek.com/showdown-silicon-valley-207014",
+        "kind": "article",
+        "title": "Showdown in Silicon Valley (Newsweek 1985-09-23 cover)",
+        "publisher": "Newsweek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Six days after submitting his resignation, Jobs sat with Newsweek editors Gerald C. Lubenow and Michael Rogers for three and a half hours, walking through his rise and fall at Apple. He reflected on his mistakes during his final two years at the company, assessed Sculley, and outlined his plans for NeXT. It was his first systematic public statement after leaving Apple."
+  },
+  {
+    "id": "jobs-1986-02-pixar-acquisition",
+    "person_id": "jobs",
+    "date": "1986-02-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "从 Lucasfilm 买下 Pixar",
+    "title_en": "Buys Pixar from Lucasfilm",
+    "summary": "以约 500 万美元从 George Lucas 手中买下 Lucasfilm 的电脑动画部门，并再投入 500 万作为运营资金。这项当时被视为失败的投资在 9 年后变成历史上最成功的影业之一。",
+    "location": "San Rafael, CA",
+    "key": true,
+    "tags": [
+      "Pixar",
+      "投资"
+    ],
+    "sources": [
+      {
+        "id": "ieee-pixar",
+        "url": "https://spectrum.ieee.org/the-real-story-of-pixar",
+        "kind": "article",
+        "title": "The Real Story of Pixar",
+        "publisher": "IEEE Spectrum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=tMW15OajuKc"
+      }
+    ],
+    "source_hints": "Lawrence Levy《To Pixar and Beyond》；Alvy Ray Smith 个人档案 alvyray.com",
+    "summary_en": "Bought the computer animation division of Lucasfilm from George Lucas for about $5M and committed another $5M in operating capital. Initially viewed as a failed investment; nine years later it would become one of the most successful animation studios in history."
+  },
+  {
+    "id": "jobs-1988-10-12-next-computer",
+    "person_id": "jobs",
+    "date": "1988-10-12",
+    "date_precision": "day",
+    "type": "product",
+    "title": "NeXT Computer 发布",
+    "title_en": "NeXT Computer launched at Davies Symphony Hall",
+    "summary": "在旧金山 Davies Symphony Hall 举办盛大的 NeXT 计算机发布会，3,000 多人到场。两小时的演出包括产品演示和音乐表演——NeXT Cube 与一位交响乐团小提琴手合奏了一段巴赫。这台机器的工业设计、NeXTSTEP 操作系统、面向对象编程框架，后来都成为 Mac OS X 的基础，奠定了乔布斯回归后整个 21 世纪 Apple 的技术底色。Tim Berners-Lee 用 NeXT Cube 写出了第一个 Web 浏览器和服务器。",
+    "location": "Davies Symphony Hall, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "NeXT",
+      "Keynote",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-next-introduction",
+        "url": "https://en.wikipedia.org/wiki/NeXT_Introduction",
+        "kind": "article",
+        "title": "NeXT Introduction (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "allaboutstevejobs-next-cube-1988",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/next_cube_introduction_1988",
+        "kind": "video",
+        "title": "NeXT Cube Introduction (1988-10-12)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=92NNyd3m79I"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs held a lavish launch event at San Francisco's Davies Symphony Hall for the NeXT Computer, attended by more than 3,000 people. The two-hour show included a product demo and a live performance in which the NeXT Cube played a Bach duet with a symphony violinist. Tim Berners-Lee built the first web browser and server on a NeXT Cube."
+  },
+  {
+    "id": "jobs-1990-pbs-machine-that-changed-world",
+    "person_id": "jobs",
+    "date": "1990-01-01",
+    "date_precision": "year",
+    "type": "interview",
+    "title": "PBS NOVA《Machine That Changed the World》采访",
+    "title_en": "PBS NOVA \"The Machine That Changed the World\" interview",
+    "summary": "1990 年初，35 岁的乔布斯（NeXT 时期）罕见地接受了 WGBH PBS 五集纪录片《The Machine That Changed the World》的采访。这是当时最严肃的电脑史纪录片，由 WGBH 制作、PBS 的 NOVA 系列播出。采访里乔布斯回顾了个人电脑的兴起、Apple 早期、被赶走的经历，以及他对未来计算的思考——是 NeXT 中期他罕见的长篇深度发声。",
+    "location": "Redwood City, CA (NeXT HQ)",
+    "key": true,
+    "tags": [
+      "采访",
+      "PBS",
+      "NOVA",
+      "WGBH",
+      "NeXT 时期"
+    ],
+    "sources": [
+      {
+        "id": "archive-wgbh-jobs-1990",
+        "url": "https://archive.org/details/interview.with.steve.jobs.V_AD9E0BC353BF435E83F28DEF165D4F40",
+        "kind": "video",
+        "title": "Interview with Steve Jobs, 1990 (WGBH OpenVault)",
+        "publisher": "Internet Archive (from WGBH OpenVault)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "WGBH OpenVault 数字化的 1990 年原始采访素材，整段约 75 分钟。比纪录片正片用的剪辑长得多。"
+      },
+      {
+        "id": "allaboutstevejobs-future-pc-1990",
+        "url": "https://allaboutstevejobs.com/videos/misc/future_of_pc_1990",
+        "kind": "video",
+        "title": "Steve Jobs on the Future of the Personal Computer (1990)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=oNC8LEj5X4U"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "In early 1990, the 35-year-old Jobs gave a rare extended interview for WGBH's five-part PBS documentary The Machine That Changed the World. Jobs reflected on the rise of the personal computer, Apple's early days, being ousted, and his thinking about the future of computing — one of his few long-form public statements during the NeXT period."
+  },
+  {
+    "id": "jobs-1991-03-18-marries-laurene",
+    "person_id": "jobs",
+    "date": "1991-03-18",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与 Laurene Powell 在 Yosemite 结婚",
+    "title_en": "Marries Laurene Powell at Yosemite",
+    "summary": "在 Yosemite 国家公园的 Ahwahnee Hotel 举行禅宗婚礼，由日本禅师乙川弘文（Kōbun Chino Otogawa）主持。约 50 位亲友到场，包括养父 Paul Jobs 和亲妹妹 Mona Simpson。结婚蛋糕是素食的，做成 Yosemite 半圆顶（Half Dome）的形状。婚礼后大家在雪地里徒步。两人 1989 年 10 月在乔布斯去 Stanford 商学院演讲时认识，结婚时 Laurene 已经怀着大儿子 Reed。",
+    "location": "Ahwahnee Hotel, Yosemite National Park, CA",
+    "key": true,
+    "tags": [
+      "家庭",
+      "婚姻",
+      "Laurene"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-laurene-powell-jobs",
+        "url": "https://en.wikipedia.org/wiki/Laurene_Powell_Jobs",
+        "kind": "article",
+        "title": "Laurene Powell Jobs (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cultofmac-jobs-marriage",
+        "url": "https://www.cultofmac.com/apple-history/steve-jobs-marries-laurene-powell",
+        "kind": "article",
+        "title": "Laurene Powell marries Steve Jobs",
+        "publisher": "Cult of Mac",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs married Laurene Powell in a Zen Buddhist ceremony at the Ahwahnee Hotel in Yosemite National Park, officiated by the Japanese Zen master Kobun Chino Otogawa. About fifty guests attended, including his adoptive father Paul Jobs and his biological sister Mona Simpson. The wedding cake was vegan, shaped like Yosemite's Half Dome."
+  },
+  {
+    "id": "jobs-1992-04-mit-sloan",
+    "person_id": "jobs",
+    "date": "1992-04-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "MIT Sloan Distinguished Speaker Series 演讲",
+    "title_en": "MIT Sloan Distinguished Speaker Series talk",
+    "summary": "1992 年春天，乔布斯应邀到麻省理工学院 Sloan 商学院做客座演讲，全长 72 分钟。这是 NeXT 中期他最完整的一次商学院公开发声。他谈了对咨询公司的不屑、用人哲学、被 Apple 赶出去的反思，以及为什么世界还需要一家新的电脑公司。这段录像在 2018 年才被 MIT Video Productions 重新发现并上传到 YouTube。",
+    "location": "MIT Sloan School of Management, Cambridge, MA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "MIT",
+      "NeXT 时期",
+      "商学院"
+    ],
+    "sources": [
+      {
+        "id": "infinite-mit-jobs-1992",
+        "url": "https://infinite.mit.edu/video/steve-jobs-next-computer-corp-sloan-distinguished-speaker-series/",
+        "kind": "video",
+        "title": "Steve Jobs (NeXT Computer Corp) — Sloan Distinguished Speaker Series",
+        "publisher": "Infinite MIT",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "MIT 官方视频档案馆 Infinite MIT 上的 1992 年原始演讲录像，72 分钟完整版。",
+        "embed_url": "https://www.youtube.com/watch?v=Gk-9Fd2mEnI"
+      },
+      {
+        "id": "mit-sloan-jobs-1992",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/steve-jobs-talks-consultants-hiring-and-leaving-apple-unearthed-1992-talk",
+        "kind": "article",
+        "title": "Steve Jobs talks consultants, hiring, and leaving Apple in unearthed 1992 talk",
+        "publisher": "MIT Sloan",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=Gk-9Fd2mEnI"
+      },
+      {
+        "id": "allaboutstevejobs-mit-1992",
+        "url": "https://allaboutstevejobs.com/videos/misc/mit_1992",
+        "kind": "video",
+        "title": "Class at MIT Sloan (1992)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=Gk-9Fd2mEnI"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "In the spring of 1992 Jobs delivered a 72-minute guest lecture at MIT's Sloan School of Management — his most complete business-school talk during the NeXT years. He discussed his contempt for management consultants, his philosophy of hiring, reflections on being ousted from Apple, and why the world still needed a new computer company."
+  },
+  {
+    "id": "jobs-1994-06-16-rolling-stone-goodell",
+    "person_id": "jobs",
+    "date": "1994-06-16",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Rolling Stone 长访（Jeff Goodell）",
+    "title_en": "Rolling Stone interview by Jeff Goodell",
+    "summary": "在 NeXT 已经退出硬件业务、Pixor 还没靠 Toy Story 翻身之前，乔布斯接受 Rolling Stone 记者 Jeff Goodell 的长篇采访（发表在 1994 年 6 月 16 日刊）。是他最沉的低谷期之一——但访谈里他展现了对面向对象编程、互联网未来、和\"为什么 Apple 失败\"的清晰判断。这次采访也是 Goodell 与乔布斯长期关系的开端，9 年后他又做了 2003 年的\"In Conversation\"长访。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Rolling Stone",
+      "Jeff Goodell",
+      "NeXT 时期"
+    ],
+    "sources": [
+      {
+        "id": "rollingstone-jobs-1994",
+        "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/",
+        "kind": "transcript",
+        "title": "Steve Jobs in 1994: The Rolling Stone Interview",
+        "publisher": "Rolling Stone",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "longreads-rs-jobs-1994",
+        "url": "https://longreads.com/2009/01/01/steve-jobs-the-rolling-stone-interview-1994/",
+        "kind": "transcript",
+        "title": "Steve Jobs: The Rolling Stone Interview (1994)",
+        "publisher": "Longreads",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "With NeXT already out of the hardware business and Pixar not yet redeemed by Toy Story, Jobs gave a long interview to Rolling Stone reporter Jeff Goodell. It came during one of the deepest troughs of his career, yet the conversation revealed sharp judgment on object-oriented programming, the future of the internet, and why Apple had failed."
+  },
+  {
+    "id": "jobs-1995-lost-interview",
+    "person_id": "jobs",
+    "date": "1995-04-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "Bob Cringely 的\"丢失的采访\"",
+    "title_en": "The Lost Interview with Bob Cringely",
+    "summary": "为 PBS 纪录片《Triumph of the Nerds》拍摄的 70 分钟原始采访。原片只用了约 10 分钟。母带在邮寄过程中遗失多年，直到导演的车库里找到一份 VHS 备份才在 2012 年作为独立纪录片发行。乔布斯在 NeXT 时期、刚收购 Pixar 不久，畅谈苹果之死的原因、产品的灵魂、以及营销 vs 工程师文化的分歧——是他生涯中最坦率的一次访谈。",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "经典",
+      "NeXT 时期"
+    ],
+    "sources": [
+      {
+        "id": "archive-lost-interview-unabridged",
+        "url": "https://archive.org/details/TheSteveJobs1995InterviewUnabridged",
+        "kind": "video",
+        "title": "The Steve Jobs 1995 Interview, Unabridged",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": 4200,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "70 分钟未删减完整版，托管于 Internet Archive。可以听到几段最尖锐的发言：\"专业经理人们什么都懂，就是不懂产品\"、\"市场部接管之后的产品再也不会有灵魂\"——直接在批评 Sculley 时代的 Apple。"
+      },
+      {
+        "id": "wikipedia-lost-interview",
+        "url": "https://en.wikipedia.org/wiki/Steve_Jobs:_The_Lost_Interview",
+        "kind": "article",
+        "title": "Steve Jobs: The Lost Interview",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cringely-lost-interview-story",
+        "url": "https://www.cringely.com/2011/10/21/the-steve-jobs-interview/",
+        "kind": "article",
+        "title": "The Steve Jobs Interview",
+        "publisher": "I, Cringely (Robert X. Cringely)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "采访人 Bob Cringely 本人 2011 年（乔布斯去世两周后）发表的回忆文章，讲了这盘磁带是怎么丢的、又是怎么找回来的。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "A 70-minute raw interview filmed for the PBS documentary Triumph of the Nerds, of which only about 10 minutes made the final cut. The master tape was lost in the mail for years until a VHS backup was found in the director's garage and released as a standalone documentary in 2012. Jobs spoke with extraordinary candor about why Apple died, the soul of a product, and the clash between marketing culture and engineering culture."
+  },
+  {
+    "id": "jobs-1995-04-20-smithsonian-oral-history",
+    "person_id": "jobs",
+    "date": "1995-04-20",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Smithsonian 口述历史采访（Daniel Morrow）",
+    "title_en": "Smithsonian Oral History interview (Daniel Morrow)",
+    "summary": "美国国家博物馆 Smithsonian 的\"Computerworld Smithsonian Awards Program\" 项目派执行总监 Daniel Morrow 对乔布斯做了一场正式的口述历史录像采访。这是为博物馆永久档案录的，用最学术的方式问最严肃的问题：童年、教育、Apple、被赶走、NeXT、价值观。这是关于乔布斯童年和早期成长记录最完整的官方一手资料之一。",
+    "location": "NeXT Computer, Redwood City, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Smithsonian",
+      "口述历史",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "smithsonian-jobs-oral-history",
+        "url": "https://americanhistory.si.edu/comphist/sj1.html",
+        "kind": "transcript",
+        "title": "Smithsonian Oral and Video Histories: Steve Jobs",
+        "publisher": "Smithsonian National Museum of American History",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Smithsonian 国家美国历史博物馆官方页面，含完整文字稿。这是博物馆永久收藏的口述历史档案，由 Daniel Morrow 主持，1995 年 4 月 20 日录制。"
+      },
+      {
+        "id": "allaboutstevejobs-smithsonian-1995",
+        "url": "https://allaboutstevejobs.com/videos/misc/smithsonian_interview_1995",
+        "kind": "video",
+        "title": "Smithsonian Interview (1995)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The Smithsonian's Computerworld Awards Program sent its executive director Daniel Morrow to record a formal oral-history video interview with Jobs. Conducted for the museum's permanent archive — it remains one of the most complete primary-source accounts of Jobs' early life and formation."
+  },
+  {
+    "id": "jobs-1995-11-22-toy-story",
+    "person_id": "jobs",
+    "date": "1995-11-22",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《玩具总动员》上映",
+    "title_en": "Toy Story released",
+    "summary": "Pixar 出品、史上首部完全由电脑动画制作的长篇电影。影片的成功让 Pixar 一周后顺利上市，乔布斯的身家因此暴涨。",
+    "location": "USA (theatrical release)",
+    "key": true,
+    "tags": [
+      "Pixar",
+      "电影"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-toy-story",
+        "url": "https://en.wikipedia.org/wiki/Toy_Story",
+        "kind": "article",
+        "title": "Toy Story",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Variety 1995-11-22 影评；Box Office Mojo 票房数据",
+    "summary_en": "Pixar released Toy Story, the first feature film made entirely with computer animation. The film's success made Pixar's IPO a week later possible and instantly multiplied Jobs' net worth."
+  },
+  {
+    "id": "jobs-1995-11-29-pixar-ipo",
+    "person_id": "jobs",
+    "date": "1995-11-29",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Pixar 上市，乔布斯成为亿万富翁",
+    "title_en": "Pixar IPO makes Jobs a billionaire",
+    "summary": "Toy Story 上映一周后，Pixar 在纳斯达克挂牌。每股开盘 22 美元，收盘 39 美元，公司估值 15 亿美元。持有 80% 股份的乔布斯一夜之间从财务困境（前 9 年累计亏损约 5000 万美元）变成 40 岁的亿万富翁。这次 IPO 比 1980 年 Apple 上市让他赚的钱还多——颇具讽刺意味的是，让乔布斯真正成为亿万富翁的是 Pixar 而不是 Apple。",
+    "location": "NASDAQ",
+    "key": true,
+    "tags": [
+      "Pixar",
+      "IPO",
+      "亿万富翁"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-pixar",
+        "url": "https://en.wikipedia.org/wiki/Pixar",
+        "kind": "article",
+        "title": "Pixar (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cultofmac-pixar-ipo",
+        "url": "https://www.cultofmac.com/apple-history/pixar-ipo-makes-steve-jobs-billionaire",
+        "kind": "article",
+        "title": "Pixar IPO makes Steve Jobs a billionaire",
+        "publisher": "Cult of Mac",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=4BNFL-Uakzg"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "One week after Toy Story opened, Pixar went public on NASDAQ. Shares opened at $22 and closed at $39, valuing the company at $1.5 billion. Jobs, holding 80%, went overnight from financial distress to being a billionaire at 40. It was Pixar, not Apple, that actually made Steve Jobs a billionaire."
+  },
+  {
+    "id": "jobs-1996-02-wired-interview",
+    "person_id": "jobs",
+    "date": "1996-02-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "Wired \"The Next Insanely Great Thing\" 采访",
+    "title_en": "Wired \"The Next Insanely Great Thing\" interview",
+    "summary": "Wired 1996 年 2 月号封面采访，由 Gary Wolf 主持。乔布斯在 NeXT 末期、Apple 收购之前几个月接受访谈。他在采访里宣告\"桌面电脑产业已经死了\"\"创新基本停止了\"，并预言下一波是\"对象\"和\"Web\"——并且 \"Web 的核心将是商业\"——这些预言后来全都成真。",
+    "location": "USA (Wired magazine)",
+    "key": true,
+    "tags": [
+      "采访",
+      "Wired",
+      "前瞻"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-wired-1996",
+        "url": "https://allaboutstevejobs.com/verbatim/interviews",
+        "kind": "transcript",
+        "title": "Wired Interview: The Next Insanely Great Thing (1996)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "The desktop computer industry is dead. Innovation has virtually ceased.",
+            "text_zh": "桌面电脑产业已经死了。创新基本上已经停止了。",
+            "speaker": "Steve Jobs",
+            "context": "1996 年 NeXT 末期接受 Wired 采访时的判断。一个月后 Apple 就宣布收购 NeXT，他回归 Apple"
+          },
+          {
+            "text": "The heart of the Web will be commerce, and the heart of commerce will be corporate America serving custom products to individual consumers.",
+            "text_zh": "Web 的核心将是商业，而商业的核心将是企业为每一个独立消费者提供定制产品。",
+            "speaker": "Steve Jobs",
+            "context": "1996 年的预言，今天的电商和个性化推荐算法是这句话的应验"
+          }
+        ]
+      }
+    ],
+    "source_hints": "原始 Wired 1996-02 issue（实体杂志）；wired.com 网站可能未存档全文",
+    "summary_en": "The cover interview for Wired's February 1996 issue caught Jobs in the final stretch of the NeXT era. He declared that \"the desktop computer industry is dead\" and that \"innovation has virtually ceased,\" predicting that the next wave would center on the Web — and that \"the heart of the Web will be commerce.\" Every one of those predictions came true."
+  },
+  {
+    "id": "jobs-1996-12-20-next-acquired",
+    "person_id": "jobs",
+    "date": "1996-12-20",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Apple 宣布收购 NeXT",
+    "title_en": "Apple announces acquisition of NeXT",
+    "summary": "Apple 以约 4.29 亿美元现金加 150 万股股票收购 NeXT，乔布斯以\"顾问\"身份重返 Apple。NeXTSTEP 操作系统后来成为 Mac OS X 的基础。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "NeXT",
+      "回归 Apple"
+    ],
+    "sources": [],
+    "source_hints": "Apple 1996 年新闻稿（apple.com/newsroom 不存档 2000 年前内容）；SEC 10-K 文件；Fortune 1996-12-20 报道",
+    "summary_en": "Apple announced its $429M cash + 1.5M-share acquisition of NeXT, bringing Jobs back as an \"advisor.\" NeXTSTEP would become the foundation of Mac OS X."
+  },
+  {
+    "id": "jobs-1997-08-06-macworld-boston",
+    "person_id": "jobs",
+    "date": "1997-08-06",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Macworld Boston 主题演讲，宣布微软投资",
+    "title_en": "Macworld Boston keynote, announces Microsoft investment",
+    "summary": "回归 Apple 后的首次大型公开演讲。宣布微软投资 1.5 亿美元并承诺 5 年内继续为 Mac 开发 Office。Bill Gates 通过卫星画面出现在巨幕上，引起观众嘘声。",
+    "location": "Park Plaza Castle, Boston, MA",
+    "key": true,
+    "tags": [
+      "Keynote",
+      "微软",
+      "Bill Gates"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-boston-1997",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/macworld_boston_1997",
+        "kind": "video",
+        "title": "Macworld Boston 1997 Keynote",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "乔布斯回归 Apple 后的首次大型公开演讲。在宣布与微软的交叉授权和 1.5 亿美元投资时，Bill Gates 通过卫星画面出现在巨幕上，因画面比例失调而显得异常巨大，全场嘘声一片。",
+        "quotes": [
+          {
+            "text": "We have to let go of this notion that for Apple to win, Microsoft has to lose.",
+            "text_zh": "我们必须放下这个执念——\"Apple 想赢，Microsoft 必须输\"。",
+            "speaker": "Steve Jobs",
+            "context": "面对台下嘘声时说出。这句话定义了他回归后第一阶段的战略：合作而非对抗"
+          }
+        ],
+        "embed_url": "https://archive.org/details/macworld-boston-1997"
+      },
+      {
+        "id": "stratechery-boston-1997",
+        "url": "https://stratechery.com/2013/steve-jobs-at-macworld-boston-in-1997/",
+        "kind": "article",
+        "title": "Steve Jobs at Macworld Boston in 1997",
+        "publisher": "Stratechery (Ben Thompson)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=IOs6hnTI4lw"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs' first major public appearance after returning to Apple. He announced Microsoft's $150M investment and a five-year commitment to keep developing Office for Mac. Bill Gates appeared via satellite on a giant screen, drawing audible boos from the audience."
+  },
+  {
+    "id": "jobs-1997-09-think-different-internal",
+    "person_id": "jobs",
+    "date": "1997-09-23",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "向 Apple 员工内部发布 Think Different",
+    "title_en": "Internal Apple Town Hall introducing \"Think Different\"",
+    "summary": "在 Think Different 广告对外发布前几天，乔布斯在 Apple 总部 Town Hall 礼堂向员工内部宣讲新品牌战略。这场讲话原本是私下的，多年后录像泄露上网，被普遍认为是他最坦白的一次\"营销学公开课\"。他的核心观点：营销是关于 values（价值观）的，不是关于功能；伟大的品牌是关于\"信仰什么\"，不是关于\"做什么\"。这段话直接定义了 Apple 之后 25 年的品牌方向。",
+    "location": "Apple Town Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "营销",
+      "经典",
+      "Think Different",
+      "内部"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-think-different-internal",
+        "url": "https://allaboutstevejobs.com/videos/misc/think_different_1997_internal",
+        "kind": "video",
+        "title": "Think Different — Internal Apple Town Hall (1997)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "To me, marketing is about values. This is a very complicated world, it's a very noisy world. And we're not going to get a chance to get people to remember much about us. No company is. So we have to be really clear on what we want them to know about us.",
+            "text_zh": "对我来说，营销关乎的是价值观。这是一个很复杂、很嘈杂的世界。我们没有太多机会让人们记住我们多少东西，没有任何公司有。所以我们必须非常清楚地知道：我们希望他们记住的是什么。",
+            "speaker": "Steve Jobs",
+            "context": "Think Different 广告对外发布前几天，乔布斯在 Apple 内部员工面前讲解新品牌战略。这段话被公认是乔布斯关于营销最系统的一次表达"
+          }
+        ]
+      },
+      {
+        "id": "speakola-think-different-1997",
+        "url": "https://speakola.com/corp/steve-jobs-marketing-think-differently-1997",
+        "kind": "transcript",
+        "title": "Steve Jobs: To me, marketing is about values (1997)",
+        "publisher": "Speakola",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=4yefGOif2WU"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Days before the Think Different campaign went public, Jobs gave an internal presentation to Apple employees unveiling the new brand strategy. Originally private, the footage leaked online years later and is widely regarded as his most candid masterclass in marketing. His core argument: marketing is about values, not features; great brands are about what you believe, not what you make."
+  },
+  {
+    "id": "jobs-1997-09-28-think-different",
+    "person_id": "jobs",
+    "date": "1997-09-28",
+    "date_precision": "day",
+    "type": "product",
+    "title": "\"Think Different\" 广告战役上线",
+    "title_en": "\"Think Different\" campaign launches",
+    "summary": "Apple 推出标志性的 \"Think Different\" 广告——黑白镜头展示爱因斯坦、甘地、约翰·列侬、毕加索、马丁·路德·金等\"疯狂的人\"。文案 \"Here's to the crazy ones\" 由 TBWA\\Chiat\\Day 的 Rob Siltanen 与 Lee Clow 团队撰写，乔布斯亲自参与定稿。这是他回归 Apple 后第一次重新定义品牌，明确告诉世界：Apple 不是一家电脑公司，是一家\"为想要改变世界的人服务\"的公司。次年这条广告拿下 Emmy 最佳广告奖。",
+    "location": "USA (national broadcast)",
+    "key": true,
+    "tags": [
+      "广告",
+      "品牌",
+      "经典",
+      "Lee Clow"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-think-different",
+        "url": "https://en.wikipedia.org/wiki/Think_different",
+        "kind": "article",
+        "title": "Think different (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=cilgHHTiJmw"
+      },
+      {
+        "id": "cultofmac-think-different",
+        "url": "https://www.cultofmac.com/apple-history/apple-think-different-ad-campaign",
+        "kind": "article",
+        "title": "Today in Apple history: 'Here's to the crazy ones' who 'think different'",
+        "publisher": "Cult of Mac",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=5sMBhDv4sik"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Apple launched the iconic \"Think Different\" advertising campaign — black-and-white footage of Einstein, Gandhi, John Lennon, Picasso, Martin Luther King Jr., and other \"crazy ones.\" The copy, \"Here's to the crazy ones,\" was written by TBWA/Chiat/Day's Rob Siltanen and Lee Clow, with Jobs personally involved in the final edit."
+  },
+  {
+    "id": "jobs-1998-05-06-imac-unveiled",
+    "person_id": "jobs",
+    "date": "1998-05-06",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在 Flint Center 揭幕 iMac",
+    "title_en": "Unveils iMac at Flint Center",
+    "summary": "乔布斯在 De Anza College Flint Center 拉开黑布揭幕初代 iMac。他说：\"iMac 来自 Internet 的兴奋和 Macintosh 的简单的婚姻。\" 半透明邦迪蓝外壳由 Jonathan Ive 设计，取消软驱、内置 USB、一体化造型——彻底重新定义了消费级电脑应该长什么样。3 个月后正式上市，6 周内卖出 27.8 万台，成为乔布斯回归 Apple 后第一个真正的爆款，挽救了一家几乎破产的公司。",
+    "location": "Flint Center, De Anza College, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "iMac",
+      "Jony Ive",
+      "Keynote"
+    ],
+    "sources": [
+      {
+        "id": "archive-imac-1998-intro",
+        "url": "https://archive.org/details/1998-05-06-i-mac-introduction_202110",
+        "kind": "video",
+        "title": "Apple Special Event May 1998 (iMac Introduction)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "1998 年 5 月 6 日 iMac 揭幕的发布会录像，托管于 Internet Archive。包括\"iMac comes from the marriage of the excitement of the Internet with the simplicity of Macintosh\" 这句话的现场。"
+      },
+      {
+        "id": "allaboutstevejobs-imac-1998",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/imac_introduction_1998",
+        "kind": "video",
+        "title": "iMac Introduction (1998-05-06)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=BiWd8ujtK5k"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At De Anza College's Flint Center, Jobs pulled back a black cloth to reveal the original iMac: \"iMac comes from the marriage of the excitement of the Internet with the simplicity of Macintosh.\" The translucent Bondi-blue shell, designed by Jonathan Ive, dropped the floppy drive, built in USB, and adopted an all-in-one form factor. It sold 278,000 units in six weeks — saving a company on the brink of bankruptcy."
+  },
+  {
+    "id": "jobs-1998-05-25-businessweek",
+    "person_id": "jobs",
+    "date": "1998-05-25",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "BusinessWeek 长访：\"There's Sanity Returning\"",
+    "title_en": "BusinessWeek interview: \"There's Sanity Returning\"",
+    "summary": "回归 Apple 一年后，乔布斯接受 BusinessWeek 记者 Andy Reinhardt 在 Apple 董事会议室的长访。访谈在 iMac 发布几周后、Apple 真正开始转亏为盈的转折点上进行。乔布斯解释\"为什么简单比复杂更难\"\"为什么不能用焦点小组设计产品\"——这两段后来成为他最常被引用的方法论金句。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "BusinessWeek",
+      "经典金句"
+    ],
+    "sources": [
+      {
+        "id": "bloomberg-jobs-1998",
+        "url": "https://www.bloomberg.com/news/articles/1998-05-25/steve-jobs-theres-sanity-returning",
+        "kind": "transcript",
+        "title": "Steve Jobs: 'There's Sanity Returning'",
+        "publisher": "Bloomberg / BusinessWeek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.",
+            "text_zh": "简单可以比复杂更难。你必须很用力地把思考清理干净才能让它变得简单。但是值得——因为一旦你到达那里，你能搬动山。",
+            "speaker": "Steve Jobs",
+            "context": "1998 年 BusinessWeek 采访中关于设计哲学的核心表达。这句话后来被印在 Apple 的内部宣传册和无数管理书籍上"
+          },
+          {
+            "text": "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
+            "text_zh": "用焦点小组来设计产品真的很难。很多时候，人们在你给他们看到之前，根本不知道自己想要什么。",
+            "speaker": "Steve Jobs",
+            "context": "回应 \"为什么 Apple 不做用户调研\" 时的回答——后来变成科技行业最有名的反市场调研论点"
+          }
+        ]
+      }
+    ],
+    "source_hints": "Bloomberg 对 bot 有 403 防护，浏览器访问正常",
+    "summary_en": "A year after his return to Apple, Jobs sat down with BusinessWeek reporter Andy Reinhardt. The interview came weeks after the iMac reveal, at the exact inflection point when Apple was turning from losses to profit. Jobs explained why \"simple can be harder than complex\" and why \"you can't design products by focus groups.\""
+  },
+  {
+    "id": "jobs-1998-08-15-imac",
+    "person_id": "jobs",
+    "date": "1998-08-15",
+    "date_precision": "day",
+    "type": "product",
+    "title": "iMac G3 上市",
+    "title_en": "iMac G3 ships",
+    "summary": "回归后亲自主导设计的第一款产品。半透明邦迪蓝外壳、一体化设计、取消软驱、内置 USB，重新定义了消费级电脑形象，标志 Apple 复兴的开始。",
+    "location": "Worldwide",
+    "key": true,
+    "tags": [
+      "iMac",
+      "Jony Ive",
+      "产品设计"
+    ],
+    "sources": [],
+    "source_hints": "Apple 1998-05-06 Flint Center 发布会演讲；apple.com/newsroom 不存档 2000 年前内容",
+    "summary_en": "The first product Jobs personally shepherded after his return to Apple. Its translucent Bondi-blue shell, all-in-one design, removal of the floppy drive, and built-in USB redefined the consumer PC aesthetic and marked the beginning of Apple's renaissance."
+  },
+  {
+    "id": "jobs-2000-01-05-permanent-ceo",
+    "person_id": "jobs",
+    "date": "2000-01-05",
+    "date_precision": "day",
+    "type": "career",
+    "title": "Macworld 2000：宣布转正 CEO，揭幕 Mac OS X",
+    "title_en": "Macworld 2000: drops \"interim\" CEO title, unveils Mac OS X",
+    "summary": "在 Macworld San Francisco 2000 主题演讲上，乔布斯宣布把头衔里的 \"interim\" 拿掉——正式成为 Apple 的 CEO（在他自创的 \"iCEO\" 阶段两年半之后）。同一场演讲上还揭幕了 Mac OS X。两周后董事会批准给他 1000 万股期权和一架 Gulfstream V 飞机作为 \"为公司服务两年半的奖励\"。Apple 的复活就此正式完成。",
+    "location": "Moscone Center, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "CEO",
+      "Mac OS X",
+      "Keynote"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-mac-os-x-2000",
+        "url": "https://www.apple.com/newsroom/2000/01/05Apple-Unveils-Mac-OS-X-and-Internet-Strategy-at-Macworld-Expo/",
+        "kind": "article",
+        "title": "Apple Unveils Mac OS X and Internet Strategy at Macworld Expo",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "apple-newsroom-ceo-comp-2000",
+        "url": "https://www.apple.com/newsroom/2000/01/19Apple-Board-of-Directors-Announces-CEO-Compensation/",
+        "kind": "article",
+        "title": "Apple Board of Directors Announces CEO Compensation",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "两周后董事会发布的 CEO 薪酬公告：1000 万股期权 + 一架 Gulfstream V 喷气机，作为对乔布斯过去 30 个月把 Apple 从破产边缘救回来的回报。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At the Macworld San Francisco 2000 keynote, Jobs announced he was dropping the \"interim\" from his title — officially becoming Apple's CEO after two and a half years. The same presentation unveiled Mac OS X. Two weeks later the board approved 10 million stock options and a Gulfstream V jet as compensation for saving the company."
+  },
+  {
+    "id": "jobs-2001-05-19-first-apple-store",
+    "person_id": "jobs",
+    "date": "2001-05-19",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "第一家 Apple Store 在 Tysons Corner 开业",
+    "title_en": "First Apple Store opens at Tysons Corner",
+    "summary": "Apple 的第一两家零售店同日在弗吉尼亚州 Tysons Corner 和加州 Glendale 开业。开业前几天乔布斯亲自带记者参观 Tysons Corner 店并录制了一段视频导览。当时业内人都觉得 Apple 开实体店是疯狂的——业内分析师 David Goldstein 公开断言 \"Apple Store 两年内必倒\"。事实正相反：Apple Store 后来定义了 21 世纪的零售设计，开业当日就有 500 人凌晨排队，第一周末两家店共接待 7,700 人、营业额 59.9 万美元。",
+    "location": "Tysons Corner Center, Tysons, VA",
+    "key": true,
+    "tags": [
+      "零售",
+      "Apple Store",
+      "Ron Johnson"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-25-stores-2001",
+        "url": "https://www.apple.com/newsroom/2001/05/15Apple-to-Open-25-Retail-Stores-in-2001/",
+        "kind": "article",
+        "title": "Apple to Open 25 Retail Stores in 2001",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cultofmac-first-apple-store",
+        "url": "https://www.cultofmac.com/news/may-2001-the-first-apple-store-opens",
+        "kind": "article",
+        "title": "May 2001: The First Apple Store Opens",
+        "publisher": "Cult of Mac",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Apple's first two retail stores opened simultaneously at Tysons Corner, Virginia, and Glendale, California. Industry conventional wisdom called it a folly — analyst David Goldstein publicly predicted the Apple Store would fold within two years. On opening day 500 people lined up before dawn; over the first weekend the two stores drew 7,700 visitors and $599,000 in revenue."
+  },
+  {
+    "id": "jobs-2001-10-23-ipod",
+    "person_id": "jobs",
+    "date": "2001-10-23",
+    "date_precision": "day",
+    "type": "product",
+    "title": "iPod 发布",
+    "title_en": "iPod announced",
+    "summary": "在 Apple 总部 Town Hall 礼堂的小型发布会上揭幕初代 iPod，定位 \"1,000 songs in your pocket\"。售价 399 美元，仅支持 Mac。",
+    "location": "Apple Town Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "iPod",
+      "音乐"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-ipod",
+        "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
+        "kind": "article",
+        "title": "Apple Presents iPod",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 2001 年 10 月 23 日的官方新闻稿。初代 iPod 售价 399 美元，5GB 硬盘存储 1,000 首歌，仅支持 Mac、需通过 FireWire 同步 iTunes。",
+        "quotes": [
+          {
+            "text": "With iPod, listening to music will never be the same again.",
+            "text_zh": "有了 iPod，听音乐这件事再也回不去了。",
+            "speaker": "Steve Jobs",
+            "context": "发布会上的核心宣言"
+          }
+        ]
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At a small press event in Apple's Town Hall auditorium, Jobs unveiled the original iPod, positioned as \"1,000 songs in your pocket.\" $399, Mac-only, FireWire-synced."
+  },
+  {
+    "id": "jobs-2003-04-28-itunes-music-store",
+    "person_id": "jobs",
+    "date": "2003-04-28",
+    "date_precision": "day",
+    "type": "product",
+    "title": "iTunes Music Store 上线",
+    "title_en": "iTunes Music Store launches",
+    "summary": "Apple 上线 iTunes Music Store——首个被五大唱片公司全部支持的合法数字音乐商店。每首歌 99 美分，无订阅费、无 DRM 限制（最初每首歌可在 5 台机器上播放）。这件事改变了整个音乐产业：盗版下载因此下降，音乐人开始按曲计费、不再被绑定到完整专辑销售。第一周卖出 100 万首歌。",
+    "location": "Apple Town Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "iTunes",
+      "音乐",
+      "产业改变"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-itunes-store",
+        "url": "https://www.apple.com/newsroom/2003/04/28Apple-Launches-the-iTunes-Music-Store/",
+        "kind": "article",
+        "title": "Apple Launches the iTunes Music Store",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Apple launched the iTunes Music Store, the first legal digital music store backed by all five major record labels. Songs cost 99 cents each, with no subscription. The store reshaped the entire music industry: piracy declined, artists began selling individual tracks instead of being locked into album bundles. It sold one million songs in its first week."
+  },
+  {
+    "id": "jobs-2003-10-cancer-diagnosis",
+    "person_id": "jobs",
+    "date": "2003-10-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "确诊胰腺胰岛细胞瘤",
+    "title_en": "Diagnosed with pancreatic islet cell tumor",
+    "summary": "10 月一次例行 CT 扫描发现胰腺有阴影，活检确诊为胰岛细胞瘤（islet cell tumor / GEP-NET）——一种比常见的胰腺腺癌罕见得多、生长慢得多、可手术治愈的胰腺癌。但乔布斯拒绝立即手术，9 个月里尝试针灸、果汁疗法、植物饮食、灵性咨询等\"替代医学\"。这 9 个月的延迟在医学界引发巨大争议，许多人认为这是他后来死于癌症的关键原因。",
+    "location": "Stanford University Medical Center, Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "健康",
+      "胰腺癌"
+    ],
+    "sources": [
+      {
+        "id": "abc-news-cancer-timeline",
+        "url": "https://abcnews.go.com/Health/CancerPreventionAndTreatment/steve-jobs-pancreatic-cancer-timeline/story?id=14681812",
+        "kind": "article",
+        "title": "Steve Jobs' Pancreatic Cancer: A Timeline",
+        "publisher": "ABC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "A routine CT scan in October revealed a shadow on Jobs' pancreas. A biopsy confirmed an islet cell tumor — a much rarer, slower-growing, and surgically curable form of pancreatic cancer than the common adenocarcinoma. But Jobs refused immediate surgery, spending nine months pursuing alternative therapies. That nine-month delay became the subject of intense medical controversy, with many arguing it was the critical reason he ultimately died."
+  },
+  {
+    "id": "jobs-2003-60-minutes",
+    "person_id": "jobs",
+    "date": "2003-10-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "CBS《60 Minutes》深度采访",
+    "title_en": "60 Minutes interview (CBS)",
+    "summary": "美国王牌新闻杂志节目 CBS《60 Minutes》对乔布斯的罕见长篇电视采访。乔布斯在镜头前谈他被 Apple 解雇的经历、Pixar 的起源、产品哲学，以及他对\"团队 vs 个人英雄\"的看法（用披头士做类比）。这是他回归 Apple 后第一次接受美国主流电视台的严肃长访。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "60 Minutes",
+      "电视"
+    ],
+    "sources": [
+      {
+        "id": "cbs-60-minutes-jobs-2003",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/steve-jobs-offered-rare-insights-during-60-minutes-interview/",
+        "kind": "article",
+        "title": "Steve Jobs Offered Rare Insights During '60 Minutes' Interview",
+        "publisher": "CBS News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "allaboutstevejobs-60-minutes-2003",
+        "url": "https://allaboutstevejobs.com/videos/misc/60_minutes_2003",
+        "kind": "video",
+        "title": "60 Minutes (2003)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "I was basically fired from Apple when I was thirty, and was invited to come back twelve years later. That was difficult when it happened, but maybe the best thing that ever happened to me. There would not be a Pixar if that did not happen.",
+            "text_zh": "我 30 岁的时候基本上是被 Apple 开除的，12 年后又被请回来。当时很难受，但回头看，那也许是发生在我身上最好的事。如果那事没发生，就不会有 Pixar。",
+            "speaker": "Steve Jobs",
+            "context": "60 Minutes 采访里关于被 Apple 赶走的反思——和 2 年后斯坦福演讲第二个故事的内容一致，但措辞更直接"
+          }
+        ],
+        "embed_url": "https://www.youtube.com/watch?v=ZUfzXz23ndo"
+      }
+    ],
+    "source_hints": "具体播出日期需进一步确认（约 2003 年下半年）",
+    "summary_en": "A rare long-form TV interview with CBS's 60 Minutes. Jobs spoke about being fired from Apple, the origins of Pixar, his product philosophy, and his view of teams versus individual heroes. It was his first serious sit-down with a major US television network after returning to Apple."
+  },
+  {
+    "id": "jobs-2003-12-rolling-stone-in-conversation",
+    "person_id": "jobs",
+    "date": "2003-12-25",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Rolling Stone \"In Conversation\" 长访",
+    "title_en": "Rolling Stone \"In Conversation\" interview",
+    "summary": "Jeff Goodell 时隔 9 年再次为 Rolling Stone 采访乔布斯，这次的主题是 iTunes Music Store 上线 8 个月后他对音乐产业的判断。乔布斯在访谈里炮轰订阅制音乐服务（\"破产的商业模式\"）、解释为什么把 iTunes 移植到 Windows 是必须的、回顾 \"Rip. Mix. Burn.\" 广告战役。这次访谈被普遍认为是 21 世纪初音乐产业转型最重要的一手资料。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Rolling Stone",
+      "iTunes",
+      "音乐产业"
+    ],
+    "sources": [
+      {
+        "id": "rollingstone-jobs-2003-conversation",
+        "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-rolling-stones-2003-interview-243284/",
+        "kind": "transcript",
+        "title": "Steve Jobs: Rolling Stone's 2003 Interview",
+        "publisher": "Rolling Stone",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jeff Goodell returned to Rolling Stone nine years after his first Jobs interview, this time focused on the music industry eight months after the iTunes Music Store launch. Jobs blasted subscription-based music services as \"a bankrupt business model\" and explained why porting iTunes to Windows was essential."
+  },
+  {
+    "id": "jobs-2004-07-26-newsweek-ipod-nation",
+    "person_id": "jobs",
+    "date": "2004-07-26",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Newsweek \"iPod Nation\" 封面采访（Steven Levy）",
+    "title_en": "Newsweek \"iPod Nation\" cover (Steven Levy)",
+    "summary": "Newsweek 1980 年代以来最资深的科技记者 Steven Levy 在 2004 年 7 月号做封面专题《iPod Nation》，乔布斯在采访里谈了 iPod 文化爆炸的早期信号——\"我走在 Madison Avenue 上，每个街区都有人戴着白色耳机，我心想：天啊，它真的发生了。\" 这次采访发生在乔布斯 Whipple 手术前几天，封面拍摄时他已经知道自己的诊断，但还没告诉任何人。封面用乔布斯手持初代 click wheel iPod 的照片——比 Apple 自己的发布会还早泄露了第四代 iPod 的设计。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Newsweek",
+      "iPod",
+      "Steven Levy"
+    ],
+    "sources": [
+      {
+        "id": "newsweek-ipod-nation-2004",
+        "url": "https://www.newsweek.com/ipod-nation-130863",
+        "kind": "article",
+        "title": "iPod Nation (Newsweek 2004 cover)",
+        "publisher": "Newsweek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Newsweek 2004 年 7 月 26 日封面故事，Steven Levy 主笔。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Newsweek's senior tech writer Steven Levy put Jobs on the cover for the \"iPod Nation\" feature. Jobs told Levy: \"I was walking down Madison Avenue and every other block had someone wearing white earbuds, and I thought, 'Oh my God, it's starting to happen.'\" The interview took place days before Jobs' Whipple surgery; at the time of the cover shoot he already knew his diagnosis but had told no one."
+  },
+  {
+    "id": "jobs-2004-08-01-whipple-surgery",
+    "person_id": "jobs",
+    "date": "2004-08-01",
+    "date_precision": "day",
+    "type": "life",
+    "title": "接受 Whipple 手术切除胰腺肿瘤",
+    "title_en": "Undergoes Whipple procedure for pancreatic tumor",
+    "summary": "在 9 个月的替代疗法之后，乔布斯终于同意手术。7 月 31 日在 Stanford 大学医学中心接受 \"Whipple 手术\"（胰十二指肠切除术），切除胰腺肿瘤。手术后他给 Apple 全员发了一封简短邮件：\"这个周末我成功接受了切除胰腺肿瘤的手术……我会在 9 月返回工作。\" 当时他和外界都认为是治愈了；后来证明癌细胞已经扩散，9 个月的延迟是致命的。",
+    "location": "Stanford University Medical Center, Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "健康",
+      "手术"
+    ],
+    "sources": [
+      {
+        "id": "abc-news-cancer-timeline-2",
+        "url": "https://abcnews.go.com/Health/CancerPreventionAndTreatment/steve-jobs-pancreatic-cancer-timeline/story?id=14681812",
+        "kind": "article",
+        "title": "Steve Jobs' Pancreatic Cancer: A Timeline",
+        "publisher": "ABC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Apple 当时无对外新闻稿；员工内部邮件全文流出后被多家媒体转载",
+    "summary_en": "After nine months of alternative therapies, Jobs finally agreed to surgery. On July 31 he underwent a Whipple procedure at Stanford University Medical Center. Afterward he emailed the entire Apple staff: \"This weekend I underwent a successful surgery to remove a cancerous tumor from my pancreas.\" At the time, both he and the public believed the surgery was curative; it later became clear the cancer had already spread."
+  },
+  {
+    "id": "jobs-2005-06-12-stanford",
+    "person_id": "jobs",
+    "date": "2005-06-12",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "斯坦福大学毕业典礼演讲",
+    "title_en": "Stanford Commencement Address",
+    "summary": "讲述人生三个故事：连接生命中的点（connecting the dots）、爱与失去、关于死亡。结尾以 \"Stay hungry, stay foolish\" 作结。被广泛认为是最具影响力的毕业演讲之一。",
+    "location": "Stanford University, Stanford, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "经典",
+      "人生哲学"
+    ],
+    "sources": [
+      {
+        "id": "stanford-news-transcript",
+        "url": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+        "kind": "transcript",
+        "title": "'You've got to find what you love,' Jobs says",
+        "publisher": "Stanford Report",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Stanford News 官方发布的演讲全文。乔布斯讲述人生三个故事：连接生命中的点（从大学休学旁听书法课到 Mac 字体设计）、爱与失去（被赶出 Apple 反而成就了 NeXT、Pixar）、关于死亡（一年前刚被诊断出胰腺癌）。结尾借用《Whole Earth Catalog》最后一期封底的祝福语作结。",
+        "quotes": [
+          {
+            "text": "Stay hungry. Stay foolish.",
+            "text_zh": "求知若饥，虚心若愚。",
+            "speaker": "Steve Jobs",
+            "context": "演讲结尾，引自《Whole Earth Catalog》1974 年最后一期封底"
+          },
+          {
+            "text": "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+            "text_zh": "向前看时你无法把生命的点串起来，只有回头看才能把它们连成线。所以你必须相信这些点终将在你的未来连成某种东西。",
+            "speaker": "Steve Jobs",
+            "context": "演讲第一个故事的核心：解释他在 Reed 大学休学旁听书法课的事在 10 年后变成了 Mac 字体的灵感"
+          }
+        ]
+      },
+      {
+        "id": "steve-jobs-archive-stanford",
+        "url": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
+        "kind": "article",
+        "title": "Stay Hungry, Stay Foolish",
+        "publisher": "Steve Jobs Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "由 Laurene Powell Jobs 和 Tim Cook 等人发起的 Steve Jobs Archive 官方页面，收录了演讲的背景资料。",
+        "embed_url": "https://www.youtube.com/watch?v=jiHZqamCD8c"
+      },
+      {
+        "id": "youtube-stanford-2005",
+        "url": "https://www.youtube.com/watch?v=jiHZqamCD8c",
+        "kind": "video",
+        "title": "Steve Jobs' 2005 Stanford Commencement Address",
+        "publisher": "Steve Jobs Archive (YouTube)",
+        "lang": "en",
+        "duration_sec": 900,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Steve Jobs Archive 官方频道在 2025 年发布的 1080p60 重制版，作为演讲 20 周年纪念。这是 YouTube 史上观看次数最多的毕业演讲，累计播放超过 1.2 亿次。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "His commencement address to Stanford University's class of 2005, structured as three stories from his life: connecting the dots (from his Reed College calligraphy class to Mac typography), love and loss (being fired from Apple as the best thing that ever happened to him), and death (a year after his pancreatic cancer diagnosis). Closes with the famous \"Stay hungry, stay foolish.\" Widely considered one of the most influential commencement speeches ever delivered."
+  },
+  {
+    "id": "jobs-2006-01-24-disney-pixar",
+    "person_id": "jobs",
+    "date": "2006-01-24",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Disney 以 74 亿美元收购 Pixar",
+    "title_en": "Disney acquires Pixar for $7.4 billion",
+    "summary": "Bob Iger 上任 Disney CEO 后立刻推动这次收购，作为重启 Disney 动画的赌注。每股 Pixar 换 2.3 股 Disney，交易总额约 74 亿美元。乔布斯因此成为 Disney 最大个人股东（约 7%）和 Disney 董事会成员。Pixar 团队进入 Disney 后掌管 Disney + Pixar 两边的动画业务（Ed Catmull 任总裁、John Lasseter 任首席创意官），开启 Disney 动画的第二个黄金时代。",
+    "location": "Burbank, CA / Emeryville, CA",
+    "key": true,
+    "tags": [
+      "Disney",
+      "Pixar",
+      "收购"
+    ],
+    "sources": [
+      {
+        "id": "disney-pixar-acquisition",
+        "url": "https://thewaltdisneycompany.com/disney-to-acquire-pixar/",
+        "kind": "article",
+        "title": "Disney To Acquire Pixar",
+        "publisher": "The Walt Disney Company",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "history-disney-pixar",
+        "url": "https://www.history.com/this-day-in-history/january-24/walt-disney-announces-7-4-billion-purchase-of-pixar",
+        "kind": "article",
+        "title": "Walt Disney announces $7.4 billion purchase of Pixar",
+        "publisher": "History.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "SEC EDGAR 8-K 文件（sec.gov 对 bot 有 403）",
+    "summary_en": "Newly installed Disney CEO Bob Iger pushed through the acquisition as a bet on rebooting Disney Animation. Each share of Pixar was exchanged for 2.3 shares of Disney, valuing the deal at roughly $7.4 billion. Jobs became Disney's largest individual shareholder (about 7%) and joined the Disney board."
+  },
+  {
+    "id": "jobs-2007-01-09-iphone",
+    "person_id": "jobs",
+    "date": "2007-01-09",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在 Macworld 发布初代 iPhone",
+    "title_en": "Introduces iPhone at Macworld",
+    "summary": "\"今天 Apple 要重新发明手机。\" 用 \"三件产品：一个宽屏 iPod、一部革命性手机、一个突破性的网络通讯设备\" 的悬念式开场，揭幕初代 iPhone。被普遍认为是科技史上最重要的一场 keynote。",
+    "location": "Moscone West, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "iPhone",
+      "Keynote",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-iphone",
+        "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+        "kind": "article",
+        "title": "Apple Reinvents the Phone with iPhone",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 2007 年 1 月 9 日 Macworld 当天发布的官方新闻稿。初代 iPhone 4GB 版 499 美元、8GB 版 599 美元，6 月在美国上市。",
+        "quotes": [
+          {
+            "text": "iPhone is a revolutionary and magical product that is literally five years ahead of any other mobile phone.",
+            "text_zh": "iPhone 是一款革命性的、神奇的产品，比市面上任何手机领先整整五年。",
+            "speaker": "Steve Jobs",
+            "context": "发布会及新闻稿中的核心定调，事后被证明并不夸张"
+          }
+        ]
+      },
+      {
+        "id": "apple-newsroom-iphone-cingular",
+        "url": "https://www.apple.com/newsroom/2007/01/09Apple-Chooses-Cingular-as-Exclusive-US-Carrier-for-Its-Revolutionary-iPhone/",
+        "kind": "article",
+        "title": "Apple Chooses Cingular as Exclusive US Carrier for Its Revolutionary iPhone",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-iphone-keynote-2007",
+        "url": "https://archive.org/details/youtube-VQKMoT-6XSg",
+        "kind": "video",
+        "title": "iPhone 1 - Steve Jobs MacWorld keynote in 2007 (full presentation, ~80 min)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": 4800,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Macworld 2007 主题演讲完整录像，约 80 分钟。乔布斯用著名的悬念式开场揭幕 iPhone：先卖了三个独立产品的关子，再揭示\"这其实是一台设备\"。被普遍认为是科技史上最重要的一场产品发布会。",
+        "quotes": [
+          {
+            "text": "Today, we're introducing three revolutionary products. The first is a widescreen iPod with touch controls. The second is a revolutionary mobile phone. The third is a breakthrough internet communications device... Are you getting it? These are not three separate devices. This is one device. And we are calling it iPhone.",
+            "text_zh": "今天我们要发布三款革命性的产品。第一款，是一个宽屏触控的 iPod。第二款，是一部革命性的手机。第三款，是一个突破性的互联网通讯设备……你们听懂了吗？这不是三件设备，这是一件设备。我们叫它 iPhone。",
+            "speaker": "Steve Jobs",
+            "context": "Macworld 2007 keynote 的开场。先反复绕了几圈才点破\"这是同一件东西\"，是科技产品发布史上最经典的悬念式开场"
+          }
+        ]
+      },
+      {
+        "id": "allaboutstevejobs-2007",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/macworld_2007",
+        "kind": "video",
+        "title": "Macworld 2007 Keynote",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "\"Today, Apple is going to reinvent the phone.\" Using the famous suspense opening — \"three revolutionary products: a widescreen iPod, a revolutionary phone, a breakthrough internet communications device\" — he reveals the original iPhone. Widely considered the most important keynote in tech history."
+  },
+  {
+    "id": "jobs-2007-05-30-d5-gates",
+    "person_id": "jobs",
+    "date": "2007-05-30",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "D5 大会与 Bill Gates 同台",
+    "title_en": "Joint interview with Bill Gates at D5 (All Things Digital)",
+    "summary": "Walt Mossberg 和 Kara Swisher 在 All Things Digital 第五届大会上把乔布斯和盖茨请上同一个舞台——两位老对手 30 多年来唯一一次的同台对谈，全长约 90 分钟。两人相互致敬：盖茨称赞乔布斯的产品直觉和设计，乔布斯肯定盖茨在软件和商业模式上的功劳。这场采访发生在 iPhone 发布 1 月之后、上市 1 月之前。",
+    "location": "Carlsbad, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Bill Gates",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "allthingsd-d5-interview",
+        "url": "https://allthingsd.com/20070530/d5-gates-jobs-interview/",
+        "kind": "article",
+        "title": "Bill Gates and Steve Jobs",
+        "publisher": "AllThingsD (Wall Street Journal)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "AllThingsD 当晚发表的现场报道，含视频片段和精彩瞬间整理。",
+        "embed_url": "https://www.youtube.com/watch?v=Uau0aIbrzkQ"
+      },
+      {
+        "id": "allthingsd-d5-transcript",
+        "url": "https://allthingsd.com/20070531/d5-gates-jobs-transcript",
+        "kind": "transcript",
+        "title": "TRANSCRIPT — Bill Gates and Steve Jobs at D5",
+        "publisher": "AllThingsD (Wall Street Journal)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。"
+      },
+      {
+        "id": "allaboutstevejobs-d5-2007",
+        "url": "https://allaboutstevejobs.com/videos/misc/d5_conference_steve_bill_2007",
+        "kind": "video",
+        "title": "D5 Conference: Steve & Bill 2007",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=wvhW8cp15tk"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Walt Mossberg and Kara Swisher brought Jobs and Bill Gates together on the same stage at the fifth All Things Digital conference — the only time the two rivals shared a stage in over thirty years. The 90-minute conversation included mutual tributes. The interview came one month after the iPhone announcement and one month before its launch."
+  },
+  {
+    "id": "jobs-2007-11-time-invention-of-year",
+    "person_id": "jobs",
+    "date": "2007-11-01",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Time \"Invention of the Year\" 封面（Lev Grossman）",
+    "title_en": "Time \"Invention of the Year\" feature (Lev Grossman)",
+    "summary": "Time 杂志把初代 iPhone 评为 2007 年度发明（Invention of the Year），由 Lev Grossman 主笔的封面专题对乔布斯做了长篇深度采访。文章描述了 iPhone 团队为期两年的秘密开发过程、和摩托罗拉合作 ROKR 失败之后\"必须自己做一台手机\"的决心，以及 Apple 内部对触屏交互的反复迭代。是 iPhone 从概念到产品幕后过程最权威的同期记录。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "Time",
+      "iPhone",
+      "Lev Grossman"
+    ],
+    "sources": [
+      {
+        "id": "time-invention-of-year-2007",
+        "url": "https://content.time.com/time/specials/2007/article/0,28804,1677329_1678542_1677891,00.html",
+        "kind": "article",
+        "title": "Invention of the Year: The iPhone (Time 2007)",
+        "publisher": "Time",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "time-iphone-behind-scenes",
+        "url": "https://time.com/3222128/apple-iphone/",
+        "kind": "article",
+        "title": "Go Behind the Scenes of Apple's First iPhone Release",
+        "publisher": "Time",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Time magazine named the original iPhone its 2007 Invention of the Year. Lev Grossman's cover feature included a deep interview with Jobs and chronicled the iPhone team's two-year secret development process and the failed ROKR collaboration with Motorola. It remains the most authoritative contemporaneous account of how the iPhone went from concept to product."
+  },
+  {
+    "id": "jobs-2008-01-15-macbook-air",
+    "person_id": "jobs",
+    "date": "2008-01-15",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在 Macworld 2008 发布 MacBook Air",
+    "title_en": "Introduces MacBook Air at Macworld 2008",
+    "summary": "著名的\"信封\"时刻——乔布斯走到讲台旁，从一个普通的牛皮纸办公室间互发信封里抽出 MacBook Air，证明它薄到能装进文件袋里。世界上第一台 ultrabook 由此诞生。",
+    "location": "Moscone West, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "MacBook Air",
+      "Keynote",
+      "产品设计"
+    ],
+    "sources": [
+      {
+        "id": "archive-macworld-2008",
+        "url": "https://archive.org/details/972345688g-1-ip",
+        "kind": "video",
+        "title": "Macworld 2008 Keynote",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "完整 Macworld 2008 主题演讲，包括 MacBook Air 信封揭幕、iTunes 电影出租、Apple TV 第二代等。"
+      },
+      {
+        "id": "allaboutstevejobs-macworld-2008",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/macworld_2008",
+        "kind": "video",
+        "title": "Macworld 2008",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=i9XU6wk_mWY"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "The famous \"envelope moment\" — Jobs walked to the side of the stage, slid a MacBook Air out of an ordinary manila inter-office envelope, and proved it was thin enough to fit inside. The world's first ultrabook was born."
+  },
+  {
+    "id": "jobs-2008-03-06-iphone-sdk",
+    "person_id": "jobs",
+    "date": "2008-03-06",
+    "date_precision": "day",
+    "type": "product",
+    "title": "发布 iPhone SDK 和 App Store 计划",
+    "title_en": "Announces iPhone SDK and App Store",
+    "summary": "在 Cupertino 总部 Town Hall 礼堂宣布 iPhone 2.0 软件 + iPhone SDK + App Store。开发者只需 99 美元一年就能拿到 SDK、把应用通过 App Store 无线分发给全球用户。这是平台思维的胜利：Apple 把 iPhone 从一台单纯的手机变成一个开发者生态。4 个月后 App Store 正式上线，500 个 app 起步。今天 App Store 是一个 1,000 亿美元规模的产业。",
+    "location": "Apple Town Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "App Store",
+      "SDK",
+      "平台"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-iphone-sdk",
+        "url": "https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/",
+        "kind": "article",
+        "title": "Apple Announces iPhone 2.0 Software Beta",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At Apple's Town Hall auditorium, Jobs announced iPhone 2.0 software, the iPhone SDK, and the App Store. For just $99 a year, any developer could get the SDK and distribute apps wirelessly to users worldwide. It was a triumph of platform thinking: Apple transformed the iPhone from a standalone phone into a developer ecosystem. The App Store launched four months later with 500 apps."
+  },
+  {
+    "id": "jobs-2009-01-05-medical-leave",
+    "person_id": "jobs",
+    "date": "2009-01-05",
+    "date_precision": "day",
+    "type": "life",
+    "title": "宣布因健康原因请假",
+    "title_en": "Announces medical leave",
+    "summary": "乔布斯在 Apple 官网发表一封致员工和顾客的公开信，承认 2008 年体重持续下降，原因是\"激素失衡\"，需要休假治疗。但实际情况比这严重得多——他正在等待肝脏移植。3 月 21 日他在 Memphis Methodist 医院接受了肝脏移植手术，6 月底回到 Apple。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "健康",
+      "肝移植"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-medical-leave-2009",
+        "url": "https://www.apple.com/newsroom/2009/01/05Letter-from-Apple-CEO-Steve-Jobs/",
+        "kind": "transcript",
+        "title": "Letter from Apple CEO Steve Jobs",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 官网原文发布的健康公开信。乔布斯在信中说\"我去年的体重下降是因为激素失衡，剥夺了身体所需的蛋白质\"，并承诺\"我会继续担任 Apple CEO\"。信里没有提到将进行肝脏移植——这件事直到 6 月手术成功后才被外界知道。"
+      },
+      {
+        "id": "fortune-liver-transplant",
+        "url": "https://fortune.com/2009/06/20/inside-steve-jobs-liver-transplant/",
+        "kind": "article",
+        "title": "Inside Steve Jobs' liver transplant",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Fortune 2009 年 6 月发表的深度调查，第一次公开了乔布斯 3 月 21 日在 Memphis Methodist 医院接受肝脏移植的细节。手术由 James Eason 主刀。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs published an open letter on Apple's website acknowledging that his continuing weight loss was caused by a \"hormone imbalance\" and that he needed a leave of absence. The reality was far more serious: he was awaiting a liver transplant. On March 21 he underwent the transplant at Methodist University Hospital in Memphis."
+  },
+  {
+    "id": "jobs-2010-01-27-ipad",
+    "person_id": "jobs",
+    "date": "2010-01-27",
+    "date_precision": "day",
+    "type": "product",
+    "title": "发布初代 iPad",
+    "title_en": "Introduces iPad",
+    "summary": "在 Yerba Buena 艺术中心发布 iPad，定位介于 iPhone 与笔记本之间的\"第三类设备\"。",
+    "location": "Yerba Buena Center, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "iPad",
+      "Keynote"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-ipad",
+        "url": "https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/",
+        "kind": "article",
+        "title": "Apple Launches iPad",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 2010 年 1 月 27 日的官方新闻稿。售价从 499 美元起，3 月在美国上市。这是乔布斯生前主持的最后一场重要新品发布。",
+        "quotes": [
+          {
+            "text": "iPad creates and defines an entirely new category of devices that will connect users with their apps and content in a much more intimate, intuitive and fun way than ever before.",
+            "text_zh": "iPad 创造并定义了一个全新的设备类别，它将以前所未有的亲密、直觉和有趣的方式，把用户和他们的应用与内容连接起来。",
+            "speaker": "Steve Jobs",
+            "context": "新闻稿中给 iPad 的定调——\"全新一类设备\""
+          }
+        ]
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Introduced the original iPad at Yerba Buena Center as a \"third category\" device sitting between iPhone and laptop. The last major product launch Jobs would personally lead."
+  },
+  {
+    "id": "jobs-2010-04-29-thoughts-on-flash",
+    "person_id": "jobs",
+    "date": "2010-04-29",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "发表公开信《Thoughts on Flash》",
+    "title_en": "Publishes \"Thoughts on Flash\" open letter",
+    "summary": "乔布斯在 Apple 官网亲自署名发布公开信，详细解释为什么 iPhone / iPad / iPod touch 不会支持 Adobe Flash。理由有六条：Flash 是封闭的、Web 视频已经不需要它（H.264）、它影响电池续航、不支持触屏、是 iOS 安全漏洞的最大来源、它在 Apple 平台和开发者之间多了一层第三方层。Adobe 当时反击称 Apple 是为了保护 App Store——乔布斯在信里直接否认这种说法。这封信加速了 Flash 在 Web 上的死亡：两年后 Adobe 自己宣布停止移动 Flash 开发，2020 年彻底退役。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "Flash",
+      "公开信",
+      "Adobe"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-thoughts-on-flash",
+        "url": "https://en.wikipedia.org/wiki/Thoughts_on_Flash",
+        "kind": "article",
+        "title": "Thoughts on Flash (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "newslang-thoughts-on-flash-pdf",
+        "url": "https://newslang.ch/wp-content/uploads/2022/06/Thoughts-on-Flash.pdf",
+        "kind": "document",
+        "title": "Thoughts on Flash (PDF mirror)",
+        "publisher": "newslang.ch (mirror)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "原始 apple.com/hotnews/thoughts-on-flash/ 页面已下线（被新的新闻稿系统取代）。这是 PDF 镜像。",
+        "quotes": [
+          {
+            "text": "Adobe's Flash products are 100% proprietary. By almost any definition, Flash is a closed system.",
+            "text_zh": "Adobe 的 Flash 产品 100% 私有。按任何合理的定义，Flash 都是一个封闭系统。",
+            "speaker": "Steve Jobs",
+            "context": "公开信中关于 Flash 封闭性的核心论点。极具讽刺意味的是 Apple 自己也常被批评封闭"
+          }
+        ]
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs published a signed open letter on Apple's website laying out six reasons why iPhone, iPad, and iPod touch would never support Adobe Flash: it was proprietary, web video had moved to H.264, it drained battery life, was not built for touch, was the top security vulnerability source, and inserted a third-party layer between the OS and developers. The letter accelerated Flash's decline. In 2020 Flash was formally retired."
+  },
+  {
+    "id": "jobs-2010-06-01-d8",
+    "person_id": "jobs",
+    "date": "2010-06-01",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "D8 大会接受 Mossberg 和 Swisher 长访谈",
+    "title_en": "Live interview at D8 (All Things Digital)",
+    "summary": "在 iPad 发布三个月后，乔布斯回到 All Things Digital 第八届大会接受 90 分钟全程采访。话题涵盖与 Adobe Flash 的对决、和 Google 的恶化关系、电视市场为什么\"没法做\"等。著名的\"PC 是卡车，iPad 是汽车\"比喻就出自这场对话。这是他生前最后一次大型公开采访。",
+    "location": "Rancho Palos Verdes, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "iPad",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "allthingsd-d8-uncut",
+        "url": "https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/",
+        "kind": "article",
+        "title": "Apple CEO Steve Jobs at D8: The Full, Uncut Interview",
+        "publisher": "AllThingsD (Wall Street Journal)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "AllThingsD 发表的全长完整版采访，含视频和文字摘要。著名的\"卡车 vs 汽车\"比喻：\"当我们农业社会的时候，所有的交通工具都是卡车，因为人需要它来干农活。但随着大家进了城，开始有了轿车——卡车依然存在，只是变成了少数。我相信 PC 也会变成那样。\""
+      },
+      {
+        "id": "allaboutstevejobs-d8-2010",
+        "url": "https://allaboutstevejobs.com/videos/misc/d8_conference_2010",
+        "kind": "video",
+        "title": "D8 Conference 2010",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=i5f8bqYYwps"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Three months after the iPad launch, Jobs returned to the eighth All Things Digital conference for a 90-minute live interview. Topics ranged from the Flash standoff to Apple's deteriorating relationship with Google. The famous analogy — \"PCs are going to be like trucks; iPads are going to be like cars\" — came from this conversation. It was his last major public interview."
+  },
+  {
+    "id": "jobs-2010-06-07-iphone-4",
+    "person_id": "jobs",
+    "date": "2010-06-07",
+    "date_precision": "day",
+    "type": "product",
+    "title": "WWDC 2010 发布 iPhone 4",
+    "title_en": "Announces iPhone 4 at WWDC 2010",
+    "summary": "在 WWDC 2010 主题演讲上发布 iPhone 4——他称之为\"自初代 iPhone 以来最大的飞跃\"。新功能包括 Retina Display（视网膜屏，328 ppi）、FaceTime 视频通话、A4 芯片（Apple 自研）、新工业设计（玻璃 + 钢圈天线）。但发布两周后用户发现握持方式会让钢圈天线短路、信号下降——\"Antennagate\"由此爆发。",
+    "location": "Moscone West, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "iPhone 4",
+      "Retina",
+      "Keynote"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-iphone-4",
+        "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+        "kind": "article",
+        "title": "Apple Presents iPhone 4",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "At the WWDC 2010 keynote Jobs unveiled the iPhone 4, calling it \"the biggest leap since the original iPhone.\" New features included the Retina Display (326 ppi), FaceTime video calling, and the Apple-designed A4 chip. Two weeks after launch, users discovered that certain grips shorted the steel antenna band and caused signal loss — touching off \"Antennagate.\""
+  },
+  {
+    "id": "jobs-2010-07-16-antennagate",
+    "person_id": "jobs",
+    "date": "2010-07-16",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Antennagate 危机记者会",
+    "title_en": "Antennagate press conference",
+    "summary": "iPhone 4 发布一个月后，因为左下角钢圈天线握持时会短路导致信号下降，舆论崩溃。Consumer Reports 拒绝推荐，主流媒体连日轰炸。乔布斯紧急召集媒体到 Apple 总部开了一场约 1 小时的记者会，亲自演示信号问题、辩解\"所有手机都有这个问题\"，并宣布给所有 iPhone 4 用户免费送保护壳。这是他生涯里少数几次直面公关危机的现场。",
+    "location": "Apple Town Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "Antennagate",
+      "危机公关",
+      "iPhone 4"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-antennagate-letter",
+        "url": "https://www.apple.com/newsroom/2010/07/02Letter-from-Apple-Regarding-iPhone-4/",
+        "kind": "article",
+        "title": "Letter from Apple Regarding iPhone 4",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "记者会前 14 天，Apple 先发了一封\"向用户致信\"，承认信号显示 bug 但否认天线设计问题。这封信没能平息舆论，所以才有了 7 月 16 日的现场记者会。"
+      },
+      {
+        "id": "allaboutstevejobs-antennagate",
+        "url": "https://allaboutstevejobs.com/videos/keynotes/antennagate_2010",
+        "kind": "video",
+        "title": "Antennagate Press Conference (2010)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "We're not perfect. Phones aren't perfect either. We want to make all of our users happy.",
+            "text_zh": "我们并不完美。手机也不完美。我们只是想让所有用户开心。",
+            "speaker": "Steve Jobs",
+            "context": "Antennagate 记者会上的核心立场：承认问题但拒绝召回。这场记者会的处理至今仍被 PR 学院当作\"如何在不认错的情况下让公众满意\"的经典案例"
+          }
+        ],
+        "embed_url": "https://www.youtube.com/watch?v=Q-UgUnMt6Ds"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "A month after the iPhone 4 launch, its steel antenna band's tendency to short-circuit when gripped had become a full-blown crisis. Consumer Reports refused to recommend the phone. Jobs called an emergency press conference, personally demonstrated the signal issue, argued that \"all phones have this problem,\" and announced free bumper cases for every iPhone 4 owner. One of the few times in his career he faced a PR crisis head-on."
+  },
+  {
+    "id": "jobs-2011-06-06-wwdc-icloud",
+    "person_id": "jobs",
+    "date": "2011-06-06",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "WWDC 2011 主题演讲：发布 iCloud（生前最后一场 keynote）",
+    "title_en": "WWDC 2011 keynote: introduces iCloud (his last keynote)",
+    "summary": "乔布斯**生前最后一场 Apple 主题演讲**。当时他已经病得很重——明显消瘦——但坚持登台介绍三件大事：Mac OS X Lion、iOS 5、iCloud。iCloud 是他给 Apple 留下的最后一个战略转向：从 \"Mac 是数字中枢\" 改为 \"云是中枢，所有设备只是访问云的窗口\"。三天后他向 Cupertino 市议会展示 Apple Park 方案，那是他人生最后一次公开露面。",
+    "location": "Moscone West, San Francisco, CA",
+    "key": true,
+    "tags": [
+      "WWDC",
+      "iCloud",
+      "最后的 Keynote"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-icloud-2011",
+        "url": "https://www.apple.com/newsroom/2011/06/06Apple-Introduces-iCloud/",
+        "kind": "article",
+        "title": "Apple Introduces iCloud",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Jobs' final Apple keynote. He was visibly gaunt but insisted on taking the stage to introduce Mac OS X Lion, iOS 5, and iCloud. iCloud represented his last strategic pivot for Apple: from \"the Mac as the digital hub\" to \"the cloud is the hub, and every device is just a window into it.\" Three days later he presented the Apple Park proposal to the Cupertino City Council — his last public appearance."
+  },
+  {
+    "id": "jobs-2011-06-07-cupertino-city-council",
+    "person_id": "jobs",
+    "date": "2011-06-07",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "向 Cupertino 市议会提案 Apple Park",
+    "title_en": "Presents Apple Park to Cupertino City Council",
+    "summary": "乔布斯亲自向 Cupertino 市议会展示新园区的方案——一座容纳 12,000 名 Apple 员工的圆形主楼，外界称\"飞船\"（spaceship）。他说\"这有点像一艘飞船降落了\"。这是他在 WWDC 2011 之后、生前**最后一次公开露面**：5 个月后他就去世了。视频被 Cupertino 市政府永久存档，是他最后留下的一段在公开场合从容讲解产品的录像。",
+    "location": "Cupertino Community Hall, Cupertino, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "Apple Park",
+      "最后一次公开露面"
+    ],
+    "sources": [
+      {
+        "id": "allaboutstevejobs-cupertino-2011",
+        "url": "https://allaboutstevejobs.com/videos/misc/apple_campus_cupertino_2011",
+        "kind": "video",
+        "title": "New Apple Campus Presentation (Cupertino City Council 2011)",
+        "publisher": "All About Steve Jobs",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Cupertino 市议会会议的完整录像。乔布斯在大屏幕上展示园区渲染图，向议员们描述\"环形结构 + 80% 绿地 + 太阳能 + 室内树木\"等细节。最值得看的不是设计本身，而是他的状态——明显消瘦但依然清晰地、充满热情地讲解每个细节。",
+        "quotes": [
+          {
+            "text": "It's a little like a spaceship landed.",
+            "text_zh": "这有点像一艘飞船降落了。",
+            "speaker": "Steve Jobs",
+            "context": "向 Cupertino 市议会描述新园区主楼的圆形设计时所说，从此 Apple Park 在媒体上就有了\"飞船\"的别名"
+          }
+        ],
+        "embed_url": "https://www.youtube.com/watch?v=gtuz5OmOh_M"
+      },
+      {
+        "id": "wikipedia-apple-park",
+        "url": "https://en.wikipedia.org/wiki/Apple_Park",
+        "kind": "article",
+        "title": "Apple Park",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=gtuz5OmOh_M"
+      }
+    ],
+    "source_hints": "Cupertino 市政府官方页面：cupertino.org（govaccess 服务器有 bot 防护，浏览器可访问）",
+    "summary_en": "Jobs personally presented Apple's new campus proposal to the Cupertino City Council — a ring-shaped main building housing 12,000 employees, promptly dubbed \"the spaceship.\" He told the council: \"It's a little like a spaceship landed.\" This was his final public appearance; he died five months later. The video was permanently archived by the City of Cupertino."
+  },
+  {
+    "id": "jobs-2011-08-24-resigns-ceo",
+    "person_id": "jobs",
+    "date": "2011-08-24",
+    "date_precision": "day",
+    "type": "career",
+    "title": "辞去 Apple CEO",
+    "title_en": "Resigns as Apple CEO",
+    "summary": "因健康原因向董事会提交辞呈：\"我一直说，如果有一天我无法再履行作为 Apple CEO 的职责和期望，我会第一个告诉你们。很遗憾，那一天到了。\" 推荐 Tim Cook 接任。",
+    "location": "Cupertino, CA",
+    "key": true,
+    "tags": [
+      "辞职",
+      "Tim Cook"
+    ],
+    "sources": [
+      {
+        "id": "apple-newsroom-resignation-letter",
+        "url": "https://www.apple.com/newsroom/2011/08/24Letter-from-Steve-Jobs/",
+        "kind": "transcript",
+        "title": "Letter from Steve Jobs",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "辞职信全文，由 Apple 官网原文发布。信尾推荐 Tim Cook 接任 CEO。距离他去世只有 42 天。",
+        "quotes": [
+          {
+            "text": "I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple's CEO, I would be the first to let you know. Unfortunately, that day has come.",
+            "text_zh": "我一直说，如果有一天我无法再履行作为 Apple CEO 的职责和期望，我会第一个告诉你们。很遗憾，那一天到了。",
+            "speaker": "Steve Jobs",
+            "context": "辞职信开篇，呼应他多年来对外承诺的健康透明承诺"
+          }
+        ]
+      },
+      {
+        "id": "apple-newsroom-resignation-announcement",
+        "url": "https://www.apple.com/newsroom/2011/08/24Steve-Jobs-Resigns-as-CEO-of-Apple/",
+        "kind": "article",
+        "title": "Steve Jobs Resigns as CEO of Apple",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Submitted his resignation letter to the board for health reasons: \"I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple's CEO, I would be the first to let you know. Unfortunately, that day has come.\" Recommended Tim Cook as his successor."
+  },
+  {
+    "id": "jobs-2011-10-05-death",
+    "person_id": "jobs",
+    "date": "2011-10-05",
+    "date_precision": "day",
+    "type": "life",
+    "title": "因胰腺癌并发症去世",
+    "title_en": "Dies from pancreatic cancer complications",
+    "summary": "在加州 Palo Alto 家中去世，享年 56 岁。Apple 官网首页换为乔布斯黑白肖像。",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "逝世"
+    ],
+    "sources": [
+      {
+        "id": "apple-board-statement",
+        "url": "https://www.apple.com/newsroom/2011/10/05Statement-by-Apples-Board-of-Directors/",
+        "kind": "article",
+        "title": "Statement by Apple's Board of Directors",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 董事会 2011 年 10 月 5 日发表的悼念声明。",
+        "quotes": [
+          {
+            "text": "Steve's brilliance, passion and energy were the source of countless innovations that enrich and improve all of our lives. The world is immeasurably better because of Steve.",
+            "text_zh": "Steve 的才华、激情和活力，是无数让我们生活变得更丰富、更美好的创新的源头。这个世界因为 Steve 而无以言表地更好了。",
+            "speaker": "Apple 董事会",
+            "context": "他去世当晚发表的官方声明"
+          }
+        ]
+      },
+      {
+        "id": "apple-stevejobs-tribute",
+        "url": "https://www.apple.com/stevejobs/",
+        "kind": "article",
+        "title": "Remembering Steve Jobs",
+        "publisher": "Apple",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Apple 官网为乔布斯设立的永久纪念页。他去世后的几天里，apple.com 首页只显示一张乔布斯的黑白肖像和生卒年份。这个纪念页保留了那段时间的封面以及大量的悼词来信。"
+      }
+    ],
+    "source_hints": null,
+    "summary_en": "Died at his home in Palo Alto, California, age 56, from complications of pancreatic cancer. Apple's homepage was replaced with a black-and-white portrait of Jobs."
+  }
+]

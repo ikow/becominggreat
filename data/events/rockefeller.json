@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "rockefeller-1839-07-08-born-richford",
+    "person_id": "rockefeller",
+    "date": "1839-07-08",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于纽约里奇福德",
+    "title_en": "Born in Richford, New York",
+    "summary": "约翰·戴维森·洛克菲勒于 1839 年 7 月 8 日出生在纽约州蒂奥加县的小村庄里奇福德,是六个孩子中的第二个。父亲威廉·艾弗里·洛克菲勒(绰号 'Big Bill')是一位行踪不定的兜售江湖药方的小贩,常年在外,生活作风可疑;母亲伊丽莎·戴维森则是一位虔诚的浸信会教徒,以严苛的节俭、自律和清教徒式的纪律抚养孩子。母亲的宗教信仰、储蓄习惯和对账本的执着,深刻塑造了洛克菲勒一生节制、记账、捐什一税的品格,也为其日后建立美孚石油帝国和现代慈善事业奠定了精神底色。",
+    "summary_en": "John Davison Rockefeller was born on July 8, 1839 in the small village of Richford, Tioga County, New York, the second of six children. His father William Avery 'Big Bill' Rockefeller was an itinerant patent-medicine salesman of dubious character, frequently absent from home; his mother Eliza Davison was a devout Baptist who raised the children with strict frugality, discipline, and Puritan piety. His mother's religion, thrift, and ledger-keeping habits indelibly shaped Rockefeller's lifelong character of self-restraint, meticulous bookkeeping, and tithing — the spiritual foundation for his later Standard Oil empire and modern philanthropy.",
+    "location": "Richford, New York",
+    "key": true,
+    "tags": [
+      "birth",
+      "family",
+      "early-life"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1853-move-to-cleveland",
+    "person_id": "rockefeller",
+    "date": "1853-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "随家人迁居克利夫兰",
+    "title_en": "Family moves to Cleveland, Ohio",
+    "summary": "1853 年,14 岁的洛克菲勒随家人从纽约州奥韦格搬到俄亥俄州克利夫兰。父亲威廉·洛克菲勒常年在外行医贩药,母亲伊丽莎独力带着六个孩子迁居中西部,寻求更好的发展机会。克利夫兰当时正处于快速工业化阶段,凭借伊利运河、俄亥俄运河与多条铁路的交汇,已成为五大湖地区最重要的商业中心之一。这座城市将成为洛克菲勒的商业起点与炼油帝国的大本营。他在克利夫兰中央高中完成学业,并在 Folsom 商业学院学习簿记与银行学——这些实用技能为他两年后进入商界打下基础。",
+    "summary_en": "In 1853 the 14-year-old Rockefeller moved with his family from Owego, New York to Cleveland, Ohio. His mother Eliza, managing six children largely alone while his father William roamed selling patent medicines, sought better opportunities in the booming Midwest. Cleveland, at the junction of the Erie and Ohio canals and several rail lines, was already one of the Great Lakes' foremost commercial hubs. The city would become the launchpad for Rockefeller's business career and the headquarters of his refining empire. He finished school at Cleveland Central High and took courses in bookkeeping and banking at Folsom's Commercial College — practical skills that prepared him to enter business two years later.",
+    "location": "Cleveland, Ohio",
+    "key": false,
+    "tags": [
+      "early-life",
+      "cleveland",
+      "family"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1855-first-tithe",
+    "person_id": "rockefeller",
+    "date": "1855-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "首次什一奉献——从第一份薪水开始捐赠",
+    "title_en": "First tithe — begins lifelong practice of charitable giving from first paycheck",
+    "summary": "1855 年,16 岁的洛克菲勒从 Hewitt & Tuttle 公司领取第一笔薪水后,立即将约 6% 捐给教会和慈善机构——他把每一笔收支都记录在一本名为「Ledger A」的小账本中。从这一年起,他终生坚持将收入的一定比例(后来增至十分之一乃至更多)捐给宗教、教育和社会事业。这个习惯源于母亲伊丽莎的浸信会教导和主日学校的什一税教育。「Ledger A」不仅记录了他最早的商业交易,也记录了他每一笔慈善捐款,成为研究洛克菲勒早期生涯最珍贵的一手史料。这种从第一美元就开始系统性捐赠的做法,预示了他晚年建立的庞大慈善帝国。",
+    "summary_en": "In 1855 the 16-year-old Rockefeller, upon receiving his very first wages from Hewitt & Tuttle, immediately donated about 6 percent to his church and charitable causes — meticulously recording every cent in a small notebook he called 'Ledger A.' From that year on he gave a fixed share of his income (eventually a full tithe and far beyond) to religious, educational, and social causes for the rest of his life. The habit was instilled by his mother Eliza's Baptist faith and Sunday-school tithing lessons. Ledger A — which recorded both his earliest commercial transactions and every charitable gift — has become the most precious primary source for studying young Rockefeller's career. This practice of systematic giving from the very first dollar foreshadowed the colossal philanthropic empire he would build in later decades.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "tithe",
+      "religion",
+      "ledger-a"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rockefeller-archive-center",
+        "url": "https://rockarch.org/",
+        "kind": "article",
+        "title": "Rockefeller Archive Center",
+        "publisher": "Rockefeller Archive Center",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1855-09-26-job-day-hewitt-tuttle",
+    "person_id": "rockefeller",
+    "date": "1855-09-26",
+    "date_precision": "day",
+    "type": "career",
+    "title": "在 Hewitt & Tuttle 担任记账员 ——「Job Day」",
+    "title_en": "First job as bookkeeper at Hewitt & Tuttle — 'Job Day'",
+    "summary": "1855 年 9 月 26 日,16 岁的洛克菲勒在克利夫兰一家名为 Hewitt & Tuttle 的小型货运代理与农产品委托商行获得了人生第一份正式工作,职位是助理记账员,起薪为每天约 50 美分。这一天对他意义非凡,他终生将 9 月 26 日称为「Job Day」(就职日),并在每年这一天庆祝,认为这比自己的生日更值得纪念。在这里他学会了精确的复式记账、商业谈判以及对成本的极致控制——这些技能后来成为美孚石油击败竞争对手的核心武器。他在这份工作中表现出非凡的勤奋与对数字的痴迷,为日后的商业生涯奠定基础。",
+    "summary_en": "On September 26, 1855, the 16-year-old Rockefeller landed his first real job as an assistant bookkeeper at Hewitt & Tuttle, a Cleveland produce-shipping commission firm, earning roughly 50 cents a day. The day was so meaningful to him that he celebrated September 26 as 'Job Day' every year for the rest of his life, considering it more important than his own birthday. There he mastered precise double-entry bookkeeping, commercial negotiation, and a fanatical attention to costs — the very skills that would later become Standard Oil's core weapons against rivals. His extraordinary diligence and obsession with numbers laid the foundation for the business career to come.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "career",
+      "first-job",
+      "bookkeeping",
+      "cleveland"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "history-com-rockefeller",
+        "url": "https://www.history.com/topics/19th-century/john-d-rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "History.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1859-clark-rockefeller-founded",
+    "person_id": "rockefeller",
+    "date": "1859-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "与 Maurice Clark 合伙创办 Clark & Rockefeller 农产品佣金商行",
+    "title_en": "Co-founds Clark & Rockefeller produce commission firm",
+    "summary": "1859 年,年仅 19 岁的洛克菲勒决定不再为人打工,与比自己年长十岁的英裔商人 Maurice B. Clark 合伙创办 Clark & Rockefeller,从事农产品与肉类的佣金贸易和转运业务。洛克菲勒投入积蓄约 800 美元,并从父亲处借入 1,000 美元(按年利率 10% 偿还)作为启动资金。公司设在克利夫兰河边,利用城市铁路与水路枢纽优势,从事谷物、干草、肉类和杂货的买卖代理。第一年营业额即达约 45 万美元,净利润约 4,400 美元,证明了洛克菲勒对物流、成本控制和客户管理的天赋。这是他第一家公司,也标志着他从雇员到企业家的关键转型。",
+    "summary_en": "In 1859, at just 19, Rockefeller decided to stop working for others and co-founded Clark & Rockefeller with Maurice B. Clark, an English-born merchant a decade his senior, dealing in produce commission — grain, hay, meats, and sundries. Rockefeller contributed about $800 in savings and borrowed $1,000 from his father at 10 percent annual interest as seed capital. Located on Cleveland's riverfront and leveraging the city's rail-and-water hub, the firm grossed roughly $450,000 in its first year with about $4,400 in net profit, proving Rockefeller's gift for logistics, cost control, and client management. It was his first company and the pivotal step from employee to entrepreneur.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "founding",
+      "produce",
+      "first-company",
+      "clark"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1863-first-oil-refinery",
+    "person_id": "rockefeller",
+    "date": "1863-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "与 Samuel Andrews 在克利夫兰建造首座炼油厂",
+    "title_en": "Builds first oil refinery in Cleveland with Samuel Andrews",
+    "summary": "1859 年宾夕法尼亚 Titusville 油田被发现后,克利夫兰因铁路与水路枢纽地位迅速崛起为美国炼油中心。1863 年,洛克菲勒与 Maurice Clark 兄弟以及富有发明才能的英裔化学技师 Samuel Andrews 合伙,在克利夫兰金斯伯里溪畔建立了 Andrews, Clark & Company 炼油厂(俗称 Excelsior Works),投入约 4,000 美元。Andrews 掌握当时最先进的精炼工艺,能从原油中提炼出比对手更高比例的灯用煤油。洛克菲勒迅速意识到石油的潜力远超农产品,从此将主要精力投入这一新兴产业,正式开启他长达半世纪的石油生涯。",
+    "summary_en": "After oil was struck in Titusville, Pennsylvania in 1859, Cleveland quickly rose as America's refining hub thanks to its rail and water connections. In 1863 Rockefeller, the Clark brothers, and the inventive English-born chemist Samuel Andrews put up about $4,000 to build the Andrews, Clark & Company refinery (later known as the Excelsior Works) on Kingsbury Run in Cleveland. Andrews mastered cutting-edge distillation that yielded more lamp-grade kerosene per barrel than rivals. Rockefeller quickly grasped that oil dwarfed produce in potential and shifted his energies into this new industry, formally beginning his half-century career in oil.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "oil",
+      "refinery",
+      "founding",
+      "andrews"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1863-euclid-avenue-mansion",
+    "person_id": "rockefeller",
+    "date": "1863-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "迁入克利夫兰欧几里得大道豪宅",
+    "title_en": "Moves to Euclid Avenue mansion in Cleveland",
+    "summary": "约 1863 年前后,洛克菲勒在克利夫兰著名的「百万富翁大道」(Millionaires' Row)——欧几里得大道(Euclid Avenue)上购入一栋宅邸。欧几里得大道在 19 世纪后半叶被誉为「全美最美的街道」,汇聚了克利夫兰工商精英的豪华住宅。洛克菲勒在此居住超过二十年,期间他的家族不断壮大,四女一子在这里出生和长大。这处居所也见证了他从一位中等规模的炼油商成长为美国石油工业绝对霸主的全过程。搬入欧几里得大道标志着年仅二十多岁的洛克菲勒已跻身克利夫兰上层社会,但他始终保持着节俭低调的生活方式。",
+    "summary_en": "Around 1863, Rockefeller purchased a home on Cleveland's Euclid Avenue, the famed 'Millionaires' Row' — considered 'the most beautiful street in America' in the late 19th century and lined with the mansions of Cleveland's industrial elite. He lived there for over two decades; his five children were born and raised in the house. The residence witnessed his entire ascent from a mid-sized refiner to the undisputed ruler of the American oil industry. Moving to Euclid Avenue signaled that the young man in his twenties had already entered Cleveland's upper echelons, though he maintained the frugal, understated lifestyle for which he was known.",
+    "location": "Cleveland, Ohio",
+    "key": false,
+    "tags": [
+      "residence",
+      "euclid-avenue",
+      "cleveland"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1864-09-08-marries-laura-spelman",
+    "person_id": "rockefeller",
+    "date": "1864-09-08",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与劳拉·斯佩尔曼结婚",
+    "title_en": "Marries Laura Celestia Spelman",
+    "summary": "1864 年 9 月 8 日,25 岁的洛克菲勒与劳拉·塞莱斯蒂亚·斯佩尔曼(昵称 Cettie)结婚。两人在克利夫兰中央高中相识,劳拉来自一个废奴主义者家庭,父亲哈维·斯佩尔曼是地下铁路的活跃成员。劳拉受过良好教育,虔诚信奉公理会,深谋远虑且节俭,是洛克菲勒一生最重要的精神伴侣和顾问。洛克菲勒后来回忆说:「没有她的建议,我会是个穷人。」两人育有四女一子,儿子小约翰·D·洛克菲勒后来继承父业管理家族慈善事业。劳拉·斯佩尔曼的名字也被用以命名亚特兰大的 Spelman College(美国著名黑人女子学院),作为对她废奴家庭传统的纪念。",
+    "summary_en": "On September 8, 1864, the 25-year-old Rockefeller married Laura Celestia 'Cettie' Spelman. The two had met at Cleveland's Central High School. Laura came from a staunchly abolitionist family — her father Harvey Spelman had been active in the Underground Railroad. Well-educated, devoutly Congregationalist, prudent, and frugal, she became Rockefeller's most trusted lifelong confidante and adviser. He later said, 'Without her advice, I would be a poor man.' They had four daughters and one son, John D. Rockefeller Jr., who would inherit stewardship of the family's philanthropies. Spelman College in Atlanta, the famous historically Black women's college, was named in honor of Laura's abolitionist family.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "marriage",
+      "family",
+      "laura-spelman"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-laura-spelman",
+        "url": "https://en.wikipedia.org/wiki/Laura_Spelman_Rockefeller",
+        "kind": "article",
+        "title": "Laura Spelman Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1865-02-buyout-clark-brothers",
+    "person_id": "rockefeller",
+    "date": "1865-02-02",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "以 72,500 美元买断 Clark 兄弟,接管炼油业务",
+    "title_en": "Buys out the Clark brothers in landmark auction",
+    "summary": "1865 年初,洛克菲勒与 Maurice Clark 兄弟在炼油厂扩张策略上发生根本分歧:Clark 兄弟保守反对借贷扩张,洛克菲勒则坚信石油是未来。2 月 2 日两人在律师面前达成协议,以拍卖方式决定公司归属。竞价从 500 美元开始,迅速攀升至 72,500 美元,洛克菲勒果断出价拿下整个炼油厂。他后来说这是「我一生中最重要的一天」。买断后他与 Samuel Andrews 重组公司为 Rockefeller & Andrews,完全摆脱保守派合伙人的束缚。当年炼油厂即成为克利夫兰最大,几年后又吸收 Henry Flagler 成为 Rockefeller, Andrews & Flagler,为 1870 年成立的 Standard Oil 奠定核心团队。",
+    "summary_en": "By early 1865 Rockefeller and the Clark brothers had reached a fundamental rift over expansion: the Clarks were conservative and against borrowing, while Rockefeller saw oil as the future. On February 2 they met in a lawyer's office and agreed to settle the partnership by private auction. Bidding opened at $500 and climbed rapidly until Rockefeller bid $72,500 to take the entire refinery. He later called it 'the most important day of my life.' He immediately reorganized with Samuel Andrews as Rockefeller & Andrews, freed from his conservative partners. Within the year the refinery was Cleveland's largest, and Henry Flagler soon joined to form Rockefeller, Andrews & Flagler — the core team that would launch Standard Oil in 1870.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "deal",
+      "buyout",
+      "turning-point"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1867-andrews-flagler-partnership",
+    "person_id": "rockefeller",
+    "date": "1867-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "Henry Flagler 加入,组建 Rockefeller, Andrews & Flagler",
+    "title_en": "Henry Flagler joins; Rockefeller, Andrews & Flagler formed",
+    "summary": "1867 年,洛克菲勒引入他最重要的商业盟友之一——Henry Morrison Flagler。Flagler 自带资金和人脉,更关键的是他在铁路运费谈判方面的天才。三人将合伙企业重组为 Rockefeller, Andrews & Flagler,迅速成为克利夫兰乃至全美最大的炼油企业。Flagler 主导与 Lake Shore Railroad 等铁路公司的秘密回扣谈判,以大批量保证运量换取远低于公开价的运费,使美孚在成本上获得碾压性优势。洛克菲勒后来称 Flagler 为「公司最伟大的资产」。这一合伙关系直接孕育了三年后 Standard Oil 的诞生,Flagler 也成为美孚核心决策层的灵魂人物之一。",
+    "summary_en": "In 1867 Rockefeller brought in one of his most important business allies — Henry Morrison Flagler. Flagler contributed capital and connections but, crucially, a genius for railroad freight negotiations. The trio reorganized as Rockefeller, Andrews & Flagler, quickly becoming the largest refinery in Cleveland and one of the biggest in the nation. Flagler spearheaded secret rebate deals with the Lake Shore Railroad and others, trading guaranteed high-volume shipments for freight rates far below published tariffs — giving Standard Oil a crushing cost advantage. Rockefeller later called Flagler 'the greatest asset the company had.' This partnership was the direct precursor to the 1870 founding of Standard Oil, and Flagler became one of its core strategic minds.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "founding",
+      "flagler",
+      "partnership",
+      "rebates"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-henry-flagler",
+        "url": "https://en.wikipedia.org/wiki/Henry_Flagler",
+        "kind": "article",
+        "title": "Henry Flagler",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1868-lake-shore-rebates",
+    "person_id": "rockefeller",
+    "date": "1868-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "与 Lake Shore Railroad 达成秘密运费回扣协议",
+    "title_en": "Secures secret freight rebate deal with Lake Shore Railroad",
+    "summary": "1868 至 1869 年间,洛克菲勒和 Flagler 与 Cornelius Vanderbilt 控制的 Lake Shore and Michigan Southern Railway 达成里程碑式的秘密运费回扣协议:美孚承诺每天固定运出 60 车皮精炼油,铁路则给予远低于公开运价的优惠费率,并在每桶运费中返还一定金额的回扣。这种「以量换价」的策略在当时并不违法,但给予了美孚相对于小型竞争对手的巨大成本优势——小炼油商无法提供同等运量,因此无法获得同等费率。这一做法成为美孚后来系统性整合全国炼油业的核心武器,也是日后公众舆论和反托拉斯诉讼中最受争议的商业行为之一。",
+    "summary_en": "Between 1868 and 1869, Rockefeller and Flagler struck a landmark secret freight rebate deal with the Lake Shore and Michigan Southern Railway, controlled by Cornelius Vanderbilt. Standard Oil guaranteed 60 carloads of refined oil per day; in return, the railroad charged far below its published rates, rebating a fixed amount per barrel. This 'volume-for-price' strategy was not yet illegal but gave Standard Oil an enormous cost advantage over smaller competitors who could not match the volume and thus could not get the same rates. The practice became Standard Oil's core weapon in its systematic consolidation of the national refining industry and remained one of the most controversial business tactics in antitrust history.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "deal",
+      "rebate",
+      "railroad",
+      "lake-shore"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1870-01-10-standard-oil-founded",
+    "person_id": "rockefeller",
+    "date": "1870-01-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在俄亥俄成立美孚石油公司(Standard Oil of Ohio)",
+    "title_en": "Founds Standard Oil Company of Ohio",
+    "summary": "1870 年 1 月 10 日,洛克菲勒与弟弟 William Rockefeller、Henry Flagler、Samuel Andrews、Stephen Harkness 等合伙人将原 Rockefeller, Andrews & Flagler 改组为股份制公司——Standard Oil Company of Ohio,法定资本 100 万美元,洛克菲勒持有约四分之一股份并出任总裁。公司之名「Standard」意在向客户保证产品品质统一可靠,在当时灯用煤油质量参差不齐的市场中具有重要营销意义。新成立时美孚已是克利夫兰最大炼油厂,占全美炼油能力约 10%。这一天标志着现代美国第一家垂直整合的能源巨头诞生,也是日后改写全球石油工业格局的起点。",
+    "summary_en": "On January 10, 1870, Rockefeller, his brother William, Henry Flagler, Samuel Andrews, Stephen Harkness and other partners reorganized Rockefeller, Andrews & Flagler into a joint-stock corporation — the Standard Oil Company of Ohio — capitalized at $1 million, with Rockefeller holding about a quarter of the shares and serving as president. The name 'Standard' was chosen to assure customers of uniform, reliable quality at a time when kerosene quality varied wildly. At founding it was already Cleveland's largest refiner, controlling roughly 10 percent of all U.S. refining capacity. The day marked the birth of America's first modern, vertically integrated energy giant — and the starting point for an enterprise that would reshape the global oil industry.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "founding",
+      "standard-oil",
+      "incorporation"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-this-month-business-history",
+        "url": "https://guides.loc.gov/this-month-in-business-history",
+        "kind": "document",
+        "title": "This Month in Business History",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1872-03-cleveland-massacre",
+    "person_id": "rockefeller",
+    "date": "1872-03-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "南方改良公司与「克利夫兰大屠杀」",
+    "title_en": "South Improvement Company scheme & the 'Cleveland Massacre'",
+    "summary": "1872 年初,洛克菲勒与铁路巨头共谋成立 South Improvement Company(南方改良公司),通过秘密协议获取铁路运费回扣,甚至从竞争对手运量中也能抽成。消息曝光后引发宾夕法尼亚油区生产商的暴力抗议,该计划在数月内被迫废止。但洛克菲勒已抓住机会,在 1872 年 2 月至 3 月短短约六周内,凭借成本与回扣优势,以现金或美孚股票收购了克利夫兰 26 家炼油厂中的 22 家——史称「克利夫兰大屠杀」(Cleveland Massacre)。此役奠定美孚在美国炼油业的绝对统治地位,从此其全国市场份额迅速攀升至 90% 以上,也成为美国反垄断史上最著名的产业整合案例之一。",
+    "summary_en": "In early 1872 Rockefeller conspired with major railroads to form the South Improvement Company, a secret scheme securing freight rebates — even drawbacks on competitors' shipments. When the plan leaked, Pennsylvania oil-region producers erupted in violent protest and the scheme was scrapped within months. But Rockefeller had already seized the moment: in roughly six weeks between February and March 1872 he used his cost and rebate advantages to buy out 22 of Cleveland's 26 refineries with cash or Standard Oil stock — the episode forever known as the 'Cleveland Massacre.' It established Standard Oil's commanding grip on U.S. refining, propelling its national market share past 90 percent within a few years, and became one of the most notorious consolidations in American antitrust history.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "deal",
+      "monopoly",
+      "cleveland-massacre",
+      "south-improvement"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-south-improvement",
+        "url": "https://en.wikipedia.org/wiki/South_Improvement_Company",
+        "kind": "article",
+        "title": "South Improvement Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-cleveland-massacre",
+        "url": "https://en.wikipedia.org/wiki/Cleveland_Massacre",
+        "kind": "article",
+        "title": "Cleveland Massacre (Standard Oil)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1873-panic-buys-refineries",
+    "person_id": "rockefeller",
+    "date": "1873-09-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "1873 年经济恐慌中大举收购廉价炼油厂",
+    "title_en": "Acquires distressed refineries during the Panic of 1873",
+    "summary": "1873 年 9 月,美国爆发严重经济恐慌(Panic of 1873),银行倒闭、铁路破产、工厂停工,全国经济陷入长达六年的「长萧条」(Long Depression)。对大多数企业而言这是灾难,但对现金充裕且管理高效的美孚石油而言却是千载难逢的扩张机遇。洛克菲勒利用其雄厚的现金储备和稳定的银行信用,以远低于正常价格的成本收购了大批面临破产的炼油厂,将它们整合进美孚体系。他的名言之一即来自这一时期:「逆境中的好运气,往往是之前准备好的结果。」到恐慌结束时,美孚已牢牢控制了美国炼油业的大部分产能,从一家地区性领军企业跃升为全国性垄断力量。",
+    "summary_en": "In September 1873 the United States plunged into the Panic of 1873 — banks failed, railroads collapsed, and factories shut down in what became the six-year 'Long Depression.' For most businesses it was catastrophic, but for cash-rich, efficiently managed Standard Oil it was a once-in-a-generation buying opportunity. Rockefeller used his deep cash reserves and solid bank credit to acquire bankrupt and distressed refineries at a fraction of their normal cost, folding them into the Standard Oil system. By the time the panic subsided, Standard Oil had consolidated control over much of U.S. refining capacity, leaping from a regional leader to a national monopoly force.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "deal",
+      "panic-1873",
+      "consolidation",
+      "counter-cyclical"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "history-com-rockefeller",
+        "url": "https://www.history.com/topics/19th-century/john-d-rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "History.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1878-controls-90pct-refining",
+    "person_id": "rockefeller",
+    "date": "1878-01-01",
+    "date_precision": "year",
+    "type": "other",
+    "title": "美孚控制美国 90% 以上的炼油产能",
+    "title_en": "Standard Oil controls over 90% of U.S. oil refining",
+    "summary": "到 1878 年,经过十余年的系统性收购、合并和垂直整合,美孚石油已经控制了美国约 90% 的石油精炼产能,同时大幅渗透到输油管道、铁路油罐车和石油运输等上下游环节。这一市场份额在美国工业史上史无前例。洛克菲勒通过三大策略实现了这一壮举:一是利用铁路回扣压低成本,二是在经济衰退中低价收购竞争对手,三是通过极致的效率管理(自制油桶、回收废料、优化炼化流程)降低生产成本至行业最低水平。美孚此时已不仅是一家公司,而是一个事实上的全国性石油垄断体。",
+    "summary_en": "By 1878, after more than a decade of systematic acquisitions, mergers, and vertical integration, Standard Oil controlled roughly 90 percent of U.S. oil refining capacity and had penetrated deeply into pipelines, railroad tank cars, and petroleum transport. This market share was unprecedented in American industrial history. Rockefeller achieved it through three main strategies: railroad rebates to suppress costs, counter-cyclical buying of competitors during economic downturns, and relentless operational efficiency — manufacturing his own barrels, recycling waste products, and optimizing refining processes to achieve the lowest production costs in the industry. Standard Oil was no longer merely a company; it was a de facto national oil monopoly.",
+    "location": "Cleveland, Ohio",
+    "key": true,
+    "tags": [
+      "monopoly",
+      "market-share",
+      "consolidation"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1879-trust-agreement-drafted",
+    "person_id": "rockefeller",
+    "date": "1879-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "首版美孚石油托拉斯协议草拟",
+    "title_en": "First Standard Oil Trust Agreement drafted",
+    "summary": "1879 年,洛克菲勒的法律顾问 Samuel C.T. Dodd 草拟了美国历史上第一份「托拉斯协议」(Trust Agreement)的初稿,旨在解决美孚石油面临的核心法律难题:当时美国各州法律禁止一家公司在其注册州以外持有另一家公司的股份,而美孚的业务已遍及全国数十个州。Dodd 设计的方案是:各州子公司的股东将股份移交给一组「受托人」(trustees),由受托人统一持有并管理所有子公司,股东则按比例获得托拉斯的受益凭证(trust certificates)。这份草案经过两年多的修改完善,于 1882 年 1 月 2 日正式签署执行,成为美国「Trust」概念的法律源头。",
+    "summary_en": "In 1879, Rockefeller's attorney Samuel C.T. Dodd drafted the first version of the Standard Oil Trust Agreement, designed to solve a core legal problem: state laws prohibited corporations from holding shares in companies incorporated in other states, yet Standard Oil's operations spanned dozens of states. Dodd's innovation was to have stockholders of all subsidiary companies transfer their shares to a group of 'trustees' who would hold and manage all subsidiaries centrally, while stockholders received proportional trust certificates. After more than two years of refinement, the agreement was formally executed on January 2, 1882, becoming the legal origin of the American 'trust' concept.",
+    "location": "New York, New York",
+    "key": false,
+    "tags": [
+      "trust",
+      "corporate-law",
+      "dodd"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1882-01-02-standard-oil-trust",
+    "person_id": "rockefeller",
+    "date": "1882-01-02",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "组建美孚石油托拉斯,首创美国信托公司架构",
+    "title_en": "Forms the Standard Oil Trust — first US trust structure",
+    "summary": "1882 年 1 月 2 日,洛克菲勒及其法律顾问 Samuel C.T. Dodd 设计签署《Standard Oil Trust Agreement》,将分散在多个州的 40 余家附属公司股份集中交由九位受托人(Trustees)以信托形式持有,由洛克菲勒任 trust 主席。这一安排巧妙绕开了各州禁止公司跨州持股的法律,实现对全国 90% 以上炼油能力的统一指挥与利润分配。这是美国历史上第一家「Trust」,后来成为「托拉斯」(trust)一词成为「巨型垄断企业」同义词的源头,直接催生了 1890 年的《谢尔曼反托拉斯法》和此后整整一个世纪的反垄断法体系。",
+    "summary_en": "On January 2, 1882, Rockefeller and his lawyer Samuel C.T. Dodd executed the Standard Oil Trust Agreement, transferring the stock of more than 40 affiliated companies scattered across many states into the hands of nine trustees, with Rockefeller as chairman. The structure ingeniously circumvented state laws prohibiting corporations from owning stock across state lines, allowing unified control and profit distribution over more than 90 percent of U.S. refining capacity. It was the first 'trust' in American history, the very source of the word becoming a synonym for giant monopoly — and the direct trigger for the 1890 Sherman Antitrust Act and an entire century of U.S. antitrust law.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "trust",
+      "monopoly",
+      "corporate-structure",
+      "standard-oil"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1884-spelman-seminary-donation",
+    "person_id": "rockefeller",
+    "date": "1884-01-01",
+    "date_precision": "year",
+    "type": "other",
+    "title": "向斯佩尔曼神学院捐款,以妻子家族姓氏命名",
+    "title_en": "Donates to Spelman Seminary, named after his wife's family",
+    "summary": "1884 年,洛克菲勒向亚特兰大的一所黑人女子学校(Atlanta Baptist Female Seminary)提供大额捐款。该校随后更名为 Spelman Seminary(后成为 Spelman College),以纪念洛克菲勒妻子劳拉·斯佩尔曼的家族——斯佩尔曼家族是积极参与地下铁路运动的废奴主义者。这是洛克菲勒最早的大额教育捐赠之一,也反映了他和劳拉对黑人教育事业的持久关注。Spelman College 后来发展成为美国最负盛名的历史性黑人女子文理学院(HBCU),培养了大量非裔美国女性领袖,包括 Alice Walker、Marian Wright Edelman 等。洛克菲勒家族对该校的资助持续了数十年。",
+    "summary_en": "In 1884 Rockefeller made a substantial donation to the Atlanta Baptist Female Seminary, a school for Black women. The school was subsequently renamed Spelman Seminary (later Spelman College) in honor of his wife Laura Spelman's family — the Spelmans had been active abolitionists involved in the Underground Railroad. This was one of Rockefeller's earliest major educational gifts and reflected the couple's enduring commitment to Black education. Spelman College grew into the most prestigious historically Black women's liberal-arts college (HBCU) in the United States, producing generations of African American women leaders including Alice Walker and Marian Wright Edelman. The Rockefeller family continued to support the school for decades.",
+    "location": "Atlanta, Georgia",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "education",
+      "spelman",
+      "hbcu"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-spelman-college",
+        "url": "https://en.wikipedia.org/wiki/Spelman_College",
+        "kind": "article",
+        "title": "Spelman College",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1884-forest-hill-estate",
+    "person_id": "rockefeller",
+    "date": "1884-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "购入 Forest Hill 庄园作为夏季避暑别墅",
+    "title_en": "Acquires Forest Hill estate in East Cleveland",
+    "summary": "1884 年,洛克菲勒在东克利夫兰购入 Forest Hill 庄园,将其改建为家族的夏季居所和休养地。这处占地约 700 英亩的庄园原本是一家失败的度假酒店,洛克菲勒以低价购入后大幅扩建,增设农场、花园、高尔夫球场和马车道。Forest Hill 成为洛克菲勒家族生活的核心场所之一,在这里他接待亲友、管理慈善事务并享受户外活动。庄园后来被洛克菲勒家族部分捐赠给克利夫兰高地(Cleveland Heights)和东克利夫兰(East Cleveland)两个城市,成为 Forest Hill Park 公共绿地,至今仍是该地区最重要的城市公园之一。",
+    "summary_en": "In 1884, Rockefeller acquired the Forest Hill estate in East Cleveland, converting it into the family's summer residence and retreat. The roughly 700-acre property had originally been a failed resort hotel; Rockefeller bought it cheaply and expanded it extensively, adding farms, gardens, a golf course, and carriage roads. Forest Hill became one of the family's principal residences, where Rockefeller entertained friends, managed his philanthropic affairs, and pursued outdoor recreation. The estate was later partially donated by the Rockefeller family to the cities of Cleveland Heights and East Cleveland, becoming Forest Hill Park — still one of the area's most important urban green spaces today.",
+    "location": "East Cleveland, Ohio",
+    "key": false,
+    "tags": [
+      "residence",
+      "forest-hill",
+      "estate"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1885-26-broadway-hq",
+    "person_id": "rockefeller",
+    "date": "1885-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "美孚石油总部迁至纽约百老汇 26 号",
+    "title_en": "Standard Oil moves headquarters to 26 Broadway, New York",
+    "summary": "1885 年,美孚石油将总部从克利夫兰迁至纽约曼哈顿下城百老汇 26 号(26 Broadway),这座位于华尔街金融区核心地带的大楼成为美国镀金时代最具权势的商业地址之一。搬迁反映了美孚从一家中西部炼油企业成长为全球性石油帝国的现实:纽约是国际金融和航运中心,更便于管理遍布全球的子公司网络、协调国际出口业务和对接华尔街资本市场。洛克菲勒本人也将主要居所迁往纽约。「26 Broadway」此后成为美孚石油的代名词,直到 1911 年公司被强制拆分后,继承公司 Standard Oil of New Jersey(后来的 Exxon)仍以此为总部。",
+    "summary_en": "In 1885, Standard Oil relocated its headquarters from Cleveland to 26 Broadway in lower Manhattan, New York — making the address in the heart of Wall Street one of the most powerful business locations of the Gilded Age. The move reflected Standard Oil's evolution from a Midwestern refinery into a global petroleum empire: New York offered proximity to international finance, shipping, and capital markets essential for managing a worldwide network of subsidiaries and export operations. Rockefeller himself moved his primary residence to New York. '26 Broadway' became synonymous with Standard Oil and remained the headquarters of successor company Standard Oil of New Jersey (later Exxon) long after the 1911 breakup.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "headquarters",
+      "26-broadway",
+      "new-york"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1890-07-02-sherman-antitrust-act",
+    "person_id": "rockefeller",
+    "date": "1890-07-02",
+    "date_precision": "day",
+    "type": "other",
+    "title": "《谢尔曼反托拉斯法》通过——主要针对美孚石油",
+    "title_en": "Sherman Antitrust Act passed — largely aimed at Standard Oil",
+    "summary": "1890 年 7 月 2 日,美国总统本杰明·哈里森签署《谢尔曼反托拉斯法》(Sherman Antitrust Act),宣告任何「以托拉斯或其他形式」限制州际或对外贸易的合谋为非法,违者可处以罚金及监禁。该法由俄亥俄州参议员 John Sherman 主导推动,立法过程中议员们反复以美孚石油托拉斯为典型案例。这是美国第一部联邦反垄断法律,标志着政府对大企业垄断行为的正式宣战。虽然法律早期执行松懈、屡遭法院削弱,但它最终成为 1911 年最高法院拆分美孚的法律依据,也是此后整整一个世纪美国反垄断、反不正当竞争监管体系的基石。",
+    "summary_en": "On July 2, 1890, President Benjamin Harrison signed the Sherman Antitrust Act, declaring illegal every contract or combination 'in the form of trust or otherwise' that restrained interstate or foreign commerce, with both fines and imprisonment as penalties. Authored by Ohio Senator John Sherman, the bill repeatedly cited the Standard Oil Trust as Exhibit A during debate. It was America's first federal antitrust law, the formal declaration of war by Washington on giant business combinations. Though enforcement was lax for years and courts often blunted it, the act would ultimately serve as the legal foundation for the 1911 Supreme Court breakup of Standard Oil and remains the cornerstone of U.S. antitrust law to this day.",
+    "location": "Washington, D.C.",
+    "key": true,
+    "tags": [
+      "antitrust",
+      "law",
+      "regulation",
+      "sherman-act"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sherman-act",
+        "url": "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act",
+        "kind": "article",
+        "title": "Sherman Antitrust Act of 1890",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-this-month-business-history",
+        "url": "https://guides.loc.gov/this-month-in-business-history",
+        "kind": "document",
+        "title": "This Month in Business History",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1890-university-of-chicago",
+    "person_id": "rockefeller",
+    "date": "1890-09-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "出资创建芝加哥大学",
+    "title_en": "Founds the University of Chicago with Frederick T. Gates",
+    "summary": "1890 年,在顾问 Frederick T. Gates 和浸信会教育协会(American Baptist Education Society)的推动下,洛克菲勒承诺捐赠 60 万美元(后来累计捐赠达 3,500 万美元以上)用于在芝加哥创建一所世界级研究型大学。芝加哥大学(University of Chicago)于 1890 年 9 月 10 日获特许状,1892 年 10 月正式开学,首任校长 William Rainey Harper 将其定位为以研究生教育和学术研究为核心的「德国式」研究型大学,而非传统的美国本科文理学院。洛克菲勒坚持不让大学以自己名字命名,也拒绝干预学术事务。芝加哥大学此后成为全球顶尖学府,截至 21 世纪已培养出近 100 位诺贝尔奖得主,被视为洛克菲勒最成功的慈善投资之一。",
+    "summary_en": "In 1890, urged by adviser Frederick T. Gates and the American Baptist Education Society, Rockefeller pledged $600,000 (eventually donating over $35 million in total) to create a world-class research university in Chicago. The University of Chicago received its charter on September 10, 1890 and opened in October 1892 under founding president William Rainey Harper, who modeled it as a German-style research university centered on graduate education and scholarly inquiry rather than a traditional American undergraduate college. Rockefeller insisted the university not bear his name and refused to interfere in academic affairs. The University of Chicago became one of the world's great institutions, producing nearly 100 Nobel laureates by the 21st century, and is widely regarded as one of Rockefeller's most successful philanthropic investments.",
+    "location": "Chicago, Illinois",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "education",
+      "university-of-chicago",
+      "founding"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-university-of-chicago",
+        "url": "https://en.wikipedia.org/wiki/University_of_Chicago",
+        "kind": "article",
+        "title": "University of Chicago",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1892-ohio-court-dissolves-trust",
+    "person_id": "rockefeller",
+    "date": "1892-03-02",
+    "date_precision": "day",
+    "type": "other",
+    "title": "俄亥俄州最高法院裁定解散美孚托拉斯",
+    "title_en": "Ohio Supreme Court orders dissolution of the Standard Oil Trust",
+    "summary": "1892 年 3 月 2 日,俄亥俄州最高法院在 State of Ohio v. Standard Oil Co. 案中裁定美孚石油托拉斯违反了俄亥俄州的公司法,命令 Standard Oil of Ohio 与托拉斯切断关系。法院认定信托协议构成了对贸易的不当限制,且超越了 Standard Oil of Ohio 在其公司章程下的合法权限。然而,这一判决的实际影响有限:洛克菲勒的律师团队迅速利用各种法律手段拖延执行,同时着手将控股架构迁移到公司法更为宽松的新泽西州。美孚在名义上解散了托拉斯,但实际上通过幕后协调继续保持统一控制,直到 1899 年以 Standard Oil of New Jersey 为控股公司的新架构正式建立。",
+    "summary_en": "On March 2, 1892, the Ohio Supreme Court ruled in State of Ohio v. Standard Oil Co. that the Standard Oil Trust violated Ohio corporate law and ordered Standard Oil of Ohio to sever its ties with the trust. The court found that the trust agreement constituted an improper restraint of trade and exceeded the lawful powers granted to Standard Oil of Ohio under its charter. In practice, however, the ruling had limited impact: Rockefeller's legal team delayed enforcement through various maneuvers while quietly preparing to migrate the holding structure to New Jersey, whose corporate laws were far more permissive. The trust was nominally dissolved, but Standard Oil maintained unified control through behind-the-scenes coordination until the new holding-company structure under Standard Oil of New Jersey was formalized in 1899.",
+    "location": "Columbus, Ohio",
+    "key": true,
+    "tags": [
+      "antitrust",
+      "court",
+      "ohio",
+      "dissolution"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1897-retires-standard-oil",
+    "person_id": "rockefeller",
+    "date": "1897-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "58 岁退出美孚石油日常管理",
+    "title_en": "Retires from active management of Standard Oil at age 58",
+    "summary": "1897 年,58 岁的洛克菲勒以健康原因正式淡出美孚石油的日常管理工作,将运营事务移交给副手 John D. Archbold,但在名义上仍保留总裁头衔直至 1911 年最高法院解散美孚为止。退休时他个人持有的美孚股份按当时市值已使他成为美国(可能也是全球)首富。退休后的他将主要精力转移到两件事上:其一是更系统、更科学化的慈善事业;其二是高尔夫运动。他在 Frederick T. Gates 的协助下重塑捐赠模式,从随性散财转向「批发式」战略捐赠,此后陆续创立芝加哥大学、洛克菲勒医学研究所、普通教育委员会和洛克菲勒基金会,深刻改变了美国的教育、医学与慈善生态。",
+    "summary_en": "In 1897 the 58-year-old Rockefeller, citing health, formally stepped back from day-to-day management of Standard Oil, handing operations to his deputy John D. Archbold while remaining titular president until the Supreme Court dissolved the company in 1911. By retirement, his personal stake had made him the wealthiest man in America — likely the world. He poured his energies into two pursuits: a more systematic, scientifically grounded philanthropy, and golf. Aided by Frederick T. Gates, he reinvented his giving from ad-hoc charity into 'wholesale' strategic philanthropy, soon creating the University of Chicago, the Rockefeller Institute for Medical Research, the General Education Board, and the Rockefeller Foundation — transforming American education, medicine, and charitable practice forever.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "retirement",
+      "philanthropy-shift",
+      "career"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "chernow-titan",
+        "url": "https://en.wikipedia.org/wiki/Titan:_The_Life_of_John_D._Rockefeller,_Sr.",
+        "kind": "book",
+        "title": "Titan: The Life of John D. Rockefeller, Sr.",
+        "publisher": "Random House",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1899-standard-oil-nj-holding",
+    "person_id": "rockefeller",
+    "date": "1899-06-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "以 Standard Oil of New Jersey 作为新控股公司重组",
+    "title_en": "Reorganizes under Standard Oil of New Jersey as holding company",
+    "summary": "1899 年,在俄亥俄州最高法院 1892 年解散托拉斯的判决压力下,洛克菲勒及其律师团队完成了美孚石油的法律架构转型:利用新泽西州 1889 年新通过的宽松公司法(允许一家公司持有其他公司的股份),将 Standard Oil Company of New Jersey(新泽西美孚)改组为控股公司(holding company),持有原托拉斯旗下所有子公司的股权。这种新的法人架构在法律形式上取代了已被法院禁止的托拉斯结构,但在实质上实现了完全相同的统一控制。新泽西美孚成为全球市值最高的公司之一,也是 1911 年最高法院拆分案的被告主体。这一案例还推动了新泽西州成为美国「公司避税天堂」的先驱。",
+    "summary_en": "In 1899, under pressure from the Ohio Supreme Court's 1892 order to dissolve the trust, Rockefeller and his legal team completed a structural transformation: leveraging New Jersey's permissive 1889 corporate law — which allowed one company to hold stock in others — they reorganized Standard Oil Company of New Jersey into a holding company that owned the shares of all former trust subsidiaries. This new corporate form legally replaced the court-banned trust structure while achieving exactly the same unified control. Jersey Standard became one of the most valuable companies on earth and the named defendant in the 1911 Supreme Court breakup. The maneuver also helped pioneer New Jersey's reputation as America's first corporate-law haven.",
+    "location": "Jersey City, New Jersey",
+    "key": true,
+    "tags": [
+      "holding-company",
+      "new-jersey",
+      "corporate-structure"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+        "kind": "article",
+        "title": "Standard Oil",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-standard-oil-nj",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil_of_New_Jersey",
+        "kind": "article",
+        "title": "Standard Oil of New Jersey",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1901-pocantico-hills-estate",
+    "person_id": "rockefeller",
+    "date": "1901-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "退休后定居 Pocantico Hills 庄园(Kykuit)",
+    "title_en": "Retires to Pocantico Hills estate (Kykuit) in Westchester County",
+    "summary": "1901 年前后,已经从美孚石油日常管理中退出的洛克菲勒将生活重心转移到纽约州威斯特切斯特郡的 Pocantico Hills 庄园。这处占地约 3,400 英亩(后来扩展至近 4,000 英亩)的庄园坐落在哈德逊河畔,主宅名为 Kykuit(荷兰语意为「瞭望」),是一座六层石砌别墅,可俯瞰塔潘泽湾和哈德逊河谷。洛克菲勒在此处度过了退休后的大部分时光,打高尔夫球、驾驶马车、管理慈善事务。Kykuit 后来成为四代洛克菲勒家族的核心居所,现已开放为历史遗迹,由国家信托基金(National Trust for Historic Preservation)管理,供公众参观。",
+    "summary_en": "Around 1901, having stepped back from active management of Standard Oil, Rockefeller shifted his life to the Pocantico Hills estate in Westchester County, New York. The roughly 3,400-acre property (later expanded to nearly 4,000 acres) sits above the Hudson River, with the main house — Kykuit (Dutch for 'lookout') — a six-story stone mansion commanding views of the Tappan Zee and the Hudson Valley. Rockefeller spent most of his retirement years there, playing golf, driving horse-drawn carriages, and managing his philanthropic affairs. Kykuit served as the principal seat for four generations of Rockefellers and is now a historic site open to the public under the National Trust for Historic Preservation.",
+    "location": "Pocantico Hills, New York",
+    "key": false,
+    "tags": [
+      "residence",
+      "kykuit",
+      "pocantico-hills",
+      "retirement"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1901-medical-research-institute",
+    "person_id": "rockefeller",
+    "date": "1901-06-14",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立洛克菲勒医学研究所(今洛克菲勒大学)",
+    "title_en": "Founds Rockefeller Institute for Medical Research (now Rockefeller University)",
+    "summary": "1901 年 6 月 14 日,在顾问 Frederick T. Gates 的建议和亲身经历的推动下(Gates 在阅读 William Osler 的《医学原理与实践》后深受震撼,敦促洛克菲勒投资医学研究),洛克菲勒正式创建洛克菲勒医学研究所(Rockefeller Institute for Medical Research),是美国第一所专门从事生物医学研究的独立机构。初始捐赠 20 万美元,首任所长为 Simon Flexner。研究所迅速产出了一系列开创性成果:开发脊髓灰质炎(小儿麻痹症)血清、发现肺炎球菌类型、确立病毒是独立致病因子等。1965 年更名为洛克菲勒大学(Rockefeller University),截至 21 世纪已培养出 26 位诺贝尔奖得主,被视为现代生物医学研究的圣殿之一。",
+    "summary_en": "On June 14, 1901, at the urging of adviser Frederick T. Gates — who had been profoundly moved by reading William Osler's 'Principles and Practice of Medicine' and implored Rockefeller to invest in medical research — the Rockefeller Institute for Medical Research was formally established as the first independent biomedical research institution in the United States. Initially endowed with $200,000 and led by Simon Flexner, the institute quickly produced landmark breakthroughs: developing a serum for meningitis, classifying pneumococcal types, and establishing viruses as independent agents of disease. Renamed Rockefeller University in 1965, it has produced 26 Nobel laureates and is considered one of the temples of modern biomedical research.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "medicine",
+      "founding",
+      "rockefeller-university"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-rockefeller-university",
+        "url": "https://en.wikipedia.org/wiki/Rockefeller_University",
+        "kind": "article",
+        "title": "Rockefeller University",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1902-general-education-board",
+    "person_id": "rockefeller",
+    "date": "1902-01-12",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立普通教育委员会(General Education Board)",
+    "title_en": "Founds the General Education Board",
+    "summary": "1902 年 1 月 12 日,洛克菲勒出资创建普通教育委员会(General Education Board, GEB),由 Frederick T. Gates 担任董事会主席。GEB 获得国会特许状,初始捐赠 100 万美元,后来累计接受洛克菲勒捐赠超过 1.29 亿美元。委员会的核心使命是提升美国教育质量,尤其关注南方各州长期落后的公共教育体系和黑人教育。GEB 资助了数百所南方乡村学校的建设、教师培训项目和农业推广教育,同时也向全国大学和医学院提供配套捐赠(matching grants),推动高等教育机构提高教学和研究水平。GEB 运营至 1964 年,被认为是美国教育慈善史上影响最深远的机构之一。",
+    "summary_en": "On January 12, 1902, Rockefeller established the General Education Board (GEB), with Frederick T. Gates as chairman. Chartered by Congress and initially endowed with $1 million — eventually receiving over $129 million from Rockefeller — the GEB's core mission was to improve American education, with particular focus on the lagging public school systems and Black education in the southern states. The Board funded the construction of hundreds of rural southern schools, teacher training programs, and agricultural extension education, while also providing matching grants to universities and medical schools nationwide to raise their standards of teaching and research. The GEB operated until 1964 and is considered one of the most consequential institutions in the history of American educational philanthropy.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "education",
+      "general-education-board",
+      "founding"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-general-education-board",
+        "url": "https://en.wikipedia.org/wiki/General_Education_Board",
+        "kind": "article",
+        "title": "General Education Board",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rockefeller-archive-center",
+        "url": "https://rockarch.org/",
+        "kind": "article",
+        "title": "Rockefeller Archive Center",
+        "publisher": "Rockefeller Archive Center",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1902-11-tarbell-history-mcclures",
+    "person_id": "rockefeller",
+    "date": "1902-11-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "Ida Tarbell《美孚石油公司史》在 McClure's 杂志连载",
+    "title_en": "Ida Tarbell's 'History of the Standard Oil Company' begins in McClure's",
+    "summary": "1902 年 11 月,记者 Ida M. Tarbell 在《McClure's Magazine》开始连载长篇调查报道《The History of the Standard Oil Company》,共分 19 期,持续到 1904 年,后结集成两卷本书出版。Tarbell 的父亲曾是宾夕法尼亚油区独立生产商,在「克利夫兰大屠杀」中被美孚击垮,这段家庭经历驱使她进行了五年的深入调研,采访了大量前员工和竞争对手,系统揭露了美孚的回扣勾结、商业间谍、价格操纵等手段。这部作品被誉为美国「揭黑新闻」(muckraking journalism)的奠基之作,极大动摇了公众对洛克菲勒的看法,直接为 1906 年联邦反垄断诉讼和 1911 年最高法院拆分判决铺平道路。",
+    "summary_en": "In November 1902, journalist Ida M. Tarbell launched her landmark serialized exposé 'The History of the Standard Oil Company' in McClure's Magazine — 19 installments running through 1904, later collected as a two-volume book. Tarbell's father had been a small Pennsylvania oil-region producer crushed by Standard Oil in the Cleveland Massacre, and that personal history fueled five years of investigation, interviewing former employees and rivals, systematically documenting Standard Oil's secret rebates, espionage, and price manipulation. The work is considered the founding masterpiece of American 'muckraking' journalism, devastated public opinion of Rockefeller, and paved the way directly to the federal antitrust suit in 1906 and the Supreme Court breakup in 1911.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "journalism",
+      "muckraking",
+      "tarbell",
+      "publicity"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-tarbell-history",
+        "url": "https://en.wikipedia.org/wiki/The_History_of_the_Standard_Oil_Company",
+        "kind": "article",
+        "title": "The History of the Standard Oil Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-ida-tarbell",
+        "url": "https://en.wikipedia.org/wiki/Ida_Tarbell",
+        "kind": "article",
+        "title": "Ida Tarbell",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1904-tarbell-book-published",
+    "person_id": "rockefeller",
+    "date": "1904-11-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "Ida Tarbell《美孚石油公司史》出版完整版两卷本",
+    "title_en": "Ida Tarbell's 'History of the Standard Oil Company' published as complete two-volume book",
+    "summary": "1904 年 11 月,Ida Tarbell 在 McClure's Magazine 上连载两年的调查报道《The History of the Standard Oil Company》正式结集出版为两卷本书(由 McClure, Phillips & Co. 出版)。全书共 19 章附大量附录,详尽记录了美孚从克利夫兰小炼油厂崛起为全国垄断体的全过程,系统揭露了回扣协议、South Improvement Company 阴谋、商业间谍和对独立生产商的打压等行为。此书成为美国「扒粪运动」(muckraking)的标志性作品,被评为 20 世纪最重要的新闻作品之一。它极大地激发了公众对大企业的不信任情绪,直接推动了联邦政府于 1906 年对美孚提起反垄断诉讼。",
+    "summary_en": "In November 1904, Ida Tarbell's two-year serialized investigation 'The History of the Standard Oil Company' was published as a complete two-volume book by McClure, Phillips & Co. Spanning 19 chapters with extensive appendices, it documented Standard Oil's rise from a small Cleveland refinery to a national monopoly, systematically exposing secret rebate deals, the South Improvement Company conspiracy, commercial espionage, and the crushing of independent producers. The book became the iconic work of the American 'muckraking' movement and has been ranked among the most important works of journalism in the 20th century. It galvanized public distrust of big business and directly spurred the federal government to file antitrust charges against Standard Oil in 1906.",
+    "location": "New York, New York",
+    "key": false,
+    "tags": [
+      "journalism",
+      "tarbell",
+      "muckraking",
+      "book"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-tarbell-history",
+        "url": "https://en.wikipedia.org/wiki/The_History_of_the_Standard_Oil_Company",
+        "kind": "article",
+        "title": "The History of the Standard Oil Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1905-inglis-interviews",
+    "person_id": "rockefeller",
+    "date": "1905-01-01",
+    "date_precision": "year",
+    "type": "interview",
+    "title": "接受 William O. Inglis 长期私人采访(1905-1909)",
+    "title_en": "Private interview sessions with journalist William O. Inglis (1905-1909)",
+    "summary": "1905 年至 1909 年间,洛克菲勒与纽约《世界报》(New York World)记者 William O. Inglis 进行了一系列广泛的私人采访对话。这些会谈是洛克菲勒一生中最坦率、最详尽的口述记录,涵盖他的童年、商业哲学、美孚石油的战略决策、对竞争对手的看法以及他对 Ida Tarbell 攻击的辩护。与他公开发表的节制言论不同,Inglis 采访中的洛克菲勒展现出更丰富的个性和更直接的表达。这些采访记录手稿现保存于洛克菲勒档案中心(Rockefeller Archive Center),是研究洛克菲勒真实思想和决策过程最重要的一手史料,也是 Ron Chernow 撰写传记《Titan》的核心素材之一。",
+    "summary_en": "Between 1905 and 1909, Rockefeller sat for an extensive series of private interview sessions with William O. Inglis, a journalist from the New York World. These conversations constitute the most candid and comprehensive oral record of Rockefeller's life, covering his childhood, business philosophy, Standard Oil's strategic decisions, his views of competitors, and his defense against Ida Tarbell's attacks. Unlike his guarded public statements, the Inglis interviews reveal a more complex personality and more direct expression. The interview manuscripts are preserved at the Rockefeller Archive Center and remain the single most important primary source for understanding Rockefeller's true thinking and decision-making processes — and a key source for Ron Chernow's biography 'Titan.'",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "interview",
+      "inglis",
+      "primary-source",
+      "oral-history"
+    ],
+    "sources": [
+      {
+        "id": "rockefeller-archive-center",
+        "url": "https://rockarch.org/",
+        "kind": "article",
+        "title": "Rockefeller Archive Center",
+        "publisher": "Rockefeller Archive Center",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1908-random-reminiscences",
+    "person_id": "rockefeller",
+    "date": "1908-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "出版自传《Random Reminiscences of Men and Events》",
+    "title_en": "Publishes autobiography 'Random Reminiscences of Men and Events'",
+    "summary": "1908 年,69 岁的洛克菲勒出版了他唯一的一部自传性著作《Random Reminiscences of Men and Events》(《往事随想:人与事》)。全书篇幅不长,先在《世界工作》(The World's Work)杂志上连载,后结集出版。书中洛克菲勒以从容克制的语调回忆了自己的早期生涯、美孚石油的成长历程、对慈善事业的看法以及对商业伦理的思考。他着重阐述了商业整合的合理性,为美孚的垄断行为辩护,认为大规模经营可以降低成本、提高效率,最终惠及消费者。然而他刻意回避了铁路回扣、克利夫兰大屠杀等争议性话题。这本书是了解洛克菲勒自我叙事和公关策略的重要文本,也是少数由镀金时代巨头亲笔留下的一手文献之一。",
+    "summary_en": "In 1908, the 69-year-old Rockefeller published his only autobiographical work, 'Random Reminiscences of Men and Events.' The relatively brief book was first serialized in The World's Work magazine, then published as a volume. In measured, restrained tones Rockefeller recalled his early career, Standard Oil's growth, his views on philanthropy, and his thoughts on business ethics. He emphasized the rationality of industrial consolidation, defending Standard Oil's monopoly practices as reducing costs, improving efficiency, and ultimately benefiting consumers — while carefully avoiding controversial topics like railroad rebates and the Cleveland Massacre. The book remains an important text for understanding Rockefeller's self-narrative and PR strategy, and one of the few firsthand documents left by a Gilded Age titan.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "writing",
+      "autobiography",
+      "self-narrative"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "gutenberg-random-reminiscences",
+        "url": "https://www.gutenberg.org/ebooks/17090",
+        "kind": "document",
+        "title": "Random Reminiscences of Men and Events",
+        "publisher": "Project Gutenberg",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1911-05-15-supreme-court-breakup",
+    "person_id": "rockefeller",
+    "date": "1911-05-15",
+    "date_precision": "day",
+    "type": "other",
+    "title": "美国诉美孚石油案——最高法院判令拆分为 34 家公司",
+    "title_en": "US v. Standard Oil — Supreme Court orders breakup",
+    "summary": "1911 年 5 月 15 日,美国最高法院以 8 比 1 的投票结果,在 Standard Oil Co. of New Jersey v. United States 案中裁定 Standard Oil 违反《谢尔曼反托拉斯法》,构成「不合理」的贸易限制,命令其在六个月内解散。控股公司 Standard Oil of New Jersey(Jersey Standard)被强制拆分为 34 家独立企业,股份按比例分配给原股东。其中诞生的众多继承者后来成为全球能源巨头,包括 Exxon(来自 Jersey Standard)、Mobil(纽约美孚)、Chevron(加州美孚)、Amoco(印第安纳美孚)、Conoco、Marathon 等。讽刺的是,洛克菲勒因其在所有继承公司中都持股,拆分后个人财富反而暴涨,使他正式成为美国历史上第一位身家超过 10 亿美元的富豪。",
+    "summary_en": "On May 15, 1911, the U.S. Supreme Court ruled 8–1 in Standard Oil Co. of New Jersey v. United States that Standard Oil had violated the Sherman Antitrust Act through 'unreasonable' restraint of trade, and ordered the holding company dissolved within six months. Standard Oil of New Jersey was broken into 34 independent companies whose shares were distributed pro rata to existing holders. Many descendants became global energy giants — Exxon (from Jersey Standard), Mobil, Chevron, Amoco, Conoco, Marathon and others. Ironically, because Rockefeller held stock in every successor, the breakup sent his personal fortune surging, formally making him the first American billionaire.",
+    "location": "Washington, D.C.",
+    "key": true,
+    "tags": [
+      "antitrust",
+      "supreme-court",
+      "breakup",
+      "billionaire"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-standard-oil-v-us",
+        "url": "https://en.wikipedia.org/wiki/Standard_Oil_Co._of_New_Jersey_v._United_States",
+        "kind": "article",
+        "title": "Standard Oil Co. of New Jersey v. United States",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-this-month-business-history",
+        "url": "https://guides.loc.gov/this-month-in-business-history",
+        "kind": "document",
+        "title": "This Month in Business History",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1913-05-14-rockefeller-foundation",
+    "person_id": "rockefeller",
+    "date": "1913-05-14",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "成立洛克菲勒基金会,捐赠 1 亿美元启动资金",
+    "title_en": "Founds the Rockefeller Foundation with a $100 million endowment",
+    "summary": "1913 年 5 月 14 日,纽约州州长签署立法许可,洛克菲勒基金会(Rockefeller Foundation)正式注册成立,使命为「促进全人类福祉」(to promote the well-being of mankind throughout the world)。洛克菲勒在儿子小约翰和顾问 Frederick T. Gates 的协助下,共向基金会注入约 1.83 亿美元(其中初始约 1 亿美元),是当时世界最大的私人慈善机构。基金会随后在全球范围内开展公共卫生(消灭钩虫病、黄热病疫苗研发)、医学教育(协和医学院 PUMC)、农业(绿色革命)、社会科学等领域的开创性资助。它确立了「科学慈善」的现代范式,并成为后来福特基金会、盖茨基金会等模仿的蓝本,深刻影响 20 世纪人类发展进程。",
+    "summary_en": "On May 14, 1913, the New York governor signed legislation chartering the Rockefeller Foundation, with a mission 'to promote the well-being of mankind throughout the world.' With the help of his son John D. Jr. and adviser Frederick T. Gates, Rockefeller endowed it with roughly $183 million in total (about $100 million at the outset), making it the largest private philanthropy on earth. The foundation went on to fund pioneering work in public health (eradication of hookworm, the yellow-fever vaccine), medical education (Peking Union Medical College), agriculture (the Green Revolution), and the social sciences. It defined the modern model of 'scientific philanthropy' and became the blueprint imitated by the Ford, Gates, and other great foundations that followed.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "philanthropy",
+      "foundation",
+      "founding"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-rockefeller-foundation",
+        "url": "https://en.wikipedia.org/wiki/Rockefeller_Foundation",
+        "kind": "article",
+        "title": "Rockefeller Foundation",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rockefeller-foundation-history",
+        "url": "https://www.rockefellerfoundation.org/about-us/our-history/",
+        "kind": "article",
+        "title": "Our History",
+        "publisher": "The Rockefeller Foundation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1914-04-20-ludlow-massacre",
+    "person_id": "rockefeller",
+    "date": "1914-04-20",
+    "date_precision": "day",
+    "type": "other",
+    "title": "勒德洛大屠杀——洛克菲勒家族公关危机",
+    "title_en": "Ludlow Massacre — public-relations crisis for the Rockefellers",
+    "summary": "1914 年 4 月 20 日,在科罗拉多南部由洛克菲勒家族控股的 Colorado Fuel & Iron 公司煤矿,州国民警卫队和公司守卫向罢工矿工的帐篷营地开枪并纵火,导致约 21 人死亡,包括 11 名儿童和两名妇女,史称「Ludlow Massacre」。罢工源自矿工要求承认工会、提高工资和改善安全条件。事件曝光后引发全国范围的工人示威与对洛克菲勒家族的强烈谴责,小约翰·D·洛克菲勒被国会调查委员会传唤作证。这场公关灾难促使洛克菲勒家族聘请前新闻人 Ivy Lee 开展系统性形象重塑,被普遍认为是美国现代公共关系行业的诞生标志,并推动洛克菲勒家族此后大力推动劳资合作与代表制改革。",
+    "summary_en": "On April 20, 1914, at the Colorado Fuel & Iron coal mines controlled by the Rockefellers in southern Colorado, Colorado National Guardsmen and company guards opened fire on and set ablaze a tent colony of striking miners and their families, killing about 21 people including 11 children and two women — the Ludlow Massacre. The strike had been over union recognition, wages, and safety. The atrocity triggered nationwide labor protests and bitter denunciations of the Rockefellers; John D. Jr. was hauled before a congressional investigation. The PR catastrophe drove the family to hire former newsman Ivy Lee for systematic image rehabilitation — widely considered the founding moment of the modern American public-relations industry — and pushed the Rockefellers to champion labor-management cooperation and employee representation thereafter.",
+    "location": "Ludlow, Colorado",
+    "key": true,
+    "tags": [
+      "labor",
+      "ludlow",
+      "crisis",
+      "public-relations"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ludlow-massacre",
+        "url": "https://en.wikipedia.org/wiki/Ludlow_Massacre",
+        "kind": "article",
+        "title": "Ludlow Massacre",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "history-com-rockefeller",
+        "url": "https://www.history.com/topics/19th-century/john-d-rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "History.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1915-03-12-laura-spelman-death",
+    "person_id": "rockefeller",
+    "date": "1915-03-12",
+    "date_precision": "day",
+    "type": "life",
+    "title": "妻子劳拉·斯佩尔曼·洛克菲勒去世",
+    "title_en": "Wife Laura Spelman Rockefeller dies",
+    "summary": "1915 年 3 月 12 日,洛克菲勒的妻子劳拉·塞莱斯蒂亚·斯佩尔曼·洛克菲勒在 Pocantico Hills 庄园去世,享年 75 岁。两人自 1864 年结婚以来共同生活了 51 年,劳拉始终是洛克菲勒最亲密的伴侣和最信任的顾问。她一生支持废奴运动和黑人教育事业,是推动洛克菲勒向斯佩尔曼学院等机构捐赠的重要力量。她的去世令洛克菲勒悲痛欲绝,此后他在冬季居住佛罗里达的时间越来越长。1918 年,为纪念亡妻,小约翰·D·洛克菲勒建立了劳拉·斯佩尔曼·洛克菲勒纪念基金(Laura Spelman Rockefeller Memorial),专注于社会科学和儿童福利研究资助。",
+    "summary_en": "On March 12, 1915, Rockefeller's wife Laura Celestia Spelman Rockefeller died at the Pocantico Hills estate at age 75. The couple had been married for 51 years since 1864, and Laura had been Rockefeller's closest companion and most trusted adviser throughout. A lifelong advocate of abolitionism and Black education, she was an instrumental force behind Rockefeller's donations to Spelman College and other institutions. Her death devastated Rockefeller, who increasingly spent winters in Florida thereafter. In 1918, John D. Rockefeller Jr. established the Laura Spelman Rockefeller Memorial in her honor, dedicated to funding social science and child welfare research.",
+    "location": "Pocantico Hills, New York",
+    "key": true,
+    "tags": [
+      "life",
+      "death",
+      "laura-spelman",
+      "family"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-laura-spelman",
+        "url": "https://en.wikipedia.org/wiki/Laura_Spelman_Rockefeller",
+        "kind": "article",
+        "title": "Laura Spelman Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1918-laura-spelman-memorial",
+    "person_id": "rockefeller",
+    "date": "1918-10-24",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创建劳拉·斯佩尔曼·洛克菲勒纪念基金",
+    "title_en": "Laura Spelman Rockefeller Memorial Fund established",
+    "summary": "1918 年 10 月 24 日,小约翰·D·洛克菲勒以洛克菲勒家族的名义创建劳拉·斯佩尔曼·洛克菲勒纪念基金(Laura Spelman Rockefeller Memorial, LSRM),以纪念 1915 年去世的洛克菲勒夫人。基金初始捐赠约 7,400 万美元,成为当时世界上最大的慈善基金之一。在主管 Beardsley Ruml 的领导下,LSRM 开创性地资助了社会科学研究,被认为是将社会科学确立为现代学术学科的关键推手——它资助了芝加哥大学社会科学研究委员会(SSRC)、全国经济研究局(NBER)等机构的创建和运营,并推动了儿童发展研究和家庭福利项目。1929 年 LSRM 并入洛克菲勒基金会。",
+    "summary_en": "On October 24, 1918, John D. Rockefeller Jr. established the Laura Spelman Rockefeller Memorial (LSRM) in honor of his mother, who had died in 1915. Initially endowed with approximately $74 million, it became one of the largest charitable funds in the world. Under director Beardsley Ruml, the LSRM pioneered funding for social science research and is credited as a pivotal force in establishing the social sciences as modern academic disciplines — it funded the creation and operations of the Social Science Research Council (SSRC), the National Bureau of Economic Research (NBER), and other institutions, and promoted child development research and family welfare programs. The LSRM was folded into the Rockefeller Foundation in 1929.",
+    "location": "New York, New York",
+    "key": false,
+    "tags": [
+      "philanthropy",
+      "memorial",
+      "social-science",
+      "laura-spelman"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-lsrm",
+        "url": "https://en.wikipedia.org/wiki/Laura_Spelman_Rockefeller_Memorial",
+        "kind": "article",
+        "title": "Laura Spelman Rockefeller Memorial",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rockefeller-archive-center",
+        "url": "https://rockarch.org/",
+        "kind": "article",
+        "title": "Rockefeller Archive Center",
+        "publisher": "Rockefeller Archive Center",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1930-rockefeller-center-construction",
+    "person_id": "rockefeller",
+    "date": "1930-09-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "洛克菲勒中心动工建设",
+    "title_en": "Rockefeller Center construction begins",
+    "summary": "1930 年 9 月,小约翰·D·洛克菲勒主导的洛克菲勒中心(Rockefeller Center)在曼哈顿中城正式动工。这一项目原计划为大都会歌剧院新址,但 1929 年股市崩盘后歌剧院退出,小洛克菲勒决定独力推进这一史上最大的私人城市开发项目。该综合体最终包括 14 栋装饰艺术(Art Deco)风格的商业大楼,核心建筑为 70 层的 30 Rockefeller Plaza(即 GE/Comcast 大楼)。在大萧条最严重的年代,这一项目雇用了约 4 万名工人,成为当时美国最大的私人就业来源之一。虽然项目以小洛克菲勒的名义主导,但老洛克菲勒提供了关键的财务支持,这也是洛克菲勒家族在城市建设和房地产领域最宏大的遗产。",
+    "summary_en": "In September 1930, construction began on Rockefeller Center in Midtown Manhattan, led by John D. Rockefeller Jr. Originally planned as the new site for the Metropolitan Opera, the project lost its anchor tenant after the 1929 stock-market crash, but Rockefeller Jr. decided to proceed alone with what became the largest private urban development in history. The complex ultimately comprised 14 Art Deco commercial buildings, anchored by the 70-story 30 Rockefeller Plaza (GE/Comcast Building). During the worst years of the Great Depression, the project employed roughly 40,000 workers, making it one of the nation's largest private sources of employment. Though led by Rockefeller Jr., the elder Rockefeller provided crucial financial backing, and the center remains the Rockefeller family's grandest legacy in urban development and real estate.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "real-estate",
+      "rockefeller-center",
+      "art-deco",
+      "depression"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-rockefeller-center",
+        "url": "https://en.wikipedia.org/wiki/Rockefeller_Center",
+        "kind": "article",
+        "title": "Rockefeller Center",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1933-rockefeller-center-opens",
+    "person_id": "rockefeller",
+    "date": "1933-11-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "洛克菲勒中心首批建筑开放",
+    "title_en": "Rockefeller Center first buildings open to public",
+    "summary": "1933 年,洛克菲勒中心的核心建筑群陆续竣工并向公众开放,其中包括标志性的 RCA Building(30 Rockefeller Plaza,后更名为 GE Building,现为 Comcast Building)。整个综合体的建设持续到 1939 年才全部完成。洛克菲勒中心以其统一的装饰艺术风格、下沉广场(冬季变为溜冰场)、巨幅壁画和雕塑装饰,成为纽约市最标志性的地标之一,也成为城市综合体规划的全球典范。1987 年洛克菲勒中心被列为国家历史地标(National Historic Landmark)。洛克菲勒家族最初投入约 1 亿美元建造该中心,经历了大萧条年代的巨大财务压力,但最终成为美国房地产史上最成功的长期投资之一。",
+    "summary_en": "In 1933, the core buildings of Rockefeller Center opened to the public, including the iconic RCA Building (30 Rockefeller Plaza, later renamed the GE Building, now the Comcast Building). The full complex was completed by 1939. With its unified Art Deco style, sunken plaza (converted to an ice rink in winter), monumental murals and sculptures, Rockefeller Center became one of New York City's most iconic landmarks and a global model for urban mixed-use development. It was designated a National Historic Landmark in 1987. The Rockefeller family invested roughly $100 million to build the center, enduring enormous financial pressure during the Depression years, but it ultimately proved one of the most successful long-term investments in American real-estate history.",
+    "location": "New York, New York",
+    "key": false,
+    "tags": [
+      "real-estate",
+      "rockefeller-center",
+      "landmark"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-rockefeller-center",
+        "url": "https://en.wikipedia.org/wiki/Rockefeller_Center",
+        "kind": "article",
+        "title": "Rockefeller Center",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "rockefeller-1937-05-23-death-ormond-beach",
+    "person_id": "rockefeller",
+    "date": "1937-05-23",
+    "date_precision": "day",
+    "type": "life",
+    "title": "97 岁在佛罗里达 Ormond Beach 去世",
+    "title_en": "Dies at age 97 in Ormond Beach, Florida",
+    "summary": "1937 年 5 月 23 日清晨,约翰·D·洛克菲勒在佛罗里达 Ormond Beach 的冬季居所「The Casements」因动脉硬化心脏病去世,距 98 岁生日仅剩约六周。遗体被运回纽约州 Sleepy Hollow,葬于 Tarrytown 的 Sleepy Hollow Cemetery,与劳拉·斯佩尔曼合葬。去世时其个人净资产约为 14 亿美元,约占当时美国 GDP 的 1.5%(按相对 GDP 比例换算约相当于今日 3,400 亿美元以上),仍是美国历史上最富有的人之一。生前他已通过基金会、教育与医学机构捐出约 5.4 亿美元。其儿子小约翰·D·洛克菲勒和孙辈(纳尔逊·洛克菲勒、戴维·洛克菲勒等)继续将家族影响延伸到 20 世纪美国的政治、金融、艺术与公共生活的各个方面。",
+    "summary_en": "In the early morning of May 23, 1937, John D. Rockefeller died of arteriosclerotic heart disease at 'The Casements,' his winter home in Ormond Beach, Florida — about six weeks shy of his 98th birthday. His body was taken north to Sleepy Hollow Cemetery in Tarrytown, New York, where he was buried alongside Laura Spelman. At death his personal net worth was roughly $1.4 billion — about 1.5 percent of U.S. GDP, the equivalent of over $340 billion today by GDP share — still ranking him among the wealthiest Americans in history. By then he had already given away around $540 million through his foundations and educational and medical institutions. His son John D. Jr. and grandchildren (Nelson, David, and others) would extend the family's influence across 20th-century American politics, finance, art, and public life.",
+    "location": "Ormond Beach, Florida",
+    "key": true,
+    "tags": [
+      "death",
+      "legacy"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-john-d-rockefeller",
+        "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-rockefeller",
+        "url": "https://www.britannica.com/biography/John-D-Rockefeller",
+        "kind": "article",
+        "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

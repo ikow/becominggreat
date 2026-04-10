@@ -1,0 +1,1453 @@
+[
+  {
+    "id": "munger-1924-01-01-birth",
+    "person_id": "munger",
+    "date": "1924-01-01",
+    "date_precision": "day",
+    "type": "life",
+    "title": "查理·芒格出生于内布拉斯加州奥马哈",
+    "title_en": "Charlie Munger born in Omaha, Nebraska",
+    "summary": "1924 年 1 月 1 日，查理·托马斯·芒格出生于内布拉斯加州奥马哈，父亲 Alfred Case Munger 是一名律师。少年时期的芒格曾在巴菲特家族开设的杂货店打工——这段经历是他与奥马哈商人圈最早的连接，也为他日后与沃伦·巴菲特长达六十余年的合作埋下伏笔。芒格自幼以博学好读著称，这种多学科求知的习惯成为他一生的标志。",
+    "summary_en": "Charles Thomas Munger was born on New Year's Day 1924 in Omaha, Nebraska, son of lawyer Alfred Case Munger. As a teenager he worked at Buffett & Son grocery store, decades before meeting Warren Buffett.",
+    "location": "Omaha, Nebraska",
+    "key": true,
+    "tags": [
+      "出生",
+      "奥马哈",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1942-michigan-army",
+    "person_id": "munger",
+    "date": "1942-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "进入密歇根大学，后辍学加入陆军航空兵",
+    "title_en": "Enrolls at University of Michigan, then joins the Army Air Corps",
+    "summary": "1941 年芒格进入密歇根大学攻读数学，珍珠港事件后于 1942 年辍学，加入美国陆军航空兵团。服役期间他被派往加州理工学院学习气象学，并以少尉军衔在阿拉斯加诺姆基地担任气象官。这段战时经历让芒格首次离开中西部，接触工程与科学训练，也促使他养成了概率思维和系统化决策的习惯。",
+    "summary_en": "Munger entered the University of Michigan in 1941 to study mathematics, but dropped out after Pearl Harbor and enlisted in the U.S. Army Air Corps, serving as a meteorologist and rising to second lieutenant.",
+    "location": "Ann Arbor, MI / Nome, AK",
+    "key": true,
+    "tags": [
+      "教育",
+      "二战",
+      "气象学"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1948-harvard-law",
+    "person_id": "munger",
+    "date": "1948-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "以最优等成绩毕业于哈佛法学院",
+    "title_en": "Graduates Harvard Law School magna cum laude",
+    "summary": "1948 年芒格从哈佛法学院毕业，获得 magna cum laude（最优等）荣誉，是该届 335 名学生中的前 12 名之一。最不寻常的是：他根本没有本科学位——哈佛法学院破格录取了他。这一成就奠定了他严谨的法律训练背景，也为他随后在洛杉矶执业律师生涯铺平了道路。芒格后来反复强调，法学院教会他的并不是法条，而是跨学科解决问题的能力。",
+    "summary_en": "Munger graduated from Harvard Law School magna cum laude in 1948, finishing in the top 12 of his class of 335 — despite never completing an undergraduate degree.",
+    "location": "Cambridge, MA",
+    "key": true,
+    "tags": [
+      "教育",
+      "哈佛法学院"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1953-divorce-tragedy",
+    "person_id": "munger",
+    "date": "1953-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "与第一任妻子离婚，长子因白血病去世",
+    "title_en": "Divorces first wife; son Teddy dies of leukemia soon after",
+    "summary": "1953 年芒格与 1945 年结婚的第一任妻子 Nancy Huggins 离婚，留下三个孩子。一年多后，他九岁的儿子 Teddy 被诊断出白血病，并于 1955 年去世。这段经历是芒格一生中最沉重的打击之一。他后来回忆，正是这段苦难塑造了他面对逆境时的斯多葛态度，以及对「避免愚蠢」远胜于「追求聪明」的人生哲学。",
+    "summary_en": "Munger divorced his first wife Nancy Huggins in 1953. Soon after, their young son Teddy was diagnosed with leukemia and died in 1955 — events Munger described as the most painful of his life and formative of his stoic worldview.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "家庭",
+      "丧子",
+      "苦难"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1956-marries-nancy-borthwick",
+    "person_id": "munger",
+    "date": "1956-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "与 Nancy Barry Borthwick 结婚",
+    "title_en": "Marries Nancy Barry Borthwick",
+    "summary": "1956 年芒格与 Nancy Barry Borthwick 结婚。Nancy 带来了两个儿子，两人婚后又生育了四个孩子，组成八口之家。这段婚姻持续了将近 51 年，直到 Nancy 2010 年去世。芒格多次公开表示，妻子的稳定与智慧是他事业与心智成熟的重要支柱，也是他能长期专注投资与思考的家庭基础。",
+    "summary_en": "In 1956 Munger married Nancy Barry Borthwick; the blended family eventually included eight children. The marriage lasted nearly 51 years until Nancy's death in 2010.",
+    "location": "Los Angeles, CA",
+    "key": false,
+    "tags": [
+      "家庭",
+      "婚姻"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1959-meets-buffett",
+    "person_id": "munger",
+    "date": "1959-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "在奥马哈晚宴上首次遇见沃伦·巴菲特",
+    "title_en": "Meets Warren Buffett at an Omaha dinner",
+    "summary": "1959 年，35 岁的芒格因父亲去世返回奥马哈处理遗产，经共同朋友 Davis 医生家族介绍，在一场晚宴上首次认识了 28 岁的沃伦·巴菲特。两人一见如故，从投资聊到商业再到人生哲学，几乎立刻成为终生挚友。这次会面被后世誉为商业史上最重要的相遇之一，直接催生了此后六十余年伯克希尔·哈撒韦的传奇合作关系。",
+    "summary_en": "In 1959 Munger, back in Omaha after his father's death, was introduced to Warren Buffett at a dinner hosted by the Davis family. The two instantly clicked, beginning one of the most consequential partnerships in business history.",
+    "location": "Omaha, Nebraska",
+    "key": true,
+    "tags": [
+      "巴菲特",
+      "伯克希尔",
+      "关键相遇"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-partnership-buffett",
+        "url": "https://www.youtube.com/watch?v=F6s2HAzMeL0",
+        "kind": "video",
+        "title": "Charles Munger Interview: The Power of Partnership with Warren Buffett",
+        "publisher": "Life Stories / Kunhardt Film Foundation (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2016 年采访，芒格亲自讲述 1959 年与巴菲特的首次相遇以及此后半个多世纪的合作。"
+      }
+    ],
+    "source_hints": "Davis family dinner introduction; widely recounted in Buffett biographies"
+  },
+  {
+    "id": "munger-1962-wheeler-munger-founding",
+    "person_id": "munger",
+    "date": "1962-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "创立 Wheeler, Munger & Co. 投资合伙公司",
+    "title_en": "Founds Wheeler, Munger & Co. investment partnership",
+    "summary": "1962 年芒格在洛杉矶与 Jack Wheeler 共同创立了 Wheeler, Munger & Co. 投资合伙公司，正式从全职律师转向专业投资人。同年他还合伙创办了 Munger, Tolles & Olson 律师事务所。Wheeler Munger 在 1962-1975 年间取得了年化约 19.8% 的回报——远远跑赢同期道琼斯指数，展现了芒格作为集中投资者的非凡能力。",
+    "summary_en": "In 1962 Munger co-founded the Wheeler, Munger & Co. investment partnership in Los Angeles, transitioning from full-time law to professional investing. The fund delivered roughly 19.8% annualized returns from 1962-1975, vastly outperforming the Dow.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "创立",
+      "投资合伙",
+      "Wheeler Munger"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-daily-journal-2017",
+        "url": "https://www.youtube.com/watch?v=BLctqhNClqY",
+        "kind": "video",
+        "title": "Charlie Munger speaks at the Daily Journal annual meeting (2017)",
+        "publisher": "Laixin Wei (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2017 年 Daily Journal 年会。芒格在问答中多次回忆他早期投资生涯和 Wheeler Munger 合伙的经历。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1962-munger-tolles-founding",
+    "person_id": "munger",
+    "date": "1962-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "联合创立 Munger, Tolles & Olson 律师事务所",
+    "title_en": "Co-founds Munger, Tolles & Olson law firm",
+    "summary": "1962 年，芒格与 Roderick Hills、Robert Olson 等人在洛杉矶联合创立了 Munger, Tolles & Olson 律师事务所。该所在公司法、诉讼和知识产权领域迅速建立声誉，至今仍是美国最受尊敬的精品律所之一。尽管芒格很快将重心转向投资，但他始终以创始合伙人的身份与事务所保持联系，并将律师训练中习得的严谨逻辑视为自己投资哲学的基石。Munger Tolles 也成为硅谷和好莱坞众多高端交易背后的法律顾问。",
+    "summary_en": "In 1962 Munger co-founded the law firm Munger, Tolles & Olson in Los Angeles. Though he soon shifted to investing, the firm grew into one of America's most prestigious boutique practices. Munger credited his legal training with forming the rigorous analytical habits underlying his investment philosophy.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "创立",
+      "律所",
+      "Munger Tolles"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-munger-tolles",
+        "url": "https://en.wikipedia.org/wiki/Munger,_Tolles_%26_Olson",
+        "kind": "article",
+        "title": "Munger, Tolles & Olson (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1972-sees-candies",
+    "person_id": "munger",
+    "date": "1972-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "推动收购 See's Candies——改变巴菲特和芒格的投资哲学",
+    "title_en": "Drives See's Candies acquisition — transforms Buffett-Munger investment philosophy",
+    "summary": "1972 年，芒格力主通过 Blue Chip Stamps 以 2500 万美元收购加州巧克力品牌 See's Candies。这是巴菲特首次「破格」以高于账面价值的价格收购企业——正是芒格说服他，优质品牌的定价权和忠实客户基础值得溢价。此后 See's Candies 累计创造了超过 20 亿美元的税前利润，几乎不需要追加资本。巴菲特后来称这笔收购是他投资生涯的「转折点」——从追求「烟蒂股」的格雷厄姆路线，转向以合理价格买入卓越企业的「芒格路线」。",
+    "summary_en": "In 1972 Munger convinced Buffett to buy See's Candies for $25 million via Blue Chip Stamps — paying above book value for the first time. The deal proved transformational: See's generated over $2 billion in pre-tax earnings with minimal reinvestment. Buffett later called it the turning point from 'cigar butt' investing to buying wonderful businesses at fair prices — the Munger way.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "See's Candies",
+      "投资哲学",
+      "品牌",
+      "Blue Chip Stamps"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "berkshire-letters",
+        "url": "https://www.berkshirehathaway.com/letters/letters.html",
+        "kind": "document",
+        "title": "Berkshire Hathaway Shareholder Letters",
+        "publisher": "Berkshire Hathaway",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Buffett discusses See's Candies as pivotal in multiple annual letters"
+  },
+  {
+    "id": "munger-1974-blue-chip-stamps",
+    "person_id": "munger",
+    "date": "1974-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "成为 Blue Chip Stamps 关键股东和决策者",
+    "title_en": "Becomes key shareholder and decision-maker at Blue Chip Stamps",
+    "summary": "1970 年代初，芒格与巴菲特、Rick Guerin 等人分别大量买入 Blue Chip Stamps 股票。Blue Chip 是一家贸易印花公司，但其真正价值在于持有的大量浮存金（float）。芒格作为核心决策者之一，利用 Blue Chip 的资金先后收购了 See's Candies（1972 年）、Wesco Financial（1973 年）和 Buffalo Evening News（1977 年），将一家平凡的印花公司改造为控股投资平台。1983 年 Blue Chip 完全并入伯克希尔·哈撒韦，成为后者版图的重要基石。",
+    "summary_en": "In the early 1970s Munger, Buffett, and Rick Guerin accumulated large positions in Blue Chip Stamps. Munger helped deploy its float to acquire See's Candies, Wesco Financial, and Buffalo Evening News. Blue Chip was fully merged into Berkshire Hathaway in 1983.",
+    "location": "Los Angeles, CA",
+    "key": false,
+    "tags": [
+      "Blue Chip Stamps",
+      "浮存金",
+      "收购平台"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-blue-chip-stamps",
+        "url": "https://en.wikipedia.org/wiki/Blue_Chip_Stamps",
+        "kind": "article",
+        "title": "Blue Chip Stamps (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1975-closes-wheeler-munger",
+    "person_id": "munger",
+    "date": "1975-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "经历 1973-74 熊市后关闭 Wheeler Munger",
+    "title_en": "Closes Wheeler Munger after the 1973-74 bear market",
+    "summary": "1973-1974 年的严重熊市让 Wheeler, Munger & Co. 连续两年大幅亏损，1973 年下跌约 31.9%，1974 年再跌 31.5%。尽管整个 13 年期内仍取得优秀回报，芒格还是在 1975 年清盘了合伙公司，把精力转向 Blue Chip Stamps 与 Wesco Financial 的运营。这段经历成为他日后反复警示「杠杆与流动性风险」的切身教训。",
+    "summary_en": "After back-to-back losses of about 32% in 1973 and 31% in 1974, Munger wound down Wheeler, Munger & Co. in 1975 and shifted focus to Blue Chip Stamps and Wesco Financial.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "熊市",
+      "清盘",
+      "教训"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1978-berkshire-vice-chairman",
+    "person_id": "munger",
+    "date": "1978-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "出任伯克希尔·哈撒韦副董事长",
+    "title_en": "Becomes Vice Chairman of Berkshire Hathaway",
+    "summary": "1978 年，随着 Diversified Retailing 与 Blue Chip Stamps 等公司逐步并入伯克希尔·哈撒韦的版图，芒格正式加入伯克希尔董事会并出任副董事长。这一角色他担任了长达 45 年，直到去世。作为巴菲特最重要的智囊，芒格推动伯克希尔从「用便宜价格买平庸公司」转向「用合理价格买卓越公司」，彻底改变了公司的投资哲学与长期业绩。",
+    "summary_en": "In 1978 Munger formally joined the Berkshire Hathaway board as Vice Chairman, a role he held for 45 years until his death. He famously pushed Buffett from buying \"cigar butts\" to buying wonderful businesses at fair prices.",
+    "location": "Omaha, Nebraska",
+    "key": true,
+    "tags": [
+      "伯克希尔",
+      "副董事长",
+      "巴菲特"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "berkshire-letters",
+        "url": "https://www.berkshirehathaway.com/letters/letters.html",
+        "kind": "document",
+        "title": "Berkshire Hathaway Shareholder Letters",
+        "publisher": "Berkshire Hathaway",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-berkshire-2023-annual",
+        "url": "https://www.youtube.com/watch?v=UKw_NjWtg5w",
+        "kind": "video",
+        "title": "Warren Buffett and Charlie Munger at the 2023 Berkshire Hathaway Annual Meeting",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2023 年伯克希尔年会（芒格最后一次出席）——45 年副董事长生涯的最好代表。CNBC 官方转播。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1984-wesco-chairman",
+    "person_id": "munger",
+    "date": "1984-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "出任 Wesco Financial 董事长",
+    "title_en": "Becomes Chairman of Wesco Financial",
+    "summary": "1984 年芒格出任 Wesco Financial Corporation 董事长，该公司是伯克希尔通过 Blue Chip Stamps 控股的子公司。在芒格领导下，Wesco 旗下的 See's Candies、Precision Steel、Kansas Bankers Surety 以及 CORT Business Services 等业务持续发展。Wesco 年报中芒格亲笔撰写的董事长信件，成为投资界与伯克希尔股东信齐名的智慧资源，直到 2011 年 Wesco 完全并入伯克希尔。",
+    "summary_en": "In 1984 Munger became Chairman of Wesco Financial, a Berkshire subsidiary. His annual chairman's letters and Wesco shareholder meetings became revered sources of investing and life wisdom.",
+    "location": "Pasadena, CA",
+    "key": true,
+    "tags": [
+      "Wesco",
+      "董事长"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-wesco",
+        "url": "https://en.wikipedia.org/wiki/Wesco_Financial",
+        "kind": "article",
+        "title": "Wesco Financial (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-daily-journal-2023",
+        "url": "https://www.youtube.com/watch?v=9VVPO3KWj3A",
+        "kind": "video",
+        "title": "Charlie Munger at Daily Journal Shareholders Meeting 2/15/2023",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2023 年 Daily Journal 股东会——Daily Journal 是 Wesco 年会精神的直接继承者。CNBC 官方转播。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-1994-04-14-usc-worldly-wisdom",
+    "person_id": "munger",
+    "date": "1994-04-14",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "USC 商学院演讲《论基本的、普世的智慧》",
+    "title_en": "\"A Lesson on Elementary, Worldly Wisdom\" at USC Marshall School of Business",
+    "summary": "1994 年 4 月 14 日，芒格应邀在南加州大学马歇尔商学院发表了日后被广泛传播的演讲《论基本的、普世的智慧》（A Lesson on Elementary, Worldly Wisdom, As It Relates to Investment Management and Business）。在这场演讲中，芒格首次系统地阐述了「心智模型格栅」（latticework of mental models）理论——即投资者必须掌握来自数学、物理学、生物学、心理学和经济学等多学科的关键模型，才能做出真正优秀的判断。这篇演讲后来被收入《穷查理宝典》，成为芒格思想的标志性文本。",
+    "summary_en": "On April 14, 1994, Munger delivered 'A Lesson on Elementary, Worldly Wisdom' at USC's Marshall School of Business, introducing his famous 'latticework of mental models' framework — the idea that investors need key models from mathematics, physics, biology, psychology, and economics to make superior decisions. It became one of his most influential and widely-read speeches.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "心智模型",
+      "USC",
+      "跨学科"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "poor-charlies-almanack",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Full text published in Outstanding Investor Digest (1994) and Poor Charlie's Almanack"
+  },
+  {
+    "id": "munger-1995-06-13-harvard-school-speech",
+    "person_id": "munger",
+    "date": "1995-06-13",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Harvard School 毕业演讲《如何保证悲惨的一生》",
+    "title_en": "Harvard School commencement: \"How to Guarantee a Life of Misery\"",
+    "summary": "1995 年 6 月 13 日，芒格在洛杉矶 Harvard School 毕业典礼上发表了著名的反向演讲《如何保证一生的悲惨》。他用反讽的方式列出了保证人生失败的几条「良方」：依赖化学物质成瘾、嫉妒、怨恨、不可靠、只从亲身经验中学习、屡战屡败仍不放弃。这篇演讲后来被收录进《穷查理宝典》，成为芒格「反向思考」哲学的经典之作。",
+    "summary_en": "On June 13, 1995, Munger delivered his famous \"How to Guarantee a Life of Misery\" inversion speech at Harvard School in Los Angeles, listing surefire prescriptions for failure — later anthologized in Poor Charlie's Almanack.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "反向思考",
+      "穷查理宝典"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "poor-charlies-almanack",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-psychology-misjudgement",
+        "url": "https://www.youtube.com/watch?v=pqzcCfUglws",
+        "kind": "video",
+        "title": "The Psychology of Human Misjudgement - Charlie Munger Full Speech",
+        "publisher": "BuffettMungerWisdom (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Date sometimes given as 1986; 1995 is the most cited"
+  },
+  {
+    "id": "munger-1998-great-financial-scandal",
+    "person_id": "munger",
+    "date": "1998-01-01",
+    "date_precision": "year",
+    "type": "speech",
+    "title": "预言式演讲《2003 年的大金融丑闻》",
+    "title_en": "\"The Great Financial Scandal of 2003\" — prescient speech on accounting fraud",
+    "summary": "1998 年，芒格在 Wesco 股东大会上发表了一篇虚构预言式演讲《2003 年的大金融丑闻》（The Great Financial Scandal of 2003），以讽刺寓言的方式描绘了一家虚构公司如何通过期权会计、收入操纵和养老金假设等手段制造虚假利润——而审计师和监管机构对此视而不见。令人震惊的是，这些情节在几年后的安然（Enron）、世通（WorldCom）和泰科（Tyco）等丑闻中一一应验。这篇演讲展示了芒格对制度性激励扭曲的深刻洞察，后被收入《穷查理宝典》。",
+    "summary_en": "In 1998, Munger delivered the fictional/prophetic speech 'The Great Financial Scandal of 2003' at a Wesco meeting, vividly predicting how companies would abuse stock-option accounting, revenue manipulation, and pension assumptions. The scenarios eerily foreshadowed the Enron, WorldCom, and Tyco scandals that erupted years later.",
+    "location": "Pasadena, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "预言",
+      "会计欺诈",
+      "Wesco"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "poor-charlies-almanack",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Published in Poor Charlie's Almanack; also circulated via Outstanding Investor Digest"
+  },
+  {
+    "id": "munger-1998-gen-re",
+    "person_id": "munger",
+    "date": "1998-12-21",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "参与伯克希尔以 220 亿美元收购 General Re",
+    "title_en": "Berkshire acquires General Re for $22 billion with Munger's counsel",
+    "summary": "1998 年 12 月，伯克希尔·哈撒韦以约 220 亿美元完成了对再保险巨头 General Re 的收购。这是伯克希尔历史上最大的一笔交易，芒格在决策中发挥了关键顾问作用。收购初期 Gen Re 暴露出严重的衍生品敞口和承保纪律缺失，芒格后来将衍生品称为「金融大规模杀伤性武器」——这一判断在 2008 年金融危机中得到印证。经过多年整顿，Gen Re 最终成为伯克希尔再保险帝国的基石之一。",
+    "summary_en": "In December 1998, Berkshire Hathaway completed its $22 billion acquisition of General Re, its largest deal ever. Munger played a key advisory role. The early struggles with Gen Re's derivatives book led Munger to call derivatives 'financial weapons of mass destruction.' After years of restructuring, Gen Re became a cornerstone of Berkshire's reinsurance empire.",
+    "location": "Stamford, CT",
+    "key": false,
+    "tags": [
+      "Gen Re",
+      "再保险",
+      "衍生品",
+      "伯克希尔"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-gen-re",
+        "url": "https://en.wikipedia.org/wiki/General_Re",
+        "kind": "article",
+        "title": "General Re (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Buffett's 1998 annual letter discusses the deal at length"
+  },
+  {
+    "id": "munger-2003-10-03-academic-economics",
+    "person_id": "munger",
+    "date": "2003-10-03",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "UCSB 演讲《学术经济学：优势与缺陷》",
+    "title_en": "\"Academic Economics: Strengths and Faults\" speech at UC Santa Barbara",
+    "summary": "2003 年 10 月 3 日，芒格在加州大学圣巴巴拉分校 Herbert Simon 经济学讲座上发表了《学术经济学：在考虑了跨学科需求之后谈其优势与缺陷》。他尖锐批评主流经济学过度依赖数学模型、忽视心理学偏差、排斥其他学科的洞见，并以可口可乐的成功为案例展示了多学科思维的力量。他提出的核心观点——「软科学中的嫉妒/领地心理」是阻碍学术进步的一大恶因——引发了经济学界的广泛讨论。该演讲被收入《穷查理宝典》。",
+    "summary_en": "On October 3, 2003, Munger delivered 'Academic Economics: Strengths and Faults After Considering Interdisciplinary Needs' at UCSB's Herbert Simon lecture series. He criticized mainstream economics for over-reliance on mathematical models, ignoring psychological biases, and rejecting insights from other disciplines. The speech was collected in Poor Charlie's Almanack.",
+    "location": "Santa Barbara, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "经济学",
+      "跨学科",
+      "UCSB"
+    ],
+    "sources": [
+      {
+        "id": "poor-charlies-almanack",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Herb Simon Memorial Lecture at UCSB Economics Dept; full text in Poor Charlie's Almanack"
+  },
+  {
+    "id": "munger-2005-poor-charlies-almanack",
+    "person_id": "munger",
+    "date": "2005-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "《穷查理宝典》正式出版",
+    "title_en": "Poor Charlie's Almanack published",
+    "summary": "由 Peter Kaufman 编辑、芒格本人参与审定的《Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger》于 2005 年由 Donning Company 正式出版（此前 2003 年曾以限量版面世）。书中汇集了芒格的演讲、采访、人生哲学以及他著名的「心智模型」清单和「人类误判心理学」演讲。该书迅速成为价值投资者和跨学科思考者的圣经，在中文世界的影响力尤为深远。",
+    "summary_en": "Edited by Peter Kaufman, Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger was formally published in 2005 (after a 2003 limited edition), collecting Munger's speeches and his famous \"Psychology of Human Misjudgment\" talk.",
+    "location": "USA",
+    "key": true,
+    "tags": [
+      "著作",
+      "穷查理宝典",
+      "心智模型"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-poor-charlies",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-caltech-2008",
+        "url": "https://www.youtube.com/watch?v=4ibabROYccs",
+        "kind": "video",
+        "title": "Charlie Munger - Caltech 2008 DuBridge Distinguished Lecture",
+        "publisher": "alexjusty (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Caltech 2008 年 DuBridge 讲座，芒格系统阐述心智模型和跨学科思维——这正是《穷查理宝典》的核心主题。"
+      }
+    ],
+    "source_hints": "Limited 2003 edition; trade edition 2005; expanded editions 2006, 2023"
+  },
+  {
+    "id": "munger-2007-psychology-misjudgment-harvard",
+    "person_id": "munger",
+    "date": "2007-01-01",
+    "date_precision": "year",
+    "type": "speech",
+    "title": "哈佛大学更新版《人类误判心理学》演讲",
+    "title_en": "Updated \"Psychology of Human Misjudgment\" talk at Harvard",
+    "summary": "芒格最初于 1995 年在哈佛法学院发表了《人类误判心理学》演讲，列出了 20 种常见的认知偏差。2005-2007 年间，他将清单扩展至 25 种心理倾向，并以更新版发表于哈佛等场合，同时收录入《穷查理宝典》扩展版。这份清单涵盖了「激励超级反应」「喜欢/厌恶倾向」「社会认同」「对比错误反应」「压力影响」等系统性心理偏差，是芒格对行为经济学最重要的贡献之一，也成为全球投资者和管理者的必读材料。",
+    "summary_en": "Munger originally delivered 'The Psychology of Human Misjudgment' at Harvard Law School in 1995, listing 20 cognitive biases. He expanded it to 25 tendencies and re-delivered the updated version circa 2005-2007, including at Harvard. The expanded talk — covering incentive super-response, social proof, contrast misreaction, and stress-influence tendencies — became one of his most widely studied contributions.",
+    "location": "Cambridge, MA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "心理学",
+      "认知偏差",
+      "哈佛"
+    ],
+    "sources": [
+      {
+        "id": "youtube-munger-psychology-misjudgement",
+        "url": "https://www.youtube.com/watch?v=pqzcCfUglws",
+        "kind": "video",
+        "title": "The Psychology of Human Misjudgement - Charlie Munger Full Speech",
+        "publisher": "BuffettMungerWisdom (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "poor-charlies-almanack",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "The 25-tendency version is the canonical one in Poor Charlie's Almanack (2005/2006 editions)"
+  },
+  {
+    "id": "munger-2007-05-13-usc-law-speech",
+    "person_id": "munger",
+    "date": "2007-05-13",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "南加州大学法学院毕业演讲",
+    "title_en": "USC Gould School of Law commencement speech",
+    "summary": "2007 年 5 月 13 日，芒格在南加州大学（USC）法学院毕业典礼上发表了被广泛传颂的演讲。他强调「获得智慧是一种道德义务」，倡导终身学习、跨学科思维、避免嫉妒与怨恨，以及最重要的——「想要被信任，就要值得被信任」。这场演讲被誉为芒格最完整阐述其人生哲学的一次，后来被作为《穷查理宝典》新版的核心章节。",
+    "summary_en": "On May 13, 2007, Munger delivered his celebrated USC Gould School of Law commencement address, urging graduates to acquire wisdom as a moral duty and to \"be trustworthy\" as the surest path to a good life.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "USC",
+      "经典",
+      "智慧"
+    ],
+    "sources": [
+      {
+        "id": "genius-usc-2007",
+        "url": "https://genius.com/Charlie-munger-usc-law-commencement-speech-annotated",
+        "kind": "transcript",
+        "title": "Charlie Munger – USC Law Commencement Speech (Annotated)",
+        "publisher": "Genius",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=L6Cy7UwsRPQ"
+      },
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-usc-law-2007",
+        "url": "https://www.youtube.com/watch?v=jY1eNlL6NKs",
+        "kind": "video",
+        "title": "Charlie Munger USC Law Commencement Speech - May 2007 (Complete)",
+        "publisher": "Phil Smy (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2008-09-byd-investment",
+    "person_id": "munger",
+    "date": "2008-09-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "力主投资比亚迪（BYD）——芒格最重要的独立推荐",
+    "title_en": "Championing the BYD investment — Munger's most important independent recommendation",
+    "summary": "2008 年 9 月，在芒格的强烈推荐下，伯克希尔通过 MidAmerican Energy 以约 2.3 亿美元购入中国比亚迪（BYD）约 10% 的股份。芒格在参观 BYD 深圳工厂并会见创始人王传福后，将其评价为「爱迪生与杰克·韦尔奇的结合体」。这笔投资到 2020 年代增值超过 30 倍，成为伯克希尔最成功的投资之一。BYD 交易也标志着芒格对中国市场的长期看好，他后来多次公开表示中国拥有全球最好的发展前景。",
+    "summary_en": "In September 2008, on Munger's strong recommendation, Berkshire's MidAmerican Energy invested ~$230 million for a ~10% stake in China's BYD. After visiting BYD's Shenzhen factory and meeting founder Wang Chuanfu — whom Munger called 'a combination of Thomas Edison and Jack Welch' — the investment grew over 30x, becoming one of Berkshire's most successful bets.",
+    "location": "Shenzhen, China / Omaha, NE",
+    "key": true,
+    "tags": [
+      "BYD",
+      "比亚迪",
+      "中国",
+      "电动车",
+      "投资"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-byd",
+        "url": "https://en.wikipedia.org/wiki/BYD_Company",
+        "kind": "article",
+        "title": "BYD Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Buffett's 2008 annual letter; extensive CNBC coverage"
+  },
+  {
+    "id": "munger-2008-12-caltech-dubridge",
+    "person_id": "munger",
+    "date": "2008-12-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "加州理工学院 DuBridge 杰出讲座：论金融危机的成因",
+    "title_en": "Caltech DuBridge Distinguished Lecture on the causes of the financial crisis",
+    "summary": "2008 年 12 月，正值全球金融危机最严重之际，芒格受邀在加州理工学院发表 Lee A. DuBridge 杰出讲座。他深入剖析了导致危机的系统性原因：激励错位的衍生品交易、监管套利、信用评级机构的利益冲突、以及华尔街的「赌场化」文化。芒格将这场危机比作「下水道的溢出」——长期积累的不当行为终于溃堤。他呼吁恢复银行业的「工程文化」和「安全边际」思维，展示了他作为多学科思考者在实时危机中的洞察力。",
+    "summary_en": "In December 2008, amid the worst of the financial crisis, Munger gave the DuBridge Distinguished Lecture at Caltech. He dissected the systemic causes — misaligned derivatives incentives, regulatory arbitrage, conflicted rating agencies, and Wall Street's casino culture — calling for a return to engineering-style safety margins in banking.",
+    "location": "Pasadena, CA",
+    "key": true,
+    "tags": [
+      "演讲",
+      "金融危机",
+      "Caltech",
+      "衍生品"
+    ],
+    "sources": [
+      {
+        "id": "youtube-munger-caltech-2008",
+        "url": "https://www.youtube.com/watch?v=4ibabROYccs",
+        "kind": "video",
+        "title": "Charlie Munger - Caltech 2008 DuBridge Distinguished Lecture",
+        "publisher": "alexjusty (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2010-bbc-hardtalk",
+    "person_id": "munger",
+    "date": "2010-01-01",
+    "date_precision": "year",
+    "type": "interview",
+    "title": "BBC HARDtalk 专访：论金融危机后的资本主义",
+    "title_en": "BBC HARDtalk interview: on capitalism after the financial crisis",
+    "summary": "2010 年芒格接受了 BBC HARDtalk 节目的深度专访，这是他少有的对欧洲媒体的公开对话。在采访中，他坦率地批评了华尔街的贪婪文化和政客的短视行为，但同时为资本主义辩护，认为问题不在于制度本身而在于人性弱点的放大。他用招牌式的尖锐幽默和历史类比回应了主持人关于不平等、银行救助和监管的尖锐提问，展现了他在公共讨论中罕见的直率与深度。",
+    "summary_en": "In 2010 Munger gave a rare in-depth interview on BBC HARDtalk, candidly criticizing Wall Street greed and political short-termism while defending capitalism as a system. He deployed his trademark sharp humor and historical analogies to address inequality, bank bailouts, and regulation.",
+    "location": "London / Los Angeles",
+    "key": false,
+    "tags": [
+      "采访",
+      "BBC",
+      "金融危机",
+      "资本主义"
+    ],
+    "sources": [],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2010-nancy-death",
+    "person_id": "munger",
+    "date": "2010-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "妻子 Nancy Munger 去世",
+    "title_en": "Wife Nancy Munger dies",
+    "summary": "2010 年，芒格相伴 54 年的第二任妻子 Nancy Barry Borthwick Munger 去世。Nancy 是芒格背后最重要的支持者之一，两人自 1956 年结婚以来共同养育了八个孩子（包括 Nancy 带来的两个儿子和两人共同生育的四个孩子）。芒格在此后的公开场合中很少提及这段丧偶之痛，但其一贯的斯多葛态度——「承受你必须承受的，继续前行」——在此时得到了最私密的检验。",
+    "summary_en": "In 2010, Munger's second wife Nancy Barry Borthwick Munger died after 54 years of marriage. Together they had raised eight children. Munger rarely spoke publicly about this loss, embodying his stoic philosophy of enduring what must be endured.",
+    "location": "Los Angeles, CA",
+    "key": false,
+    "tags": [
+      "家庭",
+      "丧妻"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2011-wesco-merger",
+    "person_id": "munger",
+    "date": "2011-06-24",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Wesco Financial 完全并入伯克希尔·哈撒韦",
+    "title_en": "Wesco Financial fully merged into Berkshire Hathaway",
+    "summary": "2011 年 6 月，伯克希尔·哈撒韦完成了对 Wesco Financial 剩余约 19.9% 股份的收购，Wesco 正式成为伯克希尔的全资子公司，芒格主持了将近三十年的 Wesco 年会就此落幕。这一传统并未消失——芒格随后将类似的问答会迁移到他另一家担任董事长的公司 Daily Journal 上，从 2014 年起开启了「每日期刊年会」的新阶段。",
+    "summary_en": "In June 2011 Berkshire Hathaway acquired the remaining ~19.9% of Wesco Financial it didn't already own, fully absorbing Wesco. Munger's Wesco annual meetings ended after nearly three decades.",
+    "location": "Pasadena, CA",
+    "key": true,
+    "tags": [
+      "Wesco",
+      "并购",
+      "伯克希尔"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-wesco-2",
+        "url": "https://en.wikipedia.org/wiki/Wesco_Financial",
+        "kind": "article",
+        "title": "Wesco Financial (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Merger announced Feb 2011, closed June 2011"
+  },
+  {
+    "id": "munger-2014-daily-journal-chairman",
+    "person_id": "munger",
+    "date": "2014-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "Daily Journal 年会成为芒格智慧的新舞台",
+    "title_en": "Daily Journal annual meetings become Munger's new wisdom platform",
+    "summary": "Wesco Financial 于 2011 年并入伯克希尔后，芒格失去了每年独立主持股东问答会的平台。从 2014 年起，他将这一传统转移到他自 1977 年即担任董事长的 Daily Journal Corporation 年会上。每年二月，数百名投资者和芒格追随者涌入洛杉矶参加 Daily Journal 年会，聆听芒格长达数小时的即兴问答。这些年会覆盖投资、政治、人生哲学、中国、科技等广泛主题，成为继 Wesco 年会之后「朝圣」芒格智慧的核心场所。",
+    "summary_en": "After the Wesco merger in 2011, Munger shifted his annual Q&A tradition to the Daily Journal Corporation, where he had served as chairman since 1977. Starting around 2014, the Daily Journal annual meeting became a pilgrimage for hundreds of investors eager to hear Munger's multi-hour extemporaneous sessions on investing, life, China, and technology.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "Daily Journal",
+      "年会",
+      "问答"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-daily-journal",
+        "url": "https://en.wikipedia.org/wiki/Daily_Journal_Corporation",
+        "kind": "article",
+        "title": "Daily Journal Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-daily-journal-2017",
+        "url": "https://www.youtube.com/watch?v=BLctqhNClqY",
+        "kind": "video",
+        "title": "Charlie Munger speaks at the Daily Journal annual meeting (2017)",
+        "publisher": "Laixin Wei (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2017 年 Daily Journal 年会全程录像——典型的芒格式多小时问答。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2019-cnbc-interview",
+    "person_id": "munger",
+    "date": "2019-01-01",
+    "date_precision": "year",
+    "type": "interview",
+    "title": "CNBC 深度专访：论投资、中国与人生",
+    "title_en": "CNBC in-depth interview: on investing, China, and life",
+    "summary": "2019 年，95 岁的芒格接受了 CNBC 的一次长时间深度访谈，涵盖他对中美关系、科技公司估值泡沫、加密货币（他称之为「老鼠药」）、指数基金的看法，以及他对漫长人生中积累的智慧的总结。在这次采访中，芒格罕见地回忆了早年的苦难经历——包括丧子之痛和投资失利——以及这些经历如何塑造了他的韧性和哲学。这次访谈被视为芒格晚年最完整的公开自传式对话之一。",
+    "summary_en": "In 2019, the 95-year-old Munger sat for an extensive CNBC interview covering U.S.-China relations, tech valuations, cryptocurrency ('rat poison'), index funds, and personal reflections on tragedy and resilience. It was one of his most comprehensive late-career autobiographical conversations.",
+    "location": "Los Angeles, CA",
+    "key": false,
+    "tags": [
+      "采访",
+      "CNBC",
+      "中国",
+      "加密货币"
+    ],
+    "sources": [],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2020-02-12-daily-journal-covid",
+    "person_id": "munger",
+    "date": "2020-02-12",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "2020 年 Daily Journal 年会——疫情前最后一次线下会议",
+    "title_en": "2020 Daily Journal annual meeting — last in-person meeting before COVID",
+    "summary": "2020 年 2 月 12 日，芒格主持了 Daily Journal 年度股东大会。这是 COVID-19 大流行前的最后一次线下年会（2021 年改为线上举行）。96 岁的芒格在会上讨论了伯克希尔的航空业投资（后在疫情中全部清仓）、对 Costco 的长期看好、中国经济前景，以及他对「社交媒体正在毒害年轻人思维」的警告。当被问及长寿的秘诀时，他的回答一如既往地简洁：「不嫉妒、不怨恨、不超支、面对困难保持微笑、与可靠的人交往，以及做自己应该做的事。」",
+    "summary_en": "On February 12, 2020, Munger chaired the Daily Journal annual meeting — the last in-person session before COVID forced the 2021 meeting online. The 96-year-old discussed Berkshire's airline investments (later sold), Costco, China's outlook, and warned about social media poisoning young minds. When asked about longevity, he quipped: 'Don't be envious, don't be resentful, don't overspend, keep smiling, deal with reliable people, and do what you're supposed to do.'",
+    "location": "Los Angeles, CA",
+    "key": false,
+    "tags": [
+      "Daily Journal",
+      "年会",
+      "COVID"
+    ],
+    "sources": [],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2021-ucsb-dormitory",
+    "person_id": "munger",
+    "date": "2021-10-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "UCSB 巨型宿舍楼设计引发争议",
+    "title_en": "Munger's controversial UCSB mega-dormitory design",
+    "summary": "2021 年 10 月，芒格向加州大学圣巴巴拉分校（UCSB）捐赠 2 亿美元并亲自设计了一座可容纳 4500 名学生的 11 层巨型宿舍楼 Munger Hall。设计的最大争议在于：绝大多数卧室没有窗户，取而代之的是人工照明和通风系统。UCSB 设计审查委员会顾问建筑师 Dennis McFadden 以「前所未有的建筑密度对学生心理健康的潜在危害」为由公开辞职抗议。芒格坚持认为无窗设计可以促进社交互动、降低建造成本，并引用了他在邮轮内舱房间的舒适体验作为论据。该项目引发了建筑界、教育界和公众的广泛讨论。",
+    "summary_en": "In October 2021, Munger donated $200 million to UCSB and personally designed Munger Hall, a massive 11-story dormitory for 4,500 students. The design was highly controversial: most bedrooms had no windows. UCSB's consulting architect resigned in protest, citing mental health concerns. Munger defended the windowless design as promoting social interaction and cost efficiency, comparing rooms to cruise-ship cabins.",
+    "location": "Santa Barbara, CA",
+    "key": false,
+    "tags": [
+      "UCSB",
+      "建筑",
+      "争议",
+      "捐赠"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-munger-hall",
+        "url": "https://en.wikipedia.org/wiki/Munger_Hall",
+        "kind": "article",
+        "title": "Munger Hall (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "Dennis McFadden resignation letter widely covered; Munger responded in several interviews"
+  },
+  {
+    "id": "munger-2023-02-15-last-daily-journal",
+    "person_id": "munger",
+    "date": "2023-02-15",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "最后一次 Daily Journal 年度股东大会",
+    "title_en": "Final Daily Journal annual meeting",
+    "summary": "2023 年 2 月 15 日，99 岁的芒格主持了他最后一次 Daily Journal 年度股东大会。在超过两小时的问答中，他谈到了人工智能（持谨慎乐观态度）、中国投资前景、通胀预期、加密货币（重申「老鼠药」立场）、以及他对年轻人的忠告：「降低期望值是获得幸福的最佳途径之一。」这场年会吸引了来自全球的数百名投资者到场，许多人将其视为「最后的朝圣」。九个月后芒格辞世，这场年会成为他公开主持的最后一次大型投资者问答活动。",
+    "summary_en": "On February 15, 2023, the 99-year-old Munger chaired his final Daily Journal annual meeting. Over two hours of Q&A, he addressed AI (cautiously optimistic), China investing, inflation, crypto ('rat poison squared'), and life advice: 'Lowering your expectations is one of the best ways to be happy.' Hundreds attended from around the world. Munger died nine months later, making this his last major public investor Q&A.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "Daily Journal",
+      "最后一次",
+      "年会",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-munger-daily-journal-2023",
+        "url": "https://www.youtube.com/watch?v=9VVPO3KWj3A",
+        "kind": "video",
+        "title": "Charlie Munger at Daily Journal Shareholders Meeting 2/15/2023",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "CNBC 官方转播芒格最后一次 Daily Journal 股东年会全程。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2023-05-06-last-berkshire-meeting",
+    "person_id": "munger",
+    "date": "2023-05-06",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "最后一次出席伯克希尔·哈撒韦年度股东大会",
+    "title_en": "Final appearance at Berkshire Hathaway annual meeting",
+    "summary": "2023 年 5 月 6 日，99 岁的芒格最后一次与巴菲特并肩出席在奥马哈举行的伯克希尔·哈撒韦年度股东大会。在长达五小时的问答中，芒格以一贯的犀利风格点评了银行业危机（硅谷银行倒闭后）、商业地产风险、AI 的局限性，以及他对投资中「耐心」的再次强调。当被问及伯克希尔的未来时，巴菲特深情地称赞了芒格六十多年来的贡献，而芒格则以「我没什么要补充的」作为标志性回应。这场年会吸引了约四万名股东到场，许多人意识到这可能是两位传奇最后一次同台。",
+    "summary_en": "On May 6, 2023, the 99-year-old Munger made his final appearance alongside Buffett at the Berkshire Hathaway annual meeting in Omaha. During the five-hour Q&A, he commented on the banking crisis, commercial real estate risks, AI limitations, and patience in investing. Buffett praised Munger's 60+ year contributions; Munger responded with his trademark 'I have nothing to add.' About 40,000 shareholders attended what many sensed would be their last joint appearance.",
+    "location": "Omaha, Nebraska",
+    "key": true,
+    "tags": [
+      "伯克希尔",
+      "最后一次",
+      "巴菲特",
+      "年会"
+    ],
+    "sources": [
+      {
+        "id": "youtube-berkshire-2023-annual",
+        "url": "https://www.youtube.com/watch?v=UKw_NjWtg5w",
+        "kind": "video",
+        "title": "Warren Buffett and Charlie Munger at the 2023 Berkshire Hathaway Annual Meeting",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2023 年伯克希尔年会（芒格最后一次出席）——CNBC 官方全程转播。"
+      },
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2023-11-14-final-cnbc-interview",
+    "person_id": "munger",
+    "date": "2023-11-14",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "最后一次公开采访——CNBC 独家专访",
+    "title_en": "Final public interview — CNBC exclusive, 14 days before death",
+    "summary": "2023 年 11 月 14 日，距离去世仅 14 天，芒格录制了他的最后一次公开采访——CNBC 的独家长篇专访。在这次采访中，年近百岁的芒格头脑依然清晰，讨论了伯克希尔的未来继任计划（对 Greg Abel 表达了充分信心）、他对投资中「耐心」的毕生信仰、对加密货币和 ESG 投资的批评，以及他对「过好一生」的最终建议：保持理性、终身学习、与好人为伍。这次采访在芒格去世后被 CNBC 作为纪念特别节目播出，被广泛视为一位伟大思想家的「遗言」。",
+    "summary_en": "On November 14, 2023 — just 14 days before his death — Munger recorded his final public interview with CNBC. Sharp as ever at nearly 100, he discussed Berkshire's succession (confidence in Greg Abel), his lifelong belief in patience, criticism of crypto and ESG investing, and final life advice: stay rational, never stop learning, and associate with good people. CNBC aired it as a memorial special after his passing.",
+    "location": "Los Angeles, CA",
+    "key": true,
+    "tags": [
+      "采访",
+      "CNBC",
+      "最后一次",
+      "遗言"
+    ],
+    "sources": [
+      {
+        "id": "youtube-munger-final-interview-cnbc",
+        "url": "https://www.youtube.com/watch?v=H5Oom5Rjp_Y",
+        "kind": "video",
+        "title": "Watch Legendary Investor Charlie Munger's Final Interview With CNBC",
+        "publisher": "CNBC (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "CNBC 纪念特别节目——芒格 2023 年 11 月 14 日录制的最后一次采访。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2023-11-28-death",
+    "person_id": "munger",
+    "date": "2023-11-28",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在加州 Santa Barbara 去世，享年 99 岁",
+    "title_en": "Dies at 99 in Santa Barbara, California",
+    "summary": "2023 年 11 月 28 日，距离他 100 岁生日仅 34 天，查理·芒格在加州 Santa Barbara 的一家医院安然辞世。伯克希尔·哈撒韦当日发布声明，巴菲特表示：「如果没有查理的灵感、智慧和参与，伯克希尔不可能达到今天的地位。」芒格留下八个子女、孙辈与曾孙辈，以及一份长达六十余年的合作伙伴遗产——以多学科思维、理性与正直为核心的「芒格主义」，将继续影响一代又一代投资者与思考者。",
+    "summary_en": "Charlie Munger died on November 28, 2023, at a hospital in Santa Barbara, California, just 34 days short of his 100th birthday. Berkshire Hathaway announced his death the same day; Buffett said Berkshire \"could not have been built to its present status without Charlie's inspiration, wisdom and participation.\"",
+    "location": "Santa Barbara, CA",
+    "key": true,
+    "tags": [
+      "逝世",
+      "纪念"
+    ],
+    "sources": [
+      {
+        "id": "berkshire-press-release-munger-death",
+        "url": "https://www.berkshirehathaway.com/news/nov2823.pdf",
+        "kind": "document",
+        "title": "Berkshire Hathaway Press Release on Charlie Munger's Death",
+        "publisher": "Berkshire Hathaway",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-munger-bio",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+        "kind": "article",
+        "title": "Charlie Munger (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-munger-final-interview-cnbc",
+        "url": "https://www.youtube.com/watch?v=H5Oom5Rjp_Y",
+        "kind": "video",
+        "title": "Watch Legendary Investor Charlie Munger's Final Interview With CNBC",
+        "publisher": "CNBC (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "CNBC 纪念特别节目。芒格 2023 年 11 月 14 日录制的最后一次采访，距他去世仅 14 天。"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "munger-2023-12-poor-charlies-final-edition",
+    "person_id": "munger",
+    "date": "2023-12-05",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "《穷查理宝典》最终扩展版出版（Stripe Press）",
+    "title_en": "Poor Charlie's Almanack final expanded edition published by Stripe Press",
+    "summary": "2023 年 12 月 5 日——芒格去世仅一周后——由 Stripe Press 出版的《穷查理宝典》全新扩展版正式面世。这一版本由芒格生前参与审定，新增了他 2007 年以来的多篇演讲和采访文本，以及 Peter Kaufman 的全新导言。Stripe Press 创始人 Patrick Collison（Stripe CEO）亲自推动了这一出版项目。新版以更精美的装帧和更完整的内容，成为芒格思想遗产的最终定本，首批印刷即被抢购一空。",
+    "summary_en": "On December 5, 2023 — just one week after Munger's death — Stripe Press published the final expanded edition of Poor Charlie's Almanack, which Munger had helped prepare before his passing. Edited by Peter Kaufman with new material from Munger's post-2007 speeches and interviews, and championed by Stripe CEO Patrick Collison, it became the definitive edition of Munger's intellectual legacy.",
+    "location": "USA",
+    "key": true,
+    "tags": [
+      "著作",
+      "穷查理宝典",
+      "Stripe Press"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-poor-charlies",
+        "url": "https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stripe-press-pca",
+        "url": "https://press.stripe.com/poor-charlies-almanack",
+        "kind": "article",
+        "title": "Poor Charlie's Almanack — Stripe Press",
+        "publisher": "Stripe Press",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=CRTxSAO7gg8"
+      }
+    ],
+    "source_hints": "Stripe Press edition; Patrick Collison announced via Twitter/X"
+  }
+]
