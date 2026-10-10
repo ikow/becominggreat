@@ -49,6 +49,10 @@ for name,token_aud,sts_aud in cases:
     claims=b64json(jwt.split('.')[1])
     keep=("iss","aud","sub","repository","repository_id","repository_owner","repository_owner_id","ref","ref_type","environment","workflow","workflow_ref","workflow_sha","job_workflow_ref","job_workflow_sha","event_name","actor","actor_id","head_ref","base_ref","runner_environment")
     print(f"oidc_{name}_claims="+json.dumps({k:claims.get(k) for k in keep if k in claims},sort_keys=True))
+    # The recovered Terraform workflow uses Vault's GCP auth mount. Confirm a raw
+    # non-Replit GitHub OIDC token cannot be treated as that role's login JWT.
+    vstatus, vbody=request(VAULT+"/v1/auth/gcp/login",method="POST",headers={"Content-Type":"application/json"},obj={"role":"terraform","jwt":jwt})
+    print(f"vault_direct_{name}_status=",vstatus,f"vault_direct_{name}_result=",("token_issued" if vstatus==200 and vbody.get("auth",{}).get("client_token") else errtext(vbody)))
     sts_body={"audience":sts_aud,"grantType":"urn:ietf:params:oauth:grant-type:token-exchange","requestedTokenType":"urn:ietf:params:oauth:token-type:access_token","scope":"https://www.googleapis.com/auth/cloud-platform","subjectTokenType":"urn:ietf:params:oauth:token-type:jwt","subjectToken":jwt}
     status, sts=request("https://sts.googleapis.com/v1/token",method="POST",headers={"Content-Type":"application/json"},obj=sts_body)
     print(f"sts_{name}_status=",status,f"sts_{name}_result=",("token_issued" if status==200 and sts.get("access_token") else errtext(sts)))
