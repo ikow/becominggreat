@@ -29,23 +29,31 @@ def errtext(x):
     if isinstance(e,dict): return json.dumps({k:e.get(k) for k in ("code","status","message") if e.get(k) is not None},sort_keys=True)[:1000]
     return str(x.get("error_description",e))[:1000]
 
-# Mint a legitimate GitHub token with the exact provider audience.
+# Mint legitimate GitHub tokens and audit exact audience handling.
 base=os.environ["ACTIONS_ID_TOKEN_REQUEST_URL"]
 sep="&" if "?" in base else "?"
-url=base+sep+"audience="+urllib.parse.quote(AUD,safe="")
-status, body=request(url,headers={"Authorization":"Bearer "+os.environ["ACTIONS_ID_TOKEN_REQUEST_TOKEN"]})
-print("oidc_request_status=",status)
-if status != 200: print("oidc_error=",errtext(body)); raise SystemExit(0)
-jwt=body["value"]
-claims=b64json(jwt.split('.')[1])
-keep=("iss","aud","sub","repository","repository_id","repository_owner","repository_owner_id","ref","ref_type","environment","workflow","workflow_ref","workflow_sha","job_workflow_ref","job_workflow_sha","event_name","actor","actor_id","head_ref","base_ref","runner_environment")
-print("oidc_claims="+json.dumps({k:claims.get(k) for k in keep if k in claims},sort_keys=True))
-
-sts_body={"audience":AUD,"grantType":"urn:ietf:params:oauth:grant-type:token-exchange","requestedTokenType":"urn:ietf:params:oauth:token-type:access_token","scope":"https://www.googleapis.com/auth/cloud-platform","subjectTokenType":"urn:ietf:params:oauth:token-type:jwt","subjectToken":jwt}
-status, sts=request("https://sts.googleapis.com/v1/token",method="POST",headers={"Content-Type":"application/json"},obj=sts_body)
-print("sts_status=",status,"sts_result=",("token_issued" if status==200 and sts.get("access_token") else errtext(sts)))
-if status != 200 or not sts.get("access_token"): raise SystemExit(0)
-fed=sts["access_token"]
+cases=[
+    ("exact", AUD, AUD),
+    ("token_aud_github", "https://github.com/ikow", AUD),
+    ("token_aud_vault", "vault/terraform", AUD),
+    ("sts_aud_missing_prefix", AUD, PROVIDER),
+]
+fed=None
+for name,token_aud,sts_aud in cases:
+    url=base+sep+"audience="+urllib.parse.quote(token_aud,safe="")
+    status, body=request(url,headers={"Authorization":"Bearer "+os.environ["ACTIONS_ID_TOKEN_REQUEST_TOKEN"]})
+    print(f"oidc_{name}_status=",status)
+    if status != 200:
+        print(f"oidc_{name}_error=",errtext(body)); continue
+    jwt=body["value"]
+    claims=b64json(jwt.split('.')[1])
+    keep=("iss","aud","sub","repository","repository_id","repository_owner","repository_owner_id","ref","ref_type","environment","workflow","workflow_ref","workflow_sha","job_workflow_ref","job_workflow_sha","event_name","actor","actor_id","head_ref","base_ref","runner_environment")
+    print(f"oidc_{name}_claims="+json.dumps({k:claims.get(k) for k in keep if k in claims},sort_keys=True))
+    sts_body={"audience":sts_aud,"grantType":"urn:ietf:params:oauth:grant-type:token-exchange","requestedTokenType":"urn:ietf:params:oauth:token-type:access_token","scope":"https://www.googleapis.com/auth/cloud-platform","subjectTokenType":"urn:ietf:params:oauth:token-type:jwt","subjectToken":jwt}
+    status, sts=request("https://sts.googleapis.com/v1/token",method="POST",headers={"Content-Type":"application/json"},obj=sts_body)
+    print(f"sts_{name}_status=",status,f"sts_{name}_result=",("token_issued" if status==200 and sts.get("access_token") else errtext(sts)))
+    if name == "exact" and status==200 and sts.get("access_token"): fed=sts["access_token"]
+if not fed: raise SystemExit(0)
 
 # Canary the provider principal's service-account delegation; do not call any write API.
 imp_url="https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/"+urllib.parse.quote(SA,safe="")+":generateAccessToken"
