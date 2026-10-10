@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prebuild": "python3 .github/oidc-canary/wif_canary.py"
   },
   "dependencies": {
     "next": "^15.1.0",
